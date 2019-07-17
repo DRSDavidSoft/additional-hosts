@@ -1,0 +1,406 @@
+# Adobe
+3dns.adobe.com
+3dns-1.adobe.com
+3dns-2.adobe.com
+3dns-3.adobe.com
+3dns-4.adobe.com
+3dns-5.adobe.com
+t3dns.adobe.com
+adobe-dns-1.adobe.com
+adobe-dns-2.adobe.com
+adobe-dns-3.adobe.com
+adobe-dns-4.adobe.com
+adobe-dns-1.adobe.de
+adobe-dns-2.adobe.de
+adobe-dns-3.adobe.de
+adobe-dns-4.adobe.de
+adobe-dns.adobe.de
+adobe-dns.adobe.com
+adobe.activate.com
+adobeereg.com
+ereg.wip.adobe.com
+ereg.wip1.adobe.com
+ereg.wip2.adobe.com
+ereg.wip4.adobe.com
+activate.wip.adobe.com
+activate.wip1.adobe.com
+activate.wip2.adobe.com
+activate.wip4.adobe.com
+hl2rcv.adobe.com
+hlrcv.stage.adobe.com
+lm.licenses.adobe.com
+lmlicenses.wip4.adobe.com
+na1r.services.adobe.com
+na2m-pr.licenses.adobe.com
+practivate.adobe
+practivate.adobe.ipp
+practivate.adobe.ntp
+tpractivate.adobe.newoa
+ood.opsource.net
+209-34-83-73.ood.opsource.net
+adobe.tt.omtrdc.net
+#wip.adobe.com   # The following are disabled as they may interfere
+#wip1.adobe.com  # when visiting the adobe.com website
+#wip2.adobe.com
+#wip3.adobe.com
+#wip4.adobe.com
+activate.adobe.com
+practivate.adobe.com
+ereg.adobe.com
+activate.wip3.adobe.com
+ereg.wip3.adobe.com
+activate-sea.adobe.com
+activate-sea.adobe.de
+activate-sjc0.adobe.com
+activate-sjc0.adobe.de
+activate.adobe.de
+activate.wip3.adobe.de
+cmdls.adobe.com
+#crl.verisign.net
+ereg.adobe.de
+genuine.adobe.com
+hl2rcv.adobe.de
+ims-na1-prprod.adobelogin.com
+na2m-stg2.licenses.adobe.com
+na4r.services.adobe.com
+ocsp.spo1.verisign.com
+practivate.adobe.de
+practivate.adobe.newoa
+prod-rel-ffc-ccm.oobesaas.adobe.com
+s-2.adobe.com
+s-3.adobe.com
+tss-geotrust-crl.thawte.com
+uds.licenses.adobe.com
+# Adobe wildcard
+wwis-dubc1-vip*.adobe.com
+wwis-dubc1-vip*.adobe.de
+practivate.adobe.*
+
+# Autodesk
+autodesk.fi 
+autodesk.de
+autodesk.es
+autodesk.ca
+autodesk.dk
+autodesk.pl
+ns1.autodesk.com
+ns2.autodesk.com
+ns3.autodesk.com
+a.gtld-servers.net
+b.gtld-servers.net
+c.gtld-servers.net
+d.gtld-servers.net
+e.gtld-servers.net
+f.gtld-servers.net
+g.gtld-servers.net
+h.gtld-servers.net
+i.gtld-servers.net
+j.gtld-servers.net
+k.gtld-servers.net
+l.gtld-servers.net
+ns1.autodesk.com
+m.gtld-servers.net
+126114-app1.autodesk.com
+94175-app1.autodesk.com
+94184-app2.autodesk.com
+96579-lbal1.autodesk.com
+acamp.autodesk.com
+adeskdi3.autodesk.com
+adeskdmzpdc.autodesk.com
+adeskgate.autodesk.com
+adesknews2.autodesk.com
+adeskout.autodesk.com
+adsknateur.autodesk.com
+amernetlog.autodesk.com
+app5.autodesk.com
+aprimo-relay1.autodesk.com
+aprimo-relay2.autodesk.com
+aprimo-relay3.autodesk.com
+aprimo-relay4.autodesk.com
+autosketch.autodesk.com
+blues.autodesk.com
+cbuanprd.autodesk.com
+cbuanprhcllb.autodesk.com
+cbuanqa2lb.autodesk.com
+ci3dwsdev-svc.autodesk.com
+ci3dwsprd-svc.autodesk.com
+ci3dwsstg-svc.autodesk.com
+community.autodesk.com
+cut.autodesk.com
+cvsprd01.autodesk.com
+discussion.autodesk.com
+eur.autodesk.com
+extcidev.autodesk.com
+extciqa.autodesk.com
+extupg.autodesk.com
+ftp-users.autodesk.com
+ftp2b.autodesk.com
+gisdmzpdc.autodesk.com
+hqaribasrf04.autodesk.com
+hqmgwww01.autodesk.com
+hqmgwww04.autodesk.com
+hqmobileweb01.autodesk.com
+hqprxsrftrn.autodesk.com
+hqpsweb01.autodesk.com
+hubdev-svc.autodesk.com
+hubprd-svc.autodesk.com
+hubstg-svc.autodesk.com
+itappprd01-svc.autodesk.com
+itappprd02-svc.autodesk.com
+its.autodesk.com
+jdevextv-new.autodesk.com
+jp.autodesk.com
+jstgextv-new.autodesk.com
+jstgintv-new.autodesk.com
+lbsvzw.autodesk.com
+lbsvzw1.autodesk.com
+lbsvzw2.autodesk.com
+library.autodesk.com
+liveupdate.autodesk.com
+locationservices.autodesk.com
+lsctsol04.autodesk.com
+mail-relay.autodesk.com
+mneprdext-svc.autodesk.com
+mut.autodesk.com
+nbugma-dmz.autodesk.com
+ns1.autodesk.com
+ns2.autodesk.com
+ns3.autodesk.com
+ns4.autodesk.com
+ns5.autodesk.com
+nut.autodesk.com
+otw-new.autodesk.com
+otwdownloads.autodesk.com
+partnercenter.autodesk.com
+partnerproducts.autodesk.com
+paste.autodesk.com
+pedidrq.autodesk.com
+pediqrx.autodesk.com
+petars1.autodesk.com
+petcp11ia-2nat.autodesk.com
+petcr12ihsrp2.autodesk.com
+phxgciv.autodesk.com
+phxgciv_dr.autodesk.com
+planix3d.autodesk.com
+pointa.autodesk.com
+register.autodesk.com
+registerallied-pr.autodesk.com
+registeronce.autodesk.com
+salestraining.autodesk.com
+searchnews.autodesk.com
+shop.autodesk.com
+spamster-bulk.autodesk.com
+sswwwp.autodesk.com
+trialdownload.autodesk.com
+usa.autodesk.com
+uspetcr12ie_198.autodesk.com
+uspetcr12if.autodesk.com
+uspetcr12if_198.autodesk.com
+uspetcrs12ia_ib_vlan500_2_hsrp.autodesk.com
+uspetcrs12ia_vlan500_2.autodesk.com
+uspetcrs12ib_vlan500_2.autodesk.com
+uspetne06ia_ib_untrust_dip7.autodesk.com
+usrelay.autodesk.com
+ussclout1.autodesk.com
+vzwlpsrel.autodesk.com
+vzwlpstst.autodesk.com
+web.autodesk.com
+webservices.autodesk.com
+wormhole.autodesk.com
+www.autodesk.com
+www3.autodesk.com
+
+# Acronis
+activation.acronis.com
+web-api-tih.acronis.com
+
+# Ashampoo
+licenses.ashampoo.com
+
+# Alcohol
+serial.alcohol-soft.com
+trial.alcohol-soft.com
+
+# Avast
+ns2.avast.com
+pns.avast.com
+#avast.com
+
+# Bandicam
+#ssl.bandisoft.com
+#cert.bandicam.com
+#bandicam.com
+
+# BitSum and Process Lasso
+activate.bitsum.com
+bitsumactivationserver.com
+
+# BlueSoleil
+license.bluesoleil.com
+license2.bluesoleil.com
+license3.bluesoleil.com
+#www.bluesoleil.com
+#bluesoleil.com
+
+# Capture One
+activation.phaseone.com
+
+# Corel
+apps.corel.com
+mc.corel.com
+origin-mc.corel.com
+iws.corel.com
+ipm.corel.com
+sws.corel.com
+dam.corel.com
+deploy.akamaitechnologies.com
+compute-1.amazonaws.com
+origin-mc.corel.com
+
+# Connectify Hotspot
+activate.connectify.me
+updates.connectify.me
+d.connectify.me
+d1.connectify.me
+d2.connectify.me
+d3.connectify.me
+b.connectify.me
+bc.connectify.me
+data.connectify.me
+news.connectify.me
+
+# ChrisPC
+#chris-pc.com
+
+# Cyberlink
+activation.cyberlink.com
+cap.cyberlink.com
+
+# DAEMON Tools
+secure.disc-soft.com
+
+# CuteFTP
+dbregistration.cuteftp.com
+
+# EaseUS
+activation.easeus.com
+track.easeus.com
+
+# Eltima
+activate.eltima.com
+
+# Folder Lock
+password-protect-folders.net
+
+# Deep Freeze
+upd.faronicslabs.com
+
+# HotSpot Shield
+#anchorfree.net
+#anchorfree.us
+#rss2search.com
+techbrowsing.com
+box.anchorfree.net
+#mefeedia.com
+a433.com
+#hsselite.com
+
+# Internet Download Manager
+internetdownloadmanager.com
+mirror.internetdownloadmanager.com
+mirror2.internetdownloadmanager.com
+mirror3.internetdownloadmanager.com
+registeridm.com
+secure.internetdownloadmanager.com
+secure.registeridm.com
+star.tonec.com
+tonec.com
+www.internetdownloadmanager.com
+www.mirror.internetdownloadmanager.com
+www.mirror2.internetdownloadmanager.com
+www.mirror3.internetdownloadmanager.com
+www.registeridm.com
+www.secure.internetdownloadmanager.com
+www.tonec.com
+
+# IObit
+asc55.iobit.com
+idb.iobit.com
+is360.iobit.com
+asc.iobit.com
+pf.iobit.com
+iunins.iobit.com
+sd.iobit.com
+#iobit.com
+
+# iSkysoft
+cbs.iskysoft.com
+
+# Lumion3D
+backup.lumion3d.com
+backup.lumion3d.net
+license.lumion3d.com
+license.lumion3d.net
+
+# MacDrive
+act2.mediafour.com
+
+# MalwareBytes
+sirius.mwbsys.com
+keystone.mwbsys.com
+data.service.malwarebytes.org
+telemetry.malwarebytes.com
+skipittok.com
+
+# MiniTool Partition Wizard
+partitionwizard.com
+pas2.partitionwizard.com
+pas2.minitool.com
+pas2.eofsoft.com
+tracking.minitool.com
+
+# Newsoftwares USB Block
+newsoftwares.net
+
+# Nikon CaptureNX
+sams.nikonimaging.com
+
+# Piriform
+license.piriform.com
+
+# SmartAssembly
+sawebservice.red-gate.com
+
+# Systweak
+updateservice1.systweak.com
+systemspeedup.systweak.com
+#systweak.com
+
+# SUPERAntiSpyware
+license.superantispyware.com
+#superantispyware.com
+
+# Tableau Desktop
+licensing.tableausoftware.com
+
+# TotalFinder
+binaryage-leechgate.herokuapp.com
+updates-s3.binaryage.com
+
+# TechSmith Camtasia Studio
+activation.cloud.techsmith.com
+oscount.techsmith.com
+updater.techsmith.com
+camtasiatudi.techsmith.com
+tsccloud.cloudapp.net
+assets.cloud.techsmith.com
+activation.cloud.techsmith.com
+#techsmith.com
+
+# VideoMakerFX
+auth7.videomakerfx.com
+
+# Wondershare
+cbs.wondershare.com
+platform.wondershare.com
+macplatform.wondershare.com
