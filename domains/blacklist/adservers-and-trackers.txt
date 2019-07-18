@@ -19,6 +19,7 @@ ee-in-f95.1.e100.net
 googleadapis.l.google.com
 pagead-googlehosted.l.google.com
 s0-2mdn-net.l.google.com
+*.224.186.35.bc.googleusercontent.com
 
 # Google's DoubleClick Ads
 doubleclick.net
