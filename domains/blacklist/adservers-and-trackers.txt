@@ -72,7 +72,7 @@ events.adjust.com
 ulink.adjust.com
 view.adjust.com
 
-# Bitcomet
+# BitComet
 inside.bitcomet.com
 
 # Crashlytics
@@ -192,6 +192,7 @@ pay-testing.spotify.com
 upsell.scdn.co
 upgrade.scdn.com
 upgrade.scdn.co
+u.scdn.co
 spotify-desktop.com
 mp3ad.scdn.co
 prod.spotify-heads.map.fastlylb.net
@@ -235,9 +236,27 @@ spotx.tv
 #p.scdn.co
 #t.scdn.co
 
+# Microsoft Ads
+msads.net
+msecn.net
+rad.msn.com
+a.ads2.msads.net
+ac3.msn.com
+ads1.msn.com
+ads2.msads.net
+aka-cdn-ns.adtech.de
+#apps.skype.com  # might interfere with Skype Home
+b.ads2.msads.net
+ec.atdmt.com
+flex.msn.com
+g.msn.com
+live.rads.msn.com
+static.2mdn.net
+
 # Other ads and tracking
 bs.serving-sys.com
 ds.serving-sys.com
+msntest.serving-sys.com
 bounceexchange.com
 b.scorecardresearch.com
 # content.bitsontherun.com # might break functionality
@@ -280,3 +299,10 @@ smartadserver.com
 adleads.com
 adsco.re
 #gemini.yahoo.com
+adnexus.net
+sO.2mdn.net
+flashtalking.com
+secure.flashtalking.com
+cdn.atdmt.com
+cds26.ams9.msecn.net
+db3aqu.atdmt.com
