@@ -72,12 +72,28 @@ events.adjust.com
 ulink.adjust.com
 view.adjust.com
 
+# Bitcomet
+inside.bitcomet.com
+
 # Crashlytics
 crashlytics.163.com
 crashlytics.com
 crashlytics.twimg.com
 e.crashlytics.com
 reports.crashlytics.com
+
+# Fastclick
+cdn.fastclick.net
+code.fastclick.net
+images.fastclick.net
+media.fastclick.net
+secure.fastclick.net
+sp.fastclick.net
+sync.fastclick.net
+
+# DeviantART
+adcast.deviantart.com
+adimg.deviantart.net
 
 # PubMatic
 gads.pubmatic.com
@@ -219,7 +235,7 @@ spotx.tv
 #p.scdn.co
 #t.scdn.co
 
-# Misc. ads and tracking
+# Other ads and tracking
 bs.serving-sys.com
 ds.serving-sys.com
 bounceexchange.com
@@ -241,7 +257,7 @@ hotjar.com
 ads.flurry.com
 media-match.com
 adnxs.com
-adnxs.comadplexmedia.adk2x.com
+adplexmedia.adk2x.com
 a.adk2x.com
 live.adyen.com
 seen-on-screen.thewhizmarketing.com
@@ -262,4 +278,5 @@ ads.bizhut.com
 sync.adaptv.advertising.com
 smartadserver.com
 adleads.com
+adsco.re
 #gemini.yahoo.com
