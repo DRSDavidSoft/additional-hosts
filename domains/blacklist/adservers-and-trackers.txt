@@ -157,6 +157,7 @@ linsey.lon2.spotify.com
 sto3.spotify.com
 prod.spotify.map.fastlylb.net
 crashdump.spotify.com
+crashdump.ciqe-gslb.spotify.com
 log.spotify.com
 log2.spotify.com
 bug.spotify.com
@@ -174,6 +175,10 @@ pay-testing.spotify.com
 *.er.spo.spotify.com
 upsell.scdn.co
 upgrade.scdn.com
+upgrade.scdn.co
+spotify-desktop.com
+mp3ad.scdn.co
+prod.spotify-heads.map.fastlylb.net
 d2gi7ultltnc2u.cloudfront.net
 d2bgg7rjywcwsy.cloudfront.net
 d2qv82yc3u9tc7.cloudfront.net
@@ -183,6 +188,18 @@ d3anogn3pbtk4v.cloudfront.net
 d3oltyb66oj2v8.cloudfront.net
 d3oxtn1x3b8d7i.cloudfront.net
 server-54-230-216-203.mrs50.r.cloudfront.net
+gs5j7zyhogb53dmqmjfqljsq2ykksm3.spotify.com
+audio-ak-spotify-com.akamaized.net
+audio-akp-spotify-com.akamaized.net
+audio-ak.spotify.com.eip.akadns.net
+eip-onnet.audio-ak.spotify.com.akahost.net
+eip-tata.audio-ak.spotify.com.akahost.net
+eip-ntt.audio-ak.spotify.com.akahost.net
+event.spotxchange.com
+search.spotxchange.com
+sync.search.spotxchange.com
+spotxchange.com
+spotx.tv
 #assets.spotify.com
 
 # The following lines are known to
@@ -243,3 +260,6 @@ adinfuse.com
 adserver-as.adtech.advertising.com
 ads.bizhut.com
 sync.adaptv.advertising.com
+smartadserver.com
+adleads.com
+#gemini.yahoo.com
