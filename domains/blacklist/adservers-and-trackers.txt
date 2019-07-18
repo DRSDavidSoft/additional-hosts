@@ -12,9 +12,12 @@ imageads.googleadservices.com
 imageads*.googleadservices.com
 adservices.google.com
 adservice.google.com
+adservice.google.com.br
 apps5.oingo.com
 service.urchin.com
 ee-in-f95.1.e100.net
+prg03s02-in-f110.1e100.net
+prg03s02-in-f99.1e100.net
 #analytics.google.com
 googleadapis.l.google.com
 pagead-googlehosted.l.google.com
@@ -26,11 +29,12 @@ doubleclick.net
 ad.doubleclick.net
 pagead.l.doubleclick.net
 pagead46.l.doubleclick.net
+adclick.g.doublecklick.net
 pubads.g.doubleclick.net
 securepubads.g.doubleclick.net
 googleads.g.doubleclick.net
 googleads4.g.doubleclick.net
-adclick.g.doublecklick.net
+adclick.g.doubleclick.net
 cm.g.doubleclick.net
 bid.g.doubleclick.net
 partnerad.l.doubleclick.net
@@ -80,21 +84,49 @@ gads.pubmatic.com
 ads.pubmatic.com
 pubmatic.com
 
+# Comscore Analytics
+comscore.net
+comscore.org
+comscore.com
+comscoredatagems.com
+comscoredatamine.com
+comscoredirect.net
+comscorenetworks.net
+mycomscore.com
+mycomscore.net
+
+# VoiceFive
+voicefive.com
+
 # Spotify's ads, tracking and analytics
+ads.spotify.com
+adstudio.spotify.com
+adstudio-help.spotify.com
+adlog.spotify.com
+ad-proxy.spotify.com
+ffcampaign.spotify.com
+ads-fa.cdn.spotify.com
+ads-sp-ash.cdn.spotify.com
+ads-sp-sto.cdn.spotify.com
 ads-fa.spotify.com
 ads-akp.spotify.com
+ads-br.spotify.com
+ads-ca.spotify.com
+ads-jp.spotify.com
+ads-pt.spotify.com
+ads-us.spotify.com
 adeventtracker.spotify.com
 analytics.spotify.com
 ap.gslb.spotify.com
-apresolve.spotify.com
 audio2.spotify.com
+audio-ak.cdn.spotify.com
 audio-ec.spotify.com
 audio-ak.spotify.com
 audio-akp.spotify.com
 audio-cf.spotify.com
-audio-fa.spotify.com
+#audio-fa.spotify.com
 audio-fab.spotify.com
-audio-fac-spotify.com
+audio-fac.spotify.com
 audio-gc.scdn.co
 audio-gc.spotify.com
 heads-ec.spotify.com
@@ -105,6 +137,8 @@ heads-fa.scdn.co
 heads-fa.spotify.com
 heads-fab.spotify.com
 heads-fac.spotify.com
+heads-ecp.spotify.com
+heads-ecb.spotify.com
 ash-dealer.spotify.com
 ash-jumphost-a1.ash.spotify.com
 ash-jumphost-a1.ash1.spotify.com
@@ -127,22 +161,46 @@ log.spotify.com
 log2.spotify.com
 bug.spotify.com
 pixel*.spotify.com
+pixel.spotify.com
 links.spotify.com
 desktop.spotify.com
 upgrade.spotify.com
+surveys.spotify.com
+promo.spotify.com
+promo-001.lon.spotify.com
+ads-sp-lon.cdn.spotify.com
+pay-testing.spotify.com
 *.video-ak.cdn.spotify.com
 *.er.spo.spotify.com
+upsell.scdn.co
+upgrade.scdn.com
 d2gi7ultltnc2u.cloudfront.net
+d2bgg7rjywcwsy.cloudfront.net
+d2qv82yc3u9tc7.cloudfront.net
 d3rt1990lpmkn.cloudfront.net
 d361oi6ppvq2ym.cloudfront.net
+d3anogn3pbtk4v.cloudfront.net
+d3oltyb66oj2v8.cloudfront.net
+d3oxtn1x3b8d7i.cloudfront.net
 server-54-230-216-203.mrs50.r.cloudfront.net
 #assets.spotify.com
-#open.spotify.com        # The following lines are known to
-#spclient.wg.spotify.com # interfere with some parts of Spotify
+
+# The following lines are known to
+# interfere with some parts of Spotify
+#open.spotify.com
+#spclient.wg.spotify.com
 #audio-fa.scdn.co
 #audio-sp-lon.spotify.com
 #audio-sp-sto.spotify.com
 #weblb-wg.gslb.spotify.com
+#apresolve.spotify.com
+#labs.spotify.com
+#play.spotify.com
+#seektables.scdn.co
+#i.scdn.co
+#o.scdn.co
+#p.scdn.co
+#t.scdn.co
 
 # Misc. ads and tracking
 bs.serving-sys.com
@@ -167,6 +225,21 @@ ads.flurry.com
 media-match.com
 adnxs.com
 adnxs.comadplexmedia.adk2x.com
+a.adk2x.com
+live.adyen.com
 seen-on-screen.thewhizmarketing.com
 tracking.tidalhifi.com
 myvisualiq.net
+smaato.net
+jumptap.com
+bigmobileads.com
+adtechus.com
+54646.co
+adform.net
+track.adform.net
+mojiva.com
+appads.com
+adinfuse.com
+adserver-as.adtech.advertising.com
+ads.bizhut.com
+sync.adaptv.advertising.com
