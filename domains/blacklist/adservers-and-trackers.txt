@@ -247,11 +247,16 @@ ads2.msads.net
 aka-cdn-ns.adtech.de
 #apps.skype.com  # might interfere with Skype Home
 b.ads2.msads.net
-ec.atdmt.com
 flex.msn.com
 g.msn.com
 live.rads.msn.com
 static.2mdn.net
+
+# Facebook Ads
+atdmt.com
+ec.atdmt.com
+db3aqu.atdmt.com
+cdn.atdmt.com
 
 # Other ads and tracking
 bs.serving-sys.com
@@ -303,6 +308,4 @@ adnexus.net
 sO.2mdn.net
 flashtalking.com
 secure.flashtalking.com
-cdn.atdmt.com
 cds26.ams9.msecn.net
-db3aqu.atdmt.com
