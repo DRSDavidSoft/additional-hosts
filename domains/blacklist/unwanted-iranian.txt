@@ -20,6 +20,28 @@ admd.ir
 advn.ir
 yektanet.com
 sabavision.com
+moat.com
+anetwork.ir
+clickyab.com
+#adad.ir
+adnegah.ir
+adnegah.net
+adtube.ir
+#clickaval.com
+ad.utop.ir
+paypop.org
+popbox.skinak.ir
+popmaster.ir
+popupha.com
+popupme.net
+popupplus.ir
+toppopup.com
+zarpop.com
+weclick.ir
+ssads.net
+qoo.sh
+p30rank.ir
+#netbina.com
 
 
 ##
