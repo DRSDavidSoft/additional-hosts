@@ -43,6 +43,7 @@ qoo.sh
 p30rank.ir
 #netbina.com
 irblue.ml
+t3l.ir
 
 
 ##
@@ -107,3 +108,4 @@ megalandings.com
 hediyehlanding.ir
 landings.service3.ir
 landings.namanetapp.com
+plus.sabketo.com
