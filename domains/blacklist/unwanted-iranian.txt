@@ -15,6 +15,7 @@ kaprila.com
 adro.ir
 popkade.ir
 
+
 ##
 ## Scam Websites (e.g. Fake Download Buttons)
 ##
@@ -34,3 +35,8 @@ landing.hesabehamrah.com
 landings.namaa3.com
 jayezeh.iranviva.com
 landings.shomareshmakoos.com
+newlanding.boomrang-app.ir
+landing.symaart.com
+newlanding.ostaadbozorg.com
+landings.matbakh-app.com
+
