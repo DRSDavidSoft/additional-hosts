@@ -2,6 +2,7 @@
 ## Popup and Banner Adverts
 ##
 
+popfa.ir
 poparya.com
 kaprila.com
 adro.ir
@@ -15,3 +16,4 @@ app2ads.com
 cgnik.com
 landings.simayeaval.com
 features.jametalaie.com
+landing.dasyaar.com
