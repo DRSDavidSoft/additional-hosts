@@ -1,4 +1,4 @@
-# Google AdWords, AdSense and Tracking
+# Google AdWords, AdSense and Analytics
 partner.googleadservices.com
 pagead.googlesyndication.com
 pagead2.googlesyndication.com
@@ -13,6 +13,7 @@ imageads*.googleadservices.com
 adservices.google.com
 adservice.google.com
 adservice.google.com.br
+analytics.google.com
 apps5.oingo.com
 service.urchin.com
 ee-in-f95.1.e100.net
@@ -21,11 +22,14 @@ prg03s02-in-f99.1e100.net
 #analytics.google.com
 googleadapis.l.google.com
 pagead-googlehosted.l.google.com
-s0-2mdn-net.l.google.com
+# redirector.gvt1.com # might break functionality
 *.224.186.35.bc.googleusercontent.com
+*.googleadservices.com
+*.googletagservices.com
 
 # Google's DoubleClick Ads
 doubleclick.net
+*.doubleclick.net
 ad.doubleclick.net
 pagead.l.doubleclick.net
 pagead46.l.doubleclick.net
@@ -38,9 +42,17 @@ adclick.g.doubleclick.net
 cm.g.doubleclick.net
 bid.g.doubleclick.net
 partnerad.l.doubleclick.net
+0.fls.doubleclick.net
+gcdn.2mdn.net
+s0.2mdn.net
+static.2mdn.net
+s0-2mdn-net.l.google.com
 
-# Google AdMob
+# Google AdMob Ads
 admob.com
+a.admob.com
+*.admob.com
+*.admob.xiaomi.com
 api.admob.xiaomi.com
 pixel.admobclick.com
 tracking.admobsphere.com
@@ -64,6 +76,7 @@ admob.pt
 admob.sg
 admob.tk
 admob.tw
+www.admob.com.akadns.net
 
 # Adjust Mobile Tracking
 adjust.com
@@ -71,9 +84,41 @@ atom.adjust.com
 events.adjust.com
 ulink.adjust.com
 view.adjust.com
+#app.adjust.com # might break functionality
+
+# AppNexus Ads
+a.adk2x.com
+adnxs.com
+adnxs.comadplexmedia.adk2x.com
+ams1-ib.adnxs.com
+ib.adnxs.com
+
+# AOL Advertising
+adtechus.com
+adserver.adtechus.com
+
+# Adyen Payments
+live.adyen.com
 
 # BitComet
 inside.bitcomet.com
+
+# Bounce Exchange Analytics
+bounceexchange.com
+
+# Comscore Analytics
+comscore.com
+*.comscore.com
+comscore.net
+comscore.org
+comscoredatagems.com
+comscoredatamine.com
+comscoredirect.net
+comscorenetworks.net
+mycomscore.net
+*.mycomscore.net
+mycomscore.com
+*.mycomscore.com
 
 # Crashlytics
 crashlytics.163.com
@@ -81,6 +126,9 @@ crashlytics.com
 crashlytics.twimg.com
 e.crashlytics.com
 reports.crashlytics.com
+settings-crashlytics-1410998606.us-east-1.elb.amazonaws.com
+settings-crashlytics-b-103974621.us-east-1.elb.amazonaws.com
+settings.crashlytics.com
 
 # Fastclick
 cdn.fastclick.net
@@ -95,30 +143,55 @@ sync.fastclick.net
 adcast.deviantart.com
 adimg.deviantart.net
 
-# PubMatic
-gads.pubmatic.com
-ads.pubmatic.com
-pubmatic.com
+# Drawbridge Ads
+ads-west-colo.adsymptotic.com
 
-# Comscore Analytics
-comscore.net
-comscore.org
-comscore.com
-comscoredatagems.com
-comscoredatamine.com
-comscoredirect.net
-comscorenetworks.net
-mycomscore.com
-mycomscore.net
+# GeoTrust cert revocation server
+#gtssl2-ocsp.geotrust.com
+
+# Integral Ad Science
+anycast.pixel.adsafeprotected.com
+
+# Intercom Ads
+intercom.io
+*.intercom.io
+
+# Kantar Operations Adware
+core.insightexpressai.com
+
+# LEANLAB
+track.leanlab.co
+
+# PubMatic
+pubmatic.com
+ads.pubmatic.com
+gads.pubmatic.com
+image2.pubmatic.com
+showads33000.pubmatic.com
+*.pubmatic.com
 
 # VoiceFive
 voicefive.com
+*.voicefive.com
+ar.voicefive.com
+sb.voicefive.com
+
+# Media Whiz Marketing
+thewhizmarketing.com
+*.thewhizmarketing.com
+tvhero.thewhizmarketing.com
+seen-on-screen.thewhizmarketing.com
+
+# Yahoo's AdFlurry
+ads.flurry.com
+media-router-flurry7.prod.media.wg1.b.yahoo.com
 
 # Spotify's ads, tracking and analytics
 ads.spotify.com
 adstudio.spotify.com
 adstudio-help.spotify.com
 adlog.spotify.com
+adlab.spotify.com
 ad-proxy.spotify.com
 ffcampaign.spotify.com
 ads-fa.cdn.spotify.com
@@ -134,6 +207,7 @@ ads-us.spotify.com
 adeventtracker.spotify.com
 analytics.spotify.com
 ap.gslb.spotify.com
+www.audio2.spotify.com
 audio2.spotify.com
 audio-ak.cdn.spotify.com
 audio-ec.spotify.com
@@ -143,6 +217,7 @@ audio-cf.spotify.com
 #audio-fa.spotify.com
 audio-fab.spotify.com
 audio-fac.spotify.com
+audio-fac-spotify.com
 audio-gc.scdn.co
 audio-gc.spotify.com
 heads-ec.spotify.com
@@ -155,6 +230,10 @@ heads-fab.spotify.com
 heads-fac.spotify.com
 heads-ecp.spotify.com
 heads-ecb.spotify.com
+heads-ak.spotify.com.edgesuite.net
+heads-akp.spotify.com.edgesuite.net
+heads4-ak.spotify.com.edgesuite.net
+heads4-akp.spotify.com.edgesuite.net
 ash-dealer.spotify.com
 ash-jumphost-a1.ash.spotify.com
 ash-jumphost-a1.ash1.spotify.com
@@ -171,7 +250,6 @@ viridis.lon2.spotify.com
 zayit.lon2.spotify.com
 linsey.lon2.spotify.com
 sto3.spotify.com
-prod.spotify.map.fastlylb.net
 crashdump.spotify.com
 crashdump.ciqe-gslb.spotify.com
 log.spotify.com
@@ -189,13 +267,58 @@ ads-sp-lon.cdn.spotify.com
 pay-testing.spotify.com
 *.video-ak.cdn.spotify.com
 *.er.spo.spotify.com
+video-fa.scdn.co
+video-fa.cdn.spotify.com
+video-fa-b.cdn.spotify.com
 upsell.scdn.co
 upgrade.scdn.com
 upgrade.scdn.co
 u.scdn.co
 spotify-desktop.com
+www.spotify-desktop.com
 mp3ad.scdn.co
-prod.spotify-heads.map.fastlylb.net
+partner-service.spotify.com
+partner-service-testing.spotify.com
+payment-callback.spotify.com
+pci.spotify.com
+event.spotxchange.com
+search.spotxchange.com
+sync.search.spotxchange.com
+spotxchange.com
+spotx.tv
+assets.spotify.com
+www.spotx.tv
+
+# Fastly CDN (suggested by opus-x)
+prod.spotify.map.fastlylb.net
+beta.spotify.map.fastly.net
+beta.spotify.map.fastlylb.net
+#prod.spotify-heads.map.fastlylb.net
+prod.spotify.map.fastly.net
+
+# Akamai CDN (suggested by opus-x)
+a1294.w20.akamai.net
+a1843.g.akamai.net
+a50.g2.akamai.net
+bsams.eyeblaster.akadns.net
+e7876.dscg.akamaiedge.net
+e8218.dscb1.akamaiedge.net
+
+# Amazon CDN (suggested by opus-x)
+na.gmtdmp.com
+lb1-217593028.us-east-1.elb.amazonaws.com
+rp-lb-766892831.us-east-1.elb.amazonaws.com
+server-54-230-216-203.mrs50.r.cloudfront.net
+
+# Telia CDN (suggested by opus-x)
+cs126.wpc.teliasoneracdn.net
+cs283.wpc.teliasoneracdn.net
+
+# Verizon's EdgeCast CDN (suggested by opus-x)
+cs126.wpc.edgecastcdn.net # this is a generic CDN provider
+cs934.wac.thetacdn.net
+
+# Spotify etc
 d2gi7ultltnc2u.cloudfront.net
 d2bgg7rjywcwsy.cloudfront.net
 d2qv82yc3u9tc7.cloudfront.net
@@ -204,20 +327,39 @@ d361oi6ppvq2ym.cloudfront.net
 d3anogn3pbtk4v.cloudfront.net
 d3oltyb66oj2v8.cloudfront.net
 d3oxtn1x3b8d7i.cloudfront.net
-server-54-230-216-203.mrs50.r.cloudfront.net
 gs5j7zyhogb53dmqmjfqljsq2ykksm3.spotify.com
 audio-ak-spotify-com.akamaized.net
 audio-akp-spotify-com.akamaized.net
 audio-ak.spotify.com.eip.akadns.net
+audio4-akp.spotify.com.edgesuite.net
+audio4-ak.spotify.com.edgesuite.net
+audio-akp.spotify.com.edgesuite.net
+audio-ak.spotify.com.edgesuite.net
+audio-ake.spotify.com.edgesuite.net
 eip-onnet.audio-ak.spotify.com.akahost.net
 eip-tata.audio-ak.spotify.com.akahost.net
 eip-ntt.audio-ak.spotify.com.akahost.net
-event.spotxchange.com
-search.spotxchange.com
-sync.search.spotxchange.com
-spotxchange.com
-spotx.tv
-#assets.spotify.com
+
+# Purpose unknown.
+#ash2-accesspoint-*.ap.spotify.com
+#ash2-accesspoint-*.ash2.spotify.com
+#lon2-accesspoint-*.lon.spotify.com
+#lon2-accesspoint-*.lon2.spotify.com
+#lon2-accesspoint-*.ap.spotify.com
+#lon3-accesspoint-*.lon3.spotify.com
+#lon3-accesspoint-*.ap.spotify.com
+#lon6-accesspoint-*.ap.spotify.com
+#lon6-accesspoint-*.lon6.spotify.com
+#gew1-accesspoint-*.ap.spotify.com
+#sjc1-accesspoint-*.sjc1.spotify.com
+#sjc1-weblb-*.sjc1.spotify.com
+#ash2-idp-*.ash2.spotify.com
+#ash2-weblb-*.ash2.spotify.com
+#ash2-msproxy-*.ash2.spotify.com
+#lon3-msproxy-*.lon3.spotify.com
+#lon3-weblb-*.lon3.spotify.com
+#lon3-nwmonitor-*.lon3.spotify.com
+#sto3-accesspoint-*.sto3.spotify.net
 
 # The following lines are known to
 # interfere with some parts of Spotify
@@ -236,6 +378,9 @@ spotx.tv
 #p.scdn.co
 #t.scdn.co
 
+# Urban Airship (data protected)
+combine.urbanairship.com
+
 # Microsoft Ads
 msads.net
 msecn.net
@@ -245,52 +390,80 @@ ac3.msn.com
 ads1.msn.com
 ads2.msads.net
 aka-cdn-ns.adtech.de
-#apps.skype.com  # might interfere with Skype Home
+#apps.skype.com # might interfere with Skype Home
 b.ads2.msads.net
 flex.msn.com
 g.msn.com
 live.rads.msn.com
-static.2mdn.net
 
 # Facebook Ads
 atdmt.com
 ec.atdmt.com
 db3aqu.atdmt.com
 cdn.atdmt.com
+ad.atdmt.com
 
-# Other ads and tracking
+# Longtail Ad Solutions (also used in JW Player)
+#content.bitsontherun.com # might break functionality
+v.jwpcdn.com
+
+# Media Innovation Group (no longer operational)
+eu-gmtdmp.gd1.mookie1.com
+
+# Media Match
+media-match.com
+*.media-match.com
+
+# My Visual IQ
+t.myvisualiq.net
+vt.myvisualiq.net
+
+# Omaze
+omaze.com
+*.omaze.com
+www.omaze.com
+
+# Tune (formerly MobileAppTracking)
+tune.com
+*.tune.com
+
+# Mixpanel Analytics
+api.mixpanel.com
+decide.mixpanel.com
+mixpanel.com
+switchboard.mixpanel.com
+www.mixpanel.com
+
+# Moat Ads and Analytics
+moatads.com
+js.moatads.com
+*.moatads.com
+moat.pxl.ace.advertising.com
+moatads.com.edgekey.net
+s.moatpixel.com
+*.s.moatpixel.com
+wildcard.moatads.com.edgekey.net
+moatpixel.com
+
+# Scorecard Research
+b.scorecardresearch.com
+sb.scorecardresearch.com
+udm.scorecardresearch.com
+
+# Sizmek Ads
 bs.serving-sys.com
 ds.serving-sys.com
 msntest.serving-sys.com
-bounceexchange.com
-b.scorecardresearch.com
-# content.bitsontherun.com # might break functionality
-core.insightexpressai.com
+
+# Other ads and tracking
 appliedsemantics.com
-moatads.com
-moatads.com.edgekey.net
-moatpixel.com
-moat.pxl.ace.advertising.com
-mixpanel.com
-tune.com
-omaze.com
-# redirector.gvt1.com # might break functionality
-2mdn.net
-v.jwpcdn.com
 hotjar.com
-ads.flurry.com
-media-match.com
-adnxs.com
 adplexmedia.adk2x.com
-a.adk2x.com
-live.adyen.com
-seen-on-screen.thewhizmarketing.com
 tracking.tidalhifi.com
 myvisualiq.net
 smaato.net
 jumptap.com
 bigmobileads.com
-adtechus.com
 54646.co
 adform.net
 track.adform.net
@@ -305,7 +478,8 @@ adleads.com
 adsco.re
 #gemini.yahoo.com
 adnexus.net
-sO.2mdn.net
 flashtalking.com
 secure.flashtalking.com
 cds26.ams9.msecn.net
+api.zwizzarmyknife.com
+078d9f6a6dc1.cdn4.forter.com
