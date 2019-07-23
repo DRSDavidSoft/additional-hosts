@@ -182,6 +182,12 @@ thewhizmarketing.com
 tvhero.thewhizmarketing.com
 seen-on-screen.thewhizmarketing.com
 
+# Yandex
+mc.yandex.ru
+an.yandex.ru
+#pixel.yabidos.com
+#avatars.mds.yandex.net
+
 # Yahoo's AdFlurry
 ads.flurry.com
 media-router-flurry7.prod.media.wg1.b.yahoo.com
