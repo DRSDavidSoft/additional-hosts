@@ -153,8 +153,8 @@ ads-west-colo.adsymptotic.com
 anycast.pixel.adsafeprotected.com
 
 # Intercom Ads
-intercom.io
-*.intercom.io
+#intercom.io
+#*.intercom.io
 
 # Kantar Operations Adware
 core.insightexpressai.com
