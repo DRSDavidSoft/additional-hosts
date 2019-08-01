@@ -222,6 +222,7 @@ ads-us.spotify.com
 adeventtracker.spotify.com
 analytics.spotify.com
 ap.gslb.spotify.com
+*.audio2.spotify.com
 www.audio2.spotify.com
 audio2.spotify.com
 audio-ak.cdn.spotify.com
@@ -368,6 +369,7 @@ eip-ntt.audio-ak.spotify.com.akahost.net
 #lon6-accesspoint-*.lon6.spotify.com
 #gew1-accesspoint-*.ap.spotify.com
 #sjc1-accesspoint-*.sjc1.spotify.com
+#gew1.ap.spotify.com
 #sjc1-weblb-*.sjc1.spotify.com
 #ash2-idp-*.ash2.spotify.com
 #ash2-weblb-*.ash2.spotify.com
