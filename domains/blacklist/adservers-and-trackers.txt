@@ -90,12 +90,19 @@ view.adjust.com
 a.adk2x.com
 adnxs.com
 adnxs.comadplexmedia.adk2x.com
+adplexmedia.adk2x.com
 ams1-ib.adnxs.com
 ib.adnxs.com
+adnexus.net
 
 # AOL Advertising
 adtechus.com
 adserver.adtechus.com
+
+# Adswizz Audio Ads
+adswizz.com
+*.adswizz.com
+delivery-cdn-cf.adswizz.com
 
 # Adyen Payments
 live.adyen.com
@@ -191,9 +198,11 @@ an.yandex.ru
 # Yahoo's AdFlurry
 ads.flurry.com
 media-router-flurry7.prod.media.wg1.b.yahoo.com
+#gemini.yahoo.com
 
 # Spotify's ads, tracking and analytics
 ads.spotify.com
+ads-*.spotify.com
 adstudio.spotify.com
 adstudio-help.spotify.com
 adlog.spotify.com
@@ -293,6 +302,7 @@ sync.search.spotxchange.com
 spotxchange.com
 spotx.tv
 assets.spotify.com
+*.spotx.tv
 www.spotx.tv
 
 # Fastly CDN (suggested by opus-x)
@@ -384,7 +394,7 @@ eip-ntt.audio-ak.spotify.com.akahost.net
 #p.scdn.co
 #t.scdn.co
 
-# Urban Airship (data protected)
+# Urban Airship (i.e. data protected)
 combine.urbanairship.com
 
 # Microsoft Ads
@@ -421,6 +431,7 @@ media-match.com
 *.media-match.com
 
 # My Visual IQ
+myvisualiq.net
 t.myvisualiq.net
 vt.myvisualiq.net
 
@@ -461,12 +472,12 @@ bs.serving-sys.com
 ds.serving-sys.com
 msntest.serving-sys.com
 
+# Hotjar
+hotjar.com
+
 # Other ads and tracking
 appliedsemantics.com
-hotjar.com
-adplexmedia.adk2x.com
 tracking.tidalhifi.com
-myvisualiq.net
 smaato.net
 jumptap.com
 bigmobileads.com
@@ -482,8 +493,6 @@ sync.adaptv.advertising.com
 smartadserver.com
 adleads.com
 adsco.re
-#gemini.yahoo.com
-adnexus.net
 flashtalking.com
 secure.flashtalking.com
 cds26.ams9.msecn.net
