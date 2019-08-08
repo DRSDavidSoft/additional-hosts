@@ -47,6 +47,7 @@ p30rank.ir
 irblue.ml
 t3l.ir
 iranjo.cf
+static-cdn.adro.co
 
 
 ##
