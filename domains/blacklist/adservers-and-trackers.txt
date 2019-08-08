@@ -1,10 +1,13 @@
 # Google AdWords, AdSense and Analytics
 partner.googleadservices.com
 pagead.googlesyndication.com
+pagead1.googlesyndication.com
 pagead2.googlesyndication.com
+pagead*.googlesyndication.com
 ade.googlesyndication.com
 video-ad-stats.googlesyndication.com
 tpc.googlesyndication.com
+googlesyndication.com
 googleadservices.com
 googletagservices.com
 google-analytics.com
@@ -31,11 +34,12 @@ pagead-googlehosted.l.google.com
 doubleclick.net
 *.doubleclick.net
 ad.doubleclick.net
+ad-g.doubleclick.net
 ad-ace.doubleclick.net
 ad-emea.doubleclick.net
 pagead.l.doubleclick.net
 pagead46.l.doubleclick.net
-adclick.g.doublecklick.net
+adclick.g.doubleclick.net
 pubads.g.doubleclick.net
 securepubads.g.doubleclick.net
 googleads.g.doubleclick.net
@@ -47,6 +51,7 @@ stats.g.doubleclick.net
 partnerad.l.doubleclick.net
 0.fls.doubleclick.net
 ad.mo.doubleclick.net
+static.doubleclick.net
 gcdn.2mdn.net
 s0.2mdn.net
 so.2mdn.net
@@ -56,6 +61,8 @@ s0-2mdn-net.l.google.com
 # Google AdMob Ads
 admob.com
 a.admob.com
+c.admob.com
+p.admob.com
 *.admob.com
 *.admob.xiaomi.com
 api.admob.xiaomi.com
@@ -86,6 +93,10 @@ admob.vn
 www.admob.com.akadns.net
 admob-creative.googleusercontent.com
 
+# AdWhirl (part of AdMob)
+met.adwhirl.com
+mob.adwhirl.com
+
 # Adjust Mobile Tracking
 adjust.com
 atom.adjust.com
@@ -100,11 +111,14 @@ adnxs.com
 adplexmedia.adk2x.com
 ams1-ib.adnxs.com
 ib.adnxs.com
+m.adnxs.com
 adnexus.net
 cdn.adnxs.com
+*.adnxs.com
 
-# Applift Ads
+# Applift Ads and Analytics
 applift.com
+*.applift.com
 
 # AOL Advertising
 adtechus.com
@@ -199,6 +213,10 @@ core.insightexpressai.com
 # LEANLAB
 track.leanlab.co
 
+# Localytics
+localytics.com
+analytics.localytics.com
+
 # PubMatic
 pubmatic.com
 ads.pubmatic.com
@@ -225,6 +243,9 @@ an.yandex.ru
 #pixel.yabidos.com
 #avatars.mds.yandex.net
 
+# Yahoo Ads
+ads.yimg.com
+
 # Yahoo's AdFlurry
 ads.flurry.com
 media-router-flurry7.prod.media.wg1.b.yahoo.com
@@ -239,6 +260,19 @@ lp.mp.mydas.mobi
 media.mydas.mobi
 ads.mp.mydas.mobi
 *.ads.mp.mydas.mobi
+
+# InMobi Ads
+r.edge.inmobicdn.net
+cf.cdn.inmobi.com
+i.w.inmobi.com
+r.w.inmobi.com
+c.w.inmobi.com
+w.inmobi.com
+*.w.inmobi.com
+ma.inmobi.com
+adtracker.inmobi.com
+js.inmobi-jp.com
+*.inmobi.com
 
 # Spotify's ads, tracking and analytics
 ads.spotify.com
@@ -444,8 +478,11 @@ msads.net
 msecn.net
 *.msecn.net
 cds26.ams9.msecn.net
+msecnd.net
+*.vo.msecnd.net
 a.ads2.msads.net
 b.ads2.msads.net
+h1.msn.com
 ac3.msn.com
 ads1.msn.com
 ads2.msads.net
@@ -453,6 +490,7 @@ ad.msn.com
 rad.msn.com
 flex.msn.com
 g.msn.com
+c.msn.com
 live.rads.msn.com
 mobileads.msn.com
 #apps.skype.com # might interfere with Skype Home
@@ -461,9 +499,11 @@ mobileads.msn.com
 atdmt.com
 *.atdmt.com
 ec.atdmt.com
-db3aqu.atdmt.com
 cdn.atdmt.com
 ad.atdmt.com
+c.atdmt.com
+aidps.atdmt.com
+db3aqu.atdmt.com
 
 # Longtail Ad Solutions (also used in JW Player)
 #content.bitsontherun.com # might break functionality
@@ -518,17 +558,18 @@ b.scorecardresearch.com
 sb.scorecardresearch.com
 udm.scorecardresearch.com
 
+# Smaato Mobile Advertising
+smaato.net
+*.smaato.net
+
 # Sizmek Ads
 bs.serving-sys.com
 ds.serving-sys.com
 msntest.serving-sys.com
+#conn.skype.commsntest.serving-sys.com
 
 # Hotjar
 hotjar.com
-
-# Smaato Mobile Advertising
-smaato.net
-*.smaato.net
 
 # Jumptap
 jumptap.com
@@ -537,9 +578,21 @@ a.jumptap.com
 i.jumptap.com
 bo.jumptap.com
 
+# Medialytics
+a.medialytics.com
+c.medialytics.com
+p.medialytics.com
+t.medialytics.com
+u.medialytics.com
+cp.medialytics.com
+tag.medialytics.com
+cdn.creative.medialytics.com
+px.cdn.creative.medialytics.com
+
 # Mojiva Ads
 mojiva.com
 *.mojiva.com
+*.ads.mojiva.com
 #ads*.mojiva.com
 
 # AppAds
@@ -579,13 +632,24 @@ adform.com
 adform.net
 track.adform.net
 
+# Adfonic
+as.adfonic.net
+
 # Smart Adserver
 smartadserver.com
 *.smartadserver.com
 
+# Fastclick
+fastclick.net
+*.fastclick.net
+
 # Flashtalking
 flashtalking.com
 secure.flashtalking.com
+
+# mOcean (formerly Mojiva; part of PubMatic now)
+mocean.mobi
+*.mocean.mobi
 
 # Oath's ad:tech (formerly AOL AdTech)
 aka-cdn.adtech.de
@@ -595,6 +659,7 @@ adserver.adtech.de
 ad.dc2.adtech.de
 secserv.adtech.de
 ums.adtech.de
+a.adtech.de
 adserver-as.adtech.advertising.com
 adserver-us.adtech.advertising.com
 adserver-eu.adtech.advertising.com
@@ -629,6 +694,10 @@ adsx.greystripe.com
 ads2.greystripe.com
 c.greystripe.com
 
+# Vdopia Video Ads
+serve.vdopia.com
+cdn.vdopia.com
+
 # Zynga Games Ads
 r.ads.zynga.com
 zynga2-a.akamaihd.net
@@ -640,3 +709,4 @@ bigmobileads.com
 54646.co
 ads.bizhut.com
 api.zwizzarmyknife.com
+tags.bkrtx.com
