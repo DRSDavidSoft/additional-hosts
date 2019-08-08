@@ -27,10 +27,12 @@ pagead-googlehosted.l.google.com
 *.googleadservices.com
 *.googletagservices.com
 
-# Google's DoubleClick Ads
+# Google DoubleClick Ads
 doubleclick.net
 *.doubleclick.net
 ad.doubleclick.net
+ad-ace.doubleclick.net
+ad-emea.doubleclick.net
 pagead.l.doubleclick.net
 pagead46.l.doubleclick.net
 adclick.g.doublecklick.net
@@ -41,10 +43,13 @@ googleads4.g.doubleclick.net
 adclick.g.doubleclick.net
 cm.g.doubleclick.net
 bid.g.doubleclick.net
+stats.g.doubleclick.net
 partnerad.l.doubleclick.net
 0.fls.doubleclick.net
+ad.mo.doubleclick.net
 gcdn.2mdn.net
 s0.2mdn.net
+so.2mdn.net
 static.2mdn.net
 s0-2mdn-net.l.google.com
 
@@ -56,6 +61,7 @@ a.admob.com
 api.admob.xiaomi.com
 pixel.admobclick.com
 tracking.admobsphere.com
+media.admob.com
 admob.com.akadns.net
 admob.biz
 admob.co.kr
@@ -76,7 +82,9 @@ admob.pt
 admob.sg
 admob.tk
 admob.tw
+admob.vn
 www.admob.com.akadns.net
+admob-creative.googleusercontent.com
 
 # Adjust Mobile Tracking
 adjust.com
@@ -89,11 +97,14 @@ view.adjust.com
 # AppNexus Ads
 a.adk2x.com
 adnxs.com
-adnxs.comadplexmedia.adk2x.com
 adplexmedia.adk2x.com
 ams1-ib.adnxs.com
 ib.adnxs.com
 adnexus.net
+cdn.adnxs.com
+
+# Applift Ads
+applift.com
 
 # AOL Advertising
 adtechus.com
@@ -104,6 +115,12 @@ adswizz.com
 *.adswizz.com
 delivery-cdn-cf.adswizz.com
 
+# AdLeads
+adleads.com
+
+# AdScore detection
+adsco.re
+
 # Adyen Payments
 live.adyen.com
 
@@ -112,6 +129,13 @@ inside.bitcomet.com
 
 # Bounce Exchange Analytics
 bounceexchange.com
+
+# Celtra
+cdn.celtra.com
+ads.celtra.com
+cache.celtra.com
+cache-ssl.celtra.com
+track.celtra.com
 
 # Comscore Analytics
 comscore.com
@@ -151,7 +175,13 @@ adcast.deviantart.com
 adimg.deviantart.net
 
 # Drawbridge Ads
+adsymptotic.com
+c.adsymptotic.com
+mf.adsymptotic.com
+ads-west.colo.adsymptotic.com
 ads-west-colo.adsymptotic.com
+ads-east-aws.adsymptotic.com
+ads-east.colo.adsymptotic.com
 
 # GeoTrust cert revocation server
 #gtssl2-ocsp.geotrust.com
@@ -199,6 +229,16 @@ an.yandex.ru
 ads.flurry.com
 media-router-flurry7.prod.media.wg1.b.yahoo.com
 #gemini.yahoo.com
+
+# Yahoo's Mydas
+mydas.mobi
+cvt.mydas.mobi
+lp.mydas.mobi
+*.lp.mydas.mobi
+lp.mp.mydas.mobi
+media.mydas.mobi
+ads.mp.mydas.mobi
+*.ads.mp.mydas.mobi
 
 # Spotify's ads, tracking and analytics
 ads.spotify.com
@@ -402,20 +442,24 @@ combine.urbanairship.com
 # Microsoft Ads
 msads.net
 msecn.net
-rad.msn.com
+*.msecn.net
+cds26.ams9.msecn.net
 a.ads2.msads.net
+b.ads2.msads.net
 ac3.msn.com
 ads1.msn.com
 ads2.msads.net
-aka-cdn-ns.adtech.de
-#apps.skype.com # might interfere with Skype Home
-b.ads2.msads.net
+ad.msn.com
+rad.msn.com
 flex.msn.com
 g.msn.com
 live.rads.msn.com
+mobileads.msn.com
+#apps.skype.com # might interfere with Skype Home
 
 # Facebook Ads
 atdmt.com
+*.atdmt.com
 ec.atdmt.com
 db3aqu.atdmt.com
 cdn.atdmt.com
@@ -427,6 +471,7 @@ v.jwpcdn.com
 
 # Media Innovation Group (no longer operational)
 eu-gmtdmp.gd1.mookie1.com
+t.mookie1.com
 
 # Media Match
 media-match.com
@@ -464,6 +509,10 @@ s.moatpixel.com
 wildcard.moatads.com.edgekey.net
 moatpixel.com
 
+# MoPub (Twitter)
+mopub.com
+ads.mopub.com
+
 # Scorecard Research
 b.scorecardresearch.com
 sb.scorecardresearch.com
@@ -477,26 +526,117 @@ msntest.serving-sys.com
 # Hotjar
 hotjar.com
 
+# Smaato Mobile Advertising
+smaato.net
+*.smaato.net
+
+# Jumptap
+jumptap.com
+*.jumptap.com
+a.jumptap.com
+i.jumptap.com
+bo.jumptap.com
+
+# Mojiva Ads
+mojiva.com
+*.mojiva.com
+#ads*.mojiva.com
+
+# AppAds
+appads.com
+*.appads.com
+cdn.appads.com
+jupiter.appads.com
+jupiter*.appads.com
+neptune.appads.com
+neptune*.appads.com
+saturn.appads.com
+saturn*.appads.com
+req.appads.com
+req*.appads.com
+
+# Ad Infuse
+adinfuse.com
+*.adinfuse.com
+go.adinfuse.com
+ad1.adinfuse.com
+ad2.adinfuse.com
+sky.adinfuse.com
+sky-connect.adinfuse.com
+uk-go.adinfuse.com
+uk-ad2.adinfuse.com
+orangeuk-mc.adinfuse.com
+orange-fr.adinfuse.com
+intouch.adinfuse.com
+funnel0.adinfuse.com
+
+# AdMarvel Mobile Ads
+ads.admarvel.com
+admarvel.s3.amazonaws.com
+
+# Adform
+adform.com
+adform.net
+track.adform.net
+
+# Smart Adserver
+smartadserver.com
+*.smartadserver.com
+
+# Flashtalking
+flashtalking.com
+secure.flashtalking.com
+
+# Oath's ad:tech (formerly AOL AdTech)
+aka-cdn.adtech.de
+aka-cdn-ns.adtech.de
+adserverams.adtech.de
+adserver.adtech.de
+ad.dc2.adtech.de
+secserv.adtech.de
+ums.adtech.de
+adserver-as.adtech.advertising.com
+adserver-us.adtech.advertising.com
+adserver-eu.adtech.advertising.com
+hb-us.adtech.advertising.com
+hb-as.adtech.advertising.com
+
+# AdapTV (now AOL's adap.tv)
+cdn.adaptv.advertising.com
+sync.adaptv.advertising.com
+conversions.adaptv.advertising.com
+log.adaptv.advertising.com
+log-wc-b.adaptv.advertising.com
+optout3.adaptv.advertising.com
+segments.adaptv.advertising.com
+video.adaptv.advertising.com
+video-stage.adaptv.advertising.com
+post.update.wtag.adaptv.advertising.com
+s.update.wtag.adaptv.advertising.com
+ads.adaptv.advertising.com
+ads-ap.adaptv.advertising.com
+ads-eu.adaptv.advertising.com
+ads-direct-wc.adaptv.advertising.com
+ads-ec.adaptv.advertising.com
+ads-test.adaptv.advertising.com
+ads-wc.adaptv.advertising.com
+
+# Forter: Fraud Prevention
+078d9f6a6dc1.cdn4.forter.com
+
+# Greystripe
+adsx.greystripe.com
+ads2.greystripe.com
+c.greystripe.com
+
+# Zynga Games Ads
+r.ads.zynga.com
+zynga2-a.akamaihd.net
+
 # Other ads and tracking
 appliedsemantics.com
 tracking.tidalhifi.com
-smaato.net
-jumptap.com
 bigmobileads.com
 54646.co
-adform.net
-track.adform.net
-mojiva.com
-appads.com
-adinfuse.com
-adserver-as.adtech.advertising.com
 ads.bizhut.com
-sync.adaptv.advertising.com
-smartadserver.com
-adleads.com
-adsco.re
-flashtalking.com
-secure.flashtalking.com
-cds26.ams9.msecn.net
 api.zwizzarmyknife.com
-078d9f6a6dc1.cdn4.forter.com
