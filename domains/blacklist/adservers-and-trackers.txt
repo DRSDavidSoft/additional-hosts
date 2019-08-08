@@ -633,6 +633,7 @@ adform.net
 track.adform.net
 
 # Adfonic
+adfonic.net
 as.adfonic.net
 
 # Smart Adserver
