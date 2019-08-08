@@ -375,7 +375,7 @@ cs283.wpc.teliasoneracdn.net
 cs126.wpc.edgecastcdn.net # this is a generic CDN provider
 cs934.wac.thetacdn.net
 
-# Spotify etc
+# Spotify etc (e.g. Amazon CloudFront)
 d2gi7ultltnc2u.cloudfront.net
 d2bgg7rjywcwsy.cloudfront.net
 d2qv82yc3u9tc7.cloudfront.net
