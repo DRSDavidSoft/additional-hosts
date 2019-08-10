@@ -54,7 +54,7 @@ ad.mo.doubleclick.net
 static.doubleclick.net
 gcdn.2mdn.net
 s0.2mdn.net
-so.2mdn.net
+s1.2mdn.net
 static.2mdn.net
 s0-2mdn-net.l.google.com
 
