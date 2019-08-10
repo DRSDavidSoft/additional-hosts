@@ -3,6 +3,7 @@ partner.googleadservices.com
 pagead.googlesyndication.com
 pagead1.googlesyndication.com
 pagead2.googlesyndication.com
+pagead3.googlesyndication.com
 pagead*.googlesyndication.com
 ade.googlesyndication.com
 video-ad-stats.googlesyndication.com
@@ -11,6 +12,7 @@ googlesyndication.com
 googleadservices.com
 googletagservices.com
 google-analytics.com
+ssl.google-analytics.com
 imageads.googleadservices.com
 imageads*.googleadservices.com
 adservices.google.com
@@ -22,10 +24,9 @@ service.urchin.com
 ee-in-f95.1.e100.net
 prg03s02-in-f110.1e100.net
 prg03s02-in-f99.1e100.net
-#analytics.google.com
 googleadapis.l.google.com
 pagead-googlehosted.l.google.com
-# redirector.gvt1.com # might break functionality
+#redirector.gvt1.com # might break functionality
 *.224.186.35.bc.googleusercontent.com
 *.googleadservices.com
 *.googletagservices.com
@@ -44,7 +45,6 @@ pubads.g.doubleclick.net
 securepubads.g.doubleclick.net
 googleads.g.doubleclick.net
 googleads4.g.doubleclick.net
-adclick.g.doubleclick.net
 cm.g.doubleclick.net
 bid.g.doubleclick.net
 stats.g.doubleclick.net
@@ -136,6 +136,10 @@ delivery-cdn-cf.adswizz.com
 
 # AdLeads
 adleads.com
+
+# AdRoll
+adroll.com
+s.adroll.com
 
 # AdScore detection
 adsco.re
@@ -513,7 +517,6 @@ c.msn.com
 0.r.msn.com
 ads.eu.msn.com
 adsyndication.msn.com
-mobileads.msn.com
 live.rads.msn.com
 mobileads.msn.com
 bingads.microsoft.com
