@@ -176,8 +176,8 @@ crashlytics.com
 crashlytics.twimg.com
 e.crashlytics.com
 reports.crashlytics.com
-settings-crashlytics-1410998606.us-east-1.elb.amazonaws.com
-settings-crashlytics-b-103974621.us-east-1.elb.amazonaws.com
+settings-crashlytics-*.us-east-1.elb.amazonaws.com
+settings-crashlytics-*.*.elb.amazonaws.com
 settings.crashlytics.com
 
 # Fastclick
