@@ -114,6 +114,7 @@ ib.adnxs.com
 m.adnxs.com
 adnexus.net
 cdn.adnxs.com
+vcdn.adnxs.com
 *.adnxs.com
 
 # Applift Ads and Analytics
@@ -123,6 +124,10 @@ applift.com
 # AOL Advertising
 adtechus.com
 adserver.adtechus.com
+ads.aol.co.uk
+ads.web.aol.com
+advertising.aol.com
+adserver.aol.fr
 
 # Adswizz Audio Ads
 adswizz.com
@@ -187,6 +192,8 @@ sync.fastclick.net
 # DeviantART
 adcast.deviantart.com
 adimg.deviantart.net
+da-ads.com
+dapxl.com
 
 # Drawbridge Ads
 adsymptotic.com
@@ -491,8 +498,13 @@ rad.msn.com
 flex.msn.com
 g.msn.com
 c.msn.com
+0.r.msn.com
+ads.eu.msn.com
+adsyndication.msn.com
+mobileads.msn.com
 live.rads.msn.com
 mobileads.msn.com
+bingads.microsoft.com
 #apps.skype.com # might interfere with Skype Home
 
 # Facebook Ads
@@ -504,6 +516,10 @@ ad.atdmt.com
 c.atdmt.com
 aidps.atdmt.com
 db3aqu.atdmt.com
+
+# Amazon Ads
+amazon-adsystem.com
+*.amazon-adsystem.com
 
 # Longtail Ad Solutions (also used in JW Player)
 #content.bitsontherun.com # might break functionality
@@ -530,6 +546,7 @@ www.omaze.com
 # Tune (formerly MobileAppTracking)
 tune.com
 *.tune.com
+www.tune.com
 
 # Mixpanel Analytics
 api.mixpanel.com
