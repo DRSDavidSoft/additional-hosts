@@ -52,6 +52,10 @@ partnerad.l.doubleclick.net
 0.fls.doubleclick.net
 ad.mo.doubleclick.net
 static.doubleclick.net
+doubleclick.com
+doubleclick.de
+doubleclick.ne.jp
+doubleclick.*
 gcdn.2mdn.net
 s0.2mdn.net
 s1.2mdn.net
@@ -59,6 +63,7 @@ m.2mdn.net
 twx.2mdn.net
 static.2mdn.net
 *.2mdn.net
+2mdn.net
 s0-2mdn-net.l.google.com
 
 # Google AdMob Ads
@@ -239,7 +244,9 @@ pubmatic.com
 ads.pubmatic.com
 gads.pubmatic.com
 image2.pubmatic.com
+aktrack.pubmatic.com
 showads33000.pubmatic.com
+bid.pubmatic.com
 *.pubmatic.com
 
 # VoiceFive
@@ -262,6 +269,7 @@ an.yandex.ru
 
 # Yahoo Ads
 ads.yimg.com
+ads.yahoo.com
 
 # Yahoo's AdFlurry
 ads.flurry.com
@@ -460,6 +468,7 @@ eip-ntt.audio-ak.spotify.com.akahost.net
 #audio-sp.spotify.com
 #audio-sp-*.spotify.com
 #weblb-wg.gslb.spotify.com
+#weblb-wg.dual-gslb.spotify.com
 #dealer.spotify.com
 #dealer-ssl.spotify.com
 #apresolve.spotify.com
