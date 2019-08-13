@@ -55,6 +55,10 @@ static.doubleclick.net
 gcdn.2mdn.net
 s0.2mdn.net
 s1.2mdn.net
+m.2mdn.net
+m*.2mdn.net
+m.*.2mdn.net
+m*.*.2mdn.net
 static.2mdn.net
 s0-2mdn-net.l.google.com
 
@@ -90,6 +94,7 @@ admob.sg
 admob.tk
 admob.tw
 admob.vn
+admob.*
 www.admob.com.akadns.net
 admob-creative.googleusercontent.com
 
