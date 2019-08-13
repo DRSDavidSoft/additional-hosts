@@ -196,6 +196,8 @@ media.fastclick.net
 secure.fastclick.net
 sp.fastclick.net
 sync.fastclick.net
+fastclick.net
+*.fastclick.net
 
 # DeviantART
 adcast.deviantart.com
@@ -675,10 +677,6 @@ as.adfonic.net
 # Smart Adserver
 smartadserver.com
 *.smartadserver.com
-
-# Fastclick
-fastclick.net
-*.fastclick.net
 
 # Flashtalking
 flashtalking.com
