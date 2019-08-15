@@ -511,6 +511,10 @@ eip-ntt.audio-ak.spotify.com.akahost.net
 # Urban Airship (i.e. data protected)
 combine.urbanairship.com
 
+# Unity Ads
+unityads.unity3d.com
+unityads.*
+
 # Microsoft Ads
 msads.net
 msecn.net
