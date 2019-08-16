@@ -270,11 +270,12 @@ an.yandex.ru
 # Yahoo Ads
 ads.yimg.com
 ads.yahoo.com
+ads.yap.yahoo.com
+#gemini.yahoo.com
 
 # Yahoo's AdFlurry
 ads.flurry.com
 media-router-flurry7.prod.media.wg1.b.yahoo.com
-#gemini.yahoo.com
 
 # Yahoo's Mydas
 mydas.mobi
@@ -554,6 +555,7 @@ db3aqu.atdmt.com
 # Amazon Ads
 amazon-adsystem.com
 *.amazon-adsystem.com
+mads.amazon.com
 
 # Longtail Ad Solutions (also used in JW Player)
 #content.bitsontherun.com # might break functionality
@@ -603,6 +605,9 @@ moatpixel.com
 # MoPub (Twitter)
 mopub.com
 ads.mopub.com
+
+# Twitter
+syndication.twitter.com
 
 # Scorecard Research
 b.scorecardresearch.com
