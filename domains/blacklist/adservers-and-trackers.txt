@@ -734,6 +734,10 @@ ads-ec.adaptv.advertising.com
 ads-test.adaptv.advertising.com
 ads-wc.adaptv.advertising.com
 
+# Verizon/ONE/AOL
+advertising.com
+*.advertising.com
+
 # Forter: Fraud Prevention
 078d9f6a6dc1.cdn4.forter.com
 
