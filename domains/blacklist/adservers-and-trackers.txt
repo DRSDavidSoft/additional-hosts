@@ -271,6 +271,7 @@ an.yandex.ru
 ads.yimg.com
 ads.yahoo.com
 ads.yap.yahoo.com
+adserver.yahoo.com
 #gemini.yahoo.com
 
 # Yahoo's AdFlurry
