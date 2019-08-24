@@ -26,10 +26,13 @@ prg03s02-in-f110.1e100.net
 prg03s02-in-f99.1e100.net
 googleadapis.l.google.com
 pagead-googlehosted.l.google.com
+#googlehosted.l.googleusercontent.com
 #redirector.gvt1.com # might break functionality
-*.224.186.35.bc.googleusercontent.com
+#geo3.ggpht.com # this will certainly break some Google apps
 *.googleadservices.com
 *.googletagservices.com
+www.googleadservices.com
+www.googletagservices.com
 
 # Google DoubleClick Ads
 doubleclick.net
@@ -56,6 +59,8 @@ doubleclick.com
 doubleclick.de
 doubleclick.ne.jp
 doubleclick.*
+doublecklick.net
+*.doublecklick.net
 gcdn.2mdn.net
 s0.2mdn.net
 s1.2mdn.net
@@ -101,6 +106,9 @@ admob.vn
 admob.*
 www.admob.com.akadns.net
 admob-creative.googleusercontent.com
+
+# YouTube Ads
+ads.youtube.com
 
 # AdWhirl (part of AdMob)
 met.adwhirl.com
@@ -248,6 +256,11 @@ aktrack.pubmatic.com
 showads33000.pubmatic.com
 bid.pubmatic.com
 *.pubmatic.com
+
+# Pandora Ads
+ad.pandora.tv
+ads.pandora.tv.net
+stats.pandora.com
 
 # VoiceFive
 voicefive.com
@@ -434,7 +447,7 @@ cs126.wpc.teliasoneracdn.net
 cs283.wpc.teliasoneracdn.net
 
 # Verizon's EdgeCast CDN (suggested by opus-x)
-cs126.wpc.edgecastcdn.net # this is a generic CDN provider
+cs126.wpc.edgecastcdn.net
 cs934.wac.thetacdn.net
 
 # Spotify etc (e.g. Amazon CloudFront)
@@ -623,6 +636,8 @@ smaato.net
 bs.serving-sys.com
 ds.serving-sys.com
 msntest.serving-sys.com
+secure-bs.serving-sys.com
+secure-ds.serving-sys.com
 #conn.skype.commsntest.serving-sys.com
 
 # Hotjar
@@ -768,3 +783,4 @@ bigmobileads.com
 ads.bizhut.com
 api.zwizzarmyknife.com
 tags.bkrtx.com
+idsync-ext.rlcdn.com
