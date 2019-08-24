@@ -450,15 +450,7 @@ cs283.wpc.teliasoneracdn.net
 cs126.wpc.edgecastcdn.net
 cs934.wac.thetacdn.net
 
-# Spotify etc (e.g. Amazon CloudFront)
-d2gi7ultltnc2u.cloudfront.net
-d2bgg7rjywcwsy.cloudfront.net
-d2qv82yc3u9tc7.cloudfront.net
-d3rt1990lpmkn.cloudfront.net
-d361oi6ppvq2ym.cloudfront.net
-d3anogn3pbtk4v.cloudfront.net
-d3oltyb66oj2v8.cloudfront.net
-d3oxtn1x3b8d7i.cloudfront.net
+# Spotify etc
 gs5j7zyhogb53dmqmjfqljsq2ykksm3.spotify.com
 audio-ak-spotify-com.akamaized.net
 audio-akp-spotify-com.akamaized.net
@@ -570,6 +562,18 @@ db3aqu.atdmt.com
 amazon-adsystem.com
 *.amazon-adsystem.com
 mads.amazon.com
+
+# Hosted by Amazon CloudFront
+d26zuh3orto56v.cloudfront.net
+d2bgg7rjywcwsy.cloudfront.net
+d2gi7ultltnc2u.cloudfront.net
+d2qv82yc3u9tc7.cloudfront.net
+d34zjr0p5kjx3b.cloudfront.net
+d361oi6ppvq2ym.cloudfront.net
+d3anogn3pbtk4v.cloudfront.net
+d3oltyb66oj2v8.cloudfront.net
+d3oxtn1x3b8d7i.cloudfront.net
+d3rt1990lpmkn.cloudfront.net
 
 # Longtail Ad Solutions (also used in JW Player)
 #content.bitsontherun.com # might break functionality
