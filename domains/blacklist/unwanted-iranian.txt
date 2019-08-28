@@ -34,9 +34,6 @@ paypop.org
 popbox.skinak.ir
 popmaster.ir
 popupha.com
-popupme.net
-popupplus.ir
-toppopup.com
 zarpop.com
 yekpop.com
 weclick.ir
@@ -50,6 +47,22 @@ irblue.ml
 t3l.ir
 iranjo.cf
 static-cdn.adro.co
+popina.ir
+popgozar.ir
+pazelpop.com
+maxpopup.ir
+ppop.ir
+poppop.ir
+popup94.ir
+khobads.com
+mrwork.ir
+homerank.ir
+lordpopup.com
+as-popup.ir
+nextpopup.ir
+popupirani.ir
+facepop.org
+popupseo.ir
 
 
 ##
