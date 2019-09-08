@@ -15,9 +15,9 @@ I use [this](https://github.com/zeffy/dnscrypt-blocking-additions/blob/master/sc
 ### Blacklist Domains
 | name                                    | description                                                   | domains format | hosts (IPv4) format |
 | :-------------------------------------- | ------------------------------------------------------------- | :------------- | :------------------ |
-| **adservers-and-trackers.txt**          | Blocks ads and trackers, and anything inbetween.              | [📝 `adservers-and-trackers.txt`](https://raw.githubusercontent.com/DRSDavidSoft/additional-hosts/master/domains/blacklist/adservers-and-trackers.txt) | _n/a_ |
-| **activation.txt**                      | Blocks license verification and software activation.<br/><sup>This list is intended to prevent products from expiring when they detect an invalid license.</sup> | [📝 `activation.txt`](https://raw.githubusercontent.com/DRSDavidSoft/additional-hosts/master/domains/blacklist/activation.txt) | _n/a_ |
-| **unwanted-iranian.txt**                | Blocks various scams and popups when visiting Iranian websites.<br/><sup>e.g. fake Download buttons, Pop-unders, etc</sup> | [📝 `unwanted-iranian.txt`](https://raw.githubusercontent.com/DRSDavidSoft/additional-hosts/master/domains/blacklist/unwanted-iranian.txt) | _n/a_ |
+| **Ad and tracker servers**              | Blocks ads and trackers, and anything inbetween.              | [📝 `adservers-and-trackers.txt`](https://raw.githubusercontent.com/DRSDavidSoft/additional-hosts/master/domains/blacklist/adservers-and-trackers.txt) | _n/a_ |
+| **Activation servers**                  | Blocks license verification and software activation.<br/><sup>This list is intended to prevent products from expiring when they detect an invalid license.</sup> | [📝 `activation.txt`](https://raw.githubusercontent.com/DRSDavidSoft/additional-hosts/master/domains/blacklist/activation.txt) | _n/a_ |
+| **Unwanted Iranian domains**            | Blocks various scams and popups when visiting Iranian websites.<br/><sup>e.g. fake Download buttons, Pop-unders, etc</sup> | [📝 `unwanted-iranian.txt`](https://raw.githubusercontent.com/DRSDavidSoft/additional-hosts/master/domains/blacklist/unwanted-iranian.txt) | _n/a_ |
 
 ### Whitelist Domains
 _TBA:_ to be added
