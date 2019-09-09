@@ -138,6 +138,22 @@ vcdn.adnxs.com
 applift.com
 *.applift.com
 
+# AppLovin
+vid.applovin.com
+pdn.applovin.com
+assets.applovin.com
+img.applovin.com
+a.applovin.com
+a.applvn.com
+d.applovin.com
+d.applvn.com
+rt.applovin.com
+rt.applvn.com
+applovin.com
+applvn.com
+*.applovin.com
+*.applvn.com
+
 # AOL Advertising
 adtechus.com
 adserver.adtechus.com
