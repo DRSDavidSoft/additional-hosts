@@ -795,6 +795,14 @@ cdn.vdopia.com
 r.ads.zynga.com
 zynga2-a.akamaihd.net
 
+# List of more ads
+i.bestcontentnetwork.top
+a.bestcontentnetwork.top
+trafficjunky.net
+ads.exosrv.com
+smpop.icfcdn.com
+etahub.com
+
 # Other ads and tracking
 appliedsemantics.com
 tracking.tidalhifi.com
