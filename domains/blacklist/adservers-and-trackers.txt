@@ -186,6 +186,11 @@ inside.bitcomet.com
 # Bounce Exchange Analytics
 bounceexchange.com
 
+# Calldoeado
+calldorado.com
+euw1.calldorado.com
+stats.calldorado.com
+
 # Celtra
 cdn.celtra.com
 ads.celtra.com
