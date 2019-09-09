@@ -178,7 +178,20 @@ s.adroll.com
 adsco.re
 
 # Adyen Payments
-live.adyen.com
+# live.adyen.com # This wil break Alipay payments
+
+# Batmobi Ads
+batmobi.net
+batmobil.net
+www.batmobil.net
+api2.batmobil.net
+api5.batmobil.net
+www.batmobi.net
+api2.batmobi.net
+api5.batmobi.net
+sts.batmobi.net
+*.batmobi.net
+*.batmobil.net
 
 # BitComet
 inside.bitcomet.com
@@ -807,6 +820,10 @@ trafficjunky.net
 ads.exosrv.com
 smpop.icfcdn.com
 etahub.com
+clksite.com
+sync.rhythmxchange.com
+m.goadservices.com
+ut.performax.cz
 
 # Other ads and tracking
 appliedsemantics.com
