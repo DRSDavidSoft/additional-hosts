@@ -44,8 +44,11 @@ qoo.sh
 p30rank.ir
 #netbina.com
 irblue.ml
-t3l.ir
+irgreen.ml
+irjo.ga
 iranjo.cf
+adziran.gq
+t3l.ir
 static-cdn.adro.co
 popina.ir
 popgozar.ir
@@ -54,6 +57,7 @@ maxpopup.ir
 ppop.ir
 poppop.ir
 popup94.ir
+popuptools.com
 khobads.com
 mrwork.ir
 homerank.ir
