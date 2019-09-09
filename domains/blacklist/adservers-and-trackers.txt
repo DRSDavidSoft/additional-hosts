@@ -45,6 +45,7 @@ pagead.l.doubleclick.net
 pagead46.l.doubleclick.net
 adclick.g.doubleclick.net
 pubads.g.doubleclick.net
+big.g.doubleclick.net
 securepubads.g.doubleclick.net
 googleads.g.doubleclick.net
 googleads4.g.doubleclick.net
@@ -55,6 +56,7 @@ partnerad.l.doubleclick.net
 0.fls.doubleclick.net
 ad.mo.doubleclick.net
 static.doubleclick.net
+ebay.doubleclick.net
 doubleclick.com
 doubleclick.de
 doubleclick.ne.jp
@@ -82,6 +84,7 @@ api.admob.xiaomi.com
 pixel.admobclick.com
 tracking.admobsphere.com
 media.admob.com
+analytics.admob.com
 admob.com.akadns.net
 admob.biz
 admob.co.kr
@@ -127,6 +130,7 @@ a.adk2x.com
 adnxs.com
 adplexmedia.adk2x.com
 ams1-ib.adnxs.com
+lax1-ib.adnxs.com
 ib.adnxs.com
 m.adnxs.com
 adnexus.net
@@ -157,6 +161,7 @@ applvn.com
 # AOL Advertising
 adtechus.com
 adserver.adtechus.com
+aka-cnd-ns.adtechus.com
 ads.aol.co.uk
 ads.web.aol.com
 advertising.aol.com
@@ -178,7 +183,7 @@ s.adroll.com
 adsco.re
 
 # Adyen Payments
-# live.adyen.com # This wil break Alipay payments
+#live.adyen.com # This wil break Alipay payments
 
 # Batmobi Ads
 batmobi.net
@@ -283,6 +288,7 @@ analytics.localytics.com
 
 # PubMatic
 pubmatic.com
+aud.pubmatic.com
 ads.pubmatic.com
 gads.pubmatic.com
 image2.pubmatic.com
@@ -290,6 +296,18 @@ aktrack.pubmatic.com
 showads33000.pubmatic.com
 bid.pubmatic.com
 *.pubmatic.com
+
+# Mojiva Ads (part of PubMatic now)
+mojiva.com
+*.mojiva.com
+*.ads.mojiva.com
+#.ads*.mojiva.com
+#img.ads*.mojiva.com
+
+# mOcean (formerly Mojiva)
+mocean.mobi
+*.mocean.mobi
+#img.ads*.mocean.mobi
 
 # Pandora Ads
 ad.pandora.tv
@@ -329,10 +347,13 @@ media-router-flurry7.prod.media.wg1.b.yahoo.com
 mydas.mobi
 cvt.mydas.mobi
 lp.mydas.mobi
+suo.lp.mydas.mobi
+aio.lp.mydas.mobi
+ads.mp.mydas.mobi
+golds.lp.mydas.mobi
 *.lp.mydas.mobi
 lp.mp.mydas.mobi
 media.mydas.mobi
-ads.mp.mydas.mobi
 *.ads.mp.mydas.mobi
 
 # InMobi Ads
@@ -344,6 +365,9 @@ c.w.inmobi.com
 w.inmobi.com
 *.w.inmobi.com
 ma.inmobi.com
+ifc.inmobi.com
+china.inmobi.com
+japan.inmobi.com
 adtracker.inmobi.com
 js.inmobi-jp.com
 *.inmobi.com
@@ -594,7 +618,9 @@ db3aqu.atdmt.com
 
 # Amazon Ads
 amazon-adsystem.com
+s.amazon-adsystem.com
 *.amazon-adsystem.com
+aax-us-west.amazon-adsystem.com
 mads.amazon.com
 
 # Hosted by Amazon CloudFront
@@ -605,9 +631,12 @@ d2qv82yc3u9tc7.cloudfront.net
 d34zjr0p5kjx3b.cloudfront.net
 d361oi6ppvq2ym.cloudfront.net
 d3anogn3pbtk4v.cloudfront.net
+d3iz6lralvg77g.cloudfront.net
 d3oltyb66oj2v8.cloudfront.net
 d3oxtn1x3b8d7i.cloudfront.net
 d3rt1990lpmkn.cloudfront.net
+dc5ig2fc8lg83.cloudfront.net
+dj1d6o6ftflzi.cloudfront.net
 
 # Longtail Ad Solutions (also used in JW Player)
 #content.bitsontherun.com # might break functionality
@@ -631,10 +660,20 @@ omaze.com
 *.omaze.com
 www.omaze.com
 
+# Tapad
+swappit.tapad.com
+adsrv1.tapad.com
+campaign-tapad.s3.amazonaws.com
+
 # Tune (formerly MobileAppTracking)
 tune.com
 *.tune.com
 www.tune.com
+
+# MdotM Ads
+mdotm.com
+ads.mdotm.com
+cdn.mdotm.com
 
 # Mixpanel Analytics
 api.mixpanel.com
@@ -650,9 +689,16 @@ js.moatads.com
 moat.pxl.ace.advertising.com
 moatads.com.edgekey.net
 s.moatpixel.com
-*.s.moatpixel.com
+z.moatads.com
+#*.s.moatpixel.com
+#*.z.moatpixel.com
 wildcard.moatads.com.edgekey.net
 moatpixel.com
+
+# Mobclix
+s.mobclix.com
+ads.mobclix.com
+data.mobclix.com
 
 # MoPub (Twitter)
 mopub.com
@@ -667,6 +713,8 @@ sb.scorecardresearch.com
 udm.scorecardresearch.com
 
 # Smaato Mobile Advertising
+soma.smaato.net
+c29new.smaato.net
 smaato.net
 *.smaato.net
 
@@ -677,6 +725,18 @@ msntest.serving-sys.com
 secure-bs.serving-sys.com
 secure-ds.serving-sys.com
 #conn.skype.commsntest.serving-sys.com
+
+# Velti
+ru.velti.com
+mwc.velti.com
+atti.velti.com
+
+# Vserv Mobile Advertising
+a.vserv.mobi
+c.vserv.mobi
+sf.vserv.mobi
+ads.vserv.mobi
+admin.vserv.mobi
 
 # Hotjar
 hotjar.com
@@ -698,12 +758,6 @@ cp.medialytics.com
 tag.medialytics.com
 cdn.creative.medialytics.com
 px.cdn.creative.medialytics.com
-
-# Mojiva Ads
-mojiva.com
-*.mojiva.com
-*.ads.mojiva.com
-#ads*.mojiva.com
 
 # AppAds
 appads.com
@@ -753,10 +807,6 @@ smartadserver.com
 # Flashtalking
 flashtalking.com
 secure.flashtalking.com
-
-# mOcean (formerly Mojiva; part of PubMatic now)
-mocean.mobi
-*.mocean.mobi
 
 # Oath's ad:tech (formerly AOL AdTech)
 aka-cdn.adtech.de
