@@ -25,9 +25,12 @@ moat.com
 anetwork.ir
 clickyab.com
 #adad.ir
+adment.me
+adment.space
 adnegah.ir
 adnegah.net
 adtube.ir
+rtb.adtube.ir
 #clickaval.com
 ad.utop.ir
 paypop.org
@@ -67,6 +70,9 @@ nextpopup.ir
 popupirani.ir
 facepop.org
 popupseo.ir
+tapsell.ir
+1000click.ir
+ads.asr24.com
 
 
 ##
