@@ -479,12 +479,12 @@ assets.spotify.com
 www.spotx.tv
 
 # Fastly CDN (suggested by opus-x)
-prod.spotify.map.fastlylb.net
-beta.spotify.map.fastly.net
-beta.spotify.map.fastlylb.net
+#prod.spotify.map.fastlylb.net
+#beta.spotify.map.fastly.net
+#beta.spotify.map.fastlylb.net
 #prod.spotify-heads.map.fastlylb.net
 #prod.b.ssl.us-eu.fastlylb.net
-prod.spotify.map.fastly.net
+#prod.spotify.map.fastly.net
 
 # Akamai CDN (suggested by opus-x)
 a1294.w20.akamai.net
