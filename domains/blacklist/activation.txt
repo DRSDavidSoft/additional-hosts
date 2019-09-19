@@ -355,11 +355,12 @@ telemetry.malwarebytes.com
 skipittok.com
 
 # MiniTool Partition Wizard
-partitionwizard.com
 pas2.partitionwizard.com
 pas2.minitool.com
 pas2.eofsoft.com
 tracking.minitool.com
+#partitionwizard.com
+#www.partitionwizard.com
 
 # Newsoftwares USB Block
 newsoftwares.net
