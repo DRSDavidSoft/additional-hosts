@@ -1,5 +1,5 @@
 ##
-## Popup and Banner Adverts
+## Popup, Banners and Advertisments
 ##
 
 popfa.ir
@@ -13,6 +13,8 @@ toppopup.com
 irpopup.ir
 kaprila.com
 adro.ir
+adro.co
+static-cdn.adro.co
 popkade.ir
 xpop.ir
 adclicki.ir
@@ -53,7 +55,6 @@ irjo.ga
 iranjo.cf
 adziran.gq
 t3l.ir
-static-cdn.adro.co
 popina.ir
 popgozar.ir
 pazelpop.com
@@ -75,6 +76,7 @@ tapsell.ir
 1000click.ir
 ads.asr24.com
 irandigitalads.com
+backority.ir
 
 
 ##
@@ -87,10 +89,10 @@ cgnik.com
 srvland.ir
 ads4c.com
 cg.yourcube.ir
+landhub.ir
 landings.simayeaval.com
 features.jametalaie.com
 landing.dasyaar.com
-landhub.ir
 landings.namanetapp.com
 lans.100second.com
 landings.kavosh-app.com
@@ -141,3 +143,21 @@ hediyehlanding.ir
 landings.service3.ir
 landings.namanetapp.com
 plus.sabketo.com
+
+
+##
+## Trackers and Statistics
+##
+
+histats.com
+amarfa.ir
+#webgozar.com
+webgozar.ir
+
+
+##
+## Personal Blacklist
+##
+
+# reson: excessive advertisment; scamming game
+zula.ir
