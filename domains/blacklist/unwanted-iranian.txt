@@ -80,7 +80,7 @@ backority.ir
 
 
 ##
-## Scam Websites (e.g. Fake Download Buttons)
+## Scam Websites (e.g. Fake Download Buttons and other misleading content)
 ##
 
 app2ads.com
@@ -143,6 +143,8 @@ hediyehlanding.ir
 landings.service3.ir
 landings.namanetapp.com
 plus.sabketo.com
+onlinepluss.com
+landings.hashiiyeh.com
 
 
 ##
