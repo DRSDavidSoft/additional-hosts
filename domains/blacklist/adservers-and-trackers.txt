@@ -585,8 +585,8 @@ msads.net
 msecn.net
 *.msecn.net
 cds26.ams9.msecn.net
-msecnd.net
-*.vo.msecnd.net
+#msecnd.net       # The following lines are known to
+#*.vo.msecnd.net  # interfere with some useful products (e.g. VS Code)
 a.ads2.msads.net
 b.ads2.msads.net
 h1.msn.com
