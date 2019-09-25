@@ -203,6 +203,7 @@ inside.bitcomet.com
 
 # Bounce Exchange Analytics
 bounceexchange.com
+core.bounceexchange.com
 
 # Calldoeado
 calldorado.com
