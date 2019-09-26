@@ -1,7 +1,19 @@
 ##
-## Popup, Banners and Advertisments
+## Popup, Banners and other Advertisments Providers
 ##
 
+alipopup.ir
+freepop.ir
+hitpop.ir
+ipopup.ir
+kingpopup.com
+poprush.net
+popup.smusic.ir
+popupads.ir
+popupearn.com
+popupsky.ir
+popuptala.com
+starpopup.com
 popfa.ir
 popupplus.ir
 popupaval.com
@@ -26,15 +38,15 @@ deema.agency
 moat.com
 anetwork.ir
 clickyab.com
-clickbux.ir
-#adad.ir
+adad.ir
 adment.me
 adment.space
 adnegah.ir
 adnegah.net
 adtube.ir
 rtb.adtube.ir
-#clickaval.com
+clickaval.com
+utop.ir
 ad.utop.ir
 paypop.org
 popbox.skinak.ir
@@ -43,18 +55,25 @@ popupha.com
 zarpop.com
 yekpop.com
 weclick.ir
+e.weclick.ir
+fastclick.ir
+fastclick.click
+fastclick.co
 ssads.net
 sigmaad.com
 mediaad.org
-qoo.sh
 p30rank.ir
-#netbina.com
+congoro.com
+widget.congoro.com
+netbina.net
+netbina.com
 irblue.ml
 irgreen.ml
 irjo.ga
 iranjo.cf
 adziran.gq
 t3l.ir
+te1.ir
 popina.ir
 popgozar.ir
 pazelpop.com
@@ -74,13 +93,140 @@ facepop.org
 popupseo.ir
 tapsell.ir
 1000click.ir
+1100011.ir
+coding.1100011.ir
+ad.nowaroos.com
 ads.asr24.com
+ads.sahandar.com
 irandigitalads.com
 backority.ir
+ads.rzb.ir
+banner.dabi.ir
+circle.sezarco.ir
+core.clix.ir
+static.clix.ir
+clix.ir
+dariconline.ir
+iranweb.click
+magnetadservices.com
+kimexa.com
+widgets.takhfifan.com
+vatanclick.ir
+wideads.com
+ad2ad.ir
+adcash.com
+adpersia.com
+adplxmd.com
+adpulse.ir
+adsgozar.com
+adsima.net
+adskyo.com
+adsready.com
+adziran.ml
+clickfa.ir
+clickfa.com
+clickbar.ir
+nextads.ir
+onclickads.net
+iranwebads.com
+irbazdid.com
+irclick.net
+mitrarank.ir
+persianrank.ir
+parsirank.com
+iprank.ir
+ipsell.ir
+onestarclick.ir
+tabligheirani.com
 
 
 ##
-## Scam Websites (e.g. Fake Download Buttons and other misleading content)
+## Pop-bux/PTC (i.e. Pay-to-click) Websites
+##
+clickbux.ir
+setarebux.ir
+startbux.ir
+yekbux.com
+21bux.ir
+ariyabux.ir
+azarbux.com
+baharbux.ir
+daramadbux.ir
+davedbux.ir
+betbux.ir
+bux1.ir
+buxi.ir
+buxirani.com
+buxstar.ir
+farsbux.ir
+jetbux.ir
+payabux.com
+zibux.ir
+vbux.ir
+tmbux.ir
+tidabux.ir
+talabux.ir
+rtrbux.ir
+ptcbux.ir
+paradisebux.com
+nemobux.ir
+mahanbux.ir
+herobux.com
+greenbux.ir
+gobux.ir
+futurebux.ir
+flashbux.ir
+fambux.ir
+daybux.ir
+click-bux.ir
+buxnet.ir
+buxiranzamin.com
+bux521.ir
+bux14.org
+bux14.net
+bmbux.ir
+bizbux.ir
+atrinbux.ir
+adsptcbux.ir
+iranbux.joojerangi.com
+richbux.ir
+ojbux.ir
+advertisebux.ir
+didarbux.com
+greenbux.org
+p30bux.ir
+bux.arshaclick.ir
+netbux.ir
+webbux.ir
+nimanavidclix.com
+iranclix.ir
+fineptc.com
+buxbery.com
+1200dollarptc.com
+partclick.ir
+ptcstair.com
+iroclick.ir
+lifeclick.ir
+mihanclick.info
+payza.click
+ptc.click
+ptc.cusimple.com
+picoclix.com
+paypc.ir
+clixsense.ir
+bia2click.ir
+1tak-click.ir
+lightclick.ir
+10click.ir
+silverclick.org
+n1click.ir
+aftabclix.com
+nbclick.ir
+adparsa.com
+
+
+##
+## Scam Websites (e.g. Fake Download Buttons and Other Misleading Content)
 ##
 
 app2ads.com
@@ -131,35 +277,70 @@ landings.resaanet.com
 landings.serviceaval.com
 landings.telecup.com
 landsys.mydigibazi.com
+lan2.danesh-mand.ir
+landings.service3.ir
+landings.hashiiyeh.com
+newlanding.eyemaan.com
 pay.avastart.ir
 payastars.co
 payment.kanape.ir
-lan2.danesh-mand.ir
-newlanding.eyemaan.com
 blurbazi.drapp.ir
 mcisportland.aparat.com
 megalandings.com
 hediyehlanding.ir
-landings.service3.ir
-landings.namanetapp.com
 plus.sabketo.com
 onlinepluss.com
-landings.hashiiyeh.com
 
 
 ##
-## Trackers and Statistics
+## Analytics/Statistics and other Trackers
 ##
 
 histats.com
 amarfa.ir
-#webgozar.com
+webgozar.com
 webgozar.ir
+r.hitplus.ir
+s.hitplus.ir
+c3.gostats.ir
+gostats.ir
+radar.bayan.ir
+persianstat.com
+persianstat.ir
+
+
+##
+## Dead/Zombie Websites
+##
+
+khf.nz
+qoo.sh
+randewoo.ir
+hackerz.ir
+nutnet.ir
+up.video-learn.net
+mesearch.xyz
+terraclicks.com
+goldads.info
 
 
 ##
 ## Personal Blacklist
 ##
 
-# reson: excessive advertisment; scamming game
+# reason unknown (yet)
+#vista.ir
+#wikiforosh.ir
+#uploado.xyz
+
+# reason: unsafe domain; known to have been compromised in the past
+laleh.itrc.ac.ir
+
+# reason: website involved in excessive/scamming ads
+yasell.biz
+
+# reason: excessive advertisment; scamming game
 zula.ir
+
+# reason: unwanted iranian advertisement; unwanted redirect
+peyvandha.ir
