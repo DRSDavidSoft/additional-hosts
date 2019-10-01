@@ -142,6 +142,10 @@ iprank.ir
 ipsell.ir
 onestarclick.ir
 tabligheirani.com
+static.farakav.com
+#static2.farakav.com # should not be blocked
+ads.farakav.com
+#cdn.tabnak.ir # should not be blocked
 
 
 ##
