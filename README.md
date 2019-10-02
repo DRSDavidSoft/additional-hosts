@@ -1,14 +1,20 @@
 
 # Additional undesired hosts
-This is a list of categorized domains, that are **guaranteed** not to break useful services.  Each domain is only added after through research and tests in order to make sure it should _intentionally be blocked_.
+This is a list of categorized domains, with additional entries for wildcard blocking.  The primary focus is to **guarantee** not to break any useful services or legitimate websites.  Each domain is only added after through research and tests in order to make sure it should _intentionally be blocked_.
 
-I intend to focus on _both_ web and mobile domains.
+I intend to focus on _both_ websites and mobile domains.
 
 ### Format
-This list is available in **domains-only** format, with additional entries for wildcard blocking. You can use it with:
+This list is available in **domains-only** format at the moment, which is compatible with:
 - [**Pi-hole**](https://pi-hole.net/) and/or [**DNScrypt-proxy**](https://simplednscrypt.org/).
-- aggregated lists such as:
-   - **1Hosts (Pro):** https://1hos.cf/Pro
+- [**Squid**](http://www.squid-cache.org/) proxy ([Windows downloads](http://squid.diladele.com/), [How-to use](http://www.thedumbterminal.co.uk/posts/2005/10/blocking_access_to_sites_when_using_squid.html))
+- [**uBlock Origin**](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=en) and/or [**Adblock Plus**](https://adblockplus.org/download)
+
+You can use it on either a server, or within browser plugins, so you can filter sites on the client side.
+
+### Aggregated lists
+The following aggregated lists automatically includes the domains in my lists.  You can use the aggregated lists such as:
+- **1Hosts (Pro):** https://1hos.cf/Pro
 
 I use [this](https://github.com/zeffy/dnscrypt-blocking-additions/blob/master/script/make_blacklist.py) python script alongside DNScrypt on my VPS instead of running Pi-hole.
 
@@ -37,4 +43,4 @@ This could be because the domain names that serve those type of ads could potent
 In order to get notified of an update, you can mark my repository as "watched". I update this list on a weekly basis.
 
 ### License
-This repository is licensed under MIT License © 2019 David Refoua.  All re-distribution of my lists, provided that you credit my name and work, are encouraged and highly welcome.
+This repository is licensed under MIT License © 2019 David Refoua.  All re-distribution of my lists, provided that you credit my name and work, are welcome and encouraged.
