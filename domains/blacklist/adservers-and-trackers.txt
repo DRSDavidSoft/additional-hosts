@@ -288,6 +288,12 @@ core.insightexpressai.com
 # LEANLAB
 track.leanlab.co
 
+# LinkedIn Ads
+ads.linkedin.com
+dc.ads.linkedin.com
+px.ads.linkedin.com
+*.ads.linkedin.com
+
 # Localytics
 localytics.com
 analytics.localytics.com
