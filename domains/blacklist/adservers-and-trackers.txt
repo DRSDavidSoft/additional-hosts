@@ -137,6 +137,9 @@ m.adnxs.com
 adnexus.net
 cdn.adnxs.com
 vcdn.adnxs.com
+secure.adnxs.com
+secure-sin.adnxs.com
+acdn.adnxs.com
 *.adnxs.com
 
 # Applift Ads and Analytics
@@ -242,6 +245,9 @@ settings-crashlytics-*.us-east-1.elb.amazonaws.com
 settings-crashlytics-*.*.elb.amazonaws.com
 settings.crashlytics.com
 
+# ExoClick
+ads.exoclick.com
+
 # Fastclick
 cdn.fastclick.net
 code.fastclick.net
@@ -262,6 +268,9 @@ adcast.deviantart.com
 adimg.deviantart.net
 da-ads.com
 dapxl.com
+
+# Disqus Ads
+disqusads.com
 
 # Drawbridge Ads
 adsymptotic.com
@@ -349,6 +358,8 @@ ads.yimg.com
 ads.yahoo.com
 ads.yap.yahoo.com
 adserver.yahoo.com
+global.adserver.yahoo.com
+na.ads.yahoo.com
 #gemini.yahoo.com
 
 # Yahoo's AdFlurry
@@ -674,6 +685,12 @@ omaze.com
 *.omaze.com
 www.omaze.com
 
+# QuantServe Tracking
+pixel.quantserve.com
+
+# Taboola Ads
+cdn.taboola.com
+
 # Tapad
 swappit.tapad.com
 adsrv1.tapad.com
@@ -704,6 +721,8 @@ moat.pxl.ace.advertising.com
 moatads.com.edgekey.net
 s.moatpixel.com
 z.moatads.com
+yt.moatads.com
+yts.moatads.com
 #*.s.moatpixel.com
 #*.z.moatpixel.com
 wildcard.moatads.com.edgekey.net
