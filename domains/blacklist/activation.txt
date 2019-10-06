@@ -209,6 +209,9 @@ wormhole.autodesk.com
 www.autodesk.com
 www3.autodesk.com
 
+# ACDSee
+acdid.acdsystems.com
+
 # Acronis
 activation.acronis.com
 web-api-tih.acronis.com
@@ -233,6 +236,7 @@ pns.avast.com
 # BitSum and Process Lasso
 activate.bitsum.com
 bitsumactivationserver.com
+www.bitsumactivationserver.com
 
 # BlueSoleil
 license.bluesoleil.com
@@ -343,6 +347,7 @@ backup.lumion3d.com
 backup.lumion3d.net
 license.lumion3d.com
 license.lumion3d.net
+activate.lumion.net
 
 # MacDrive
 act2.mediafour.com
