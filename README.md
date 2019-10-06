@@ -1,5 +1,11 @@
 
 # Additional Undesired Hosts
+
+[![License](https://img.shields.io/github/license/DRSDavidSoft/additional-hosts?style=flat-square)](https://github.com/DRSDavidSoft/additional-hosts/blob/master/LICENSE)
+[![GitHub last commit](https://img.shields.io/github/last-commit/DRSDavidSoft/additional-hosts.svg?style=flat-square)](https://github.com/DRSDavidSoft/additional-hosts/commits/master)
+[![GitHub commit activity the past year](https://img.shields.io/github/commit-activity/y/DRSDavidSoft/additional-hosts?style=flat-square)](https://github.com/DRSDavidSoft/additional-hosts/graphs/commit-activity)
+[![Github file size](https://img.shields.io/github/repo-size/DRSDavidSoft/additional-hosts?label=total+size&style=flat-square)](github.com/DRSDavidSoft/additional-hosts/hosts/blob/master/hosts)
+
 This is a list of categorized domains, with additional entries for wildcard blocking.  The primary focus is to **guarantee** not to break any useful services or legitimate websites.  Each domain is only added after through research and tests in order to make sure it should _intentionally be blocked_.
 
 I intend to focus on _both_ websites and mobile domains.
