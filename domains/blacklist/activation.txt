@@ -206,8 +206,9 @@ vzwlpstst.autodesk.com
 web.autodesk.com
 webservices.autodesk.com
 wormhole.autodesk.com
-www.autodesk.com
 www3.autodesk.com
+#www.autodesk.com
+#autodesk.com
 
 # ACDSee
 acdid.acdsystems.com
