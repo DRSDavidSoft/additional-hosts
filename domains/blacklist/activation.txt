@@ -393,6 +393,11 @@ license.superantispyware.com
 # Tableau Desktop
 licensing.tableausoftware.com
 
+# TeamSpeak
+accounting.teamspeak.com
+backupaccounting.teamspeak.com
+ipcheck.teamspeak.com
+
 # TotalFinder
 binaryage-leechgate.herokuapp.com
 updates-s3.binaryage.com
