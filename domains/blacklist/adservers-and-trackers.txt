@@ -118,6 +118,9 @@ ads.youtube.com
 met.adwhirl.com
 mob.adwhirl.com
 
+# AdClony
+adcolony.com
+
 # Adjust Mobile Tracking
 adjust.com
 atom.adjust.com
@@ -220,6 +223,10 @@ ads.celtra.com
 cache.celtra.com
 cache-ssl.celtra.com
 track.celtra.com
+
+# Chartboost
+chartboost.com
+live.chartboost.com
 
 # Comscore Analytics
 comscore.com
@@ -695,6 +702,10 @@ cdn.taboola.com
 swappit.tapad.com
 adsrv1.tapad.com
 campaign-tapad.s3.amazonaws.com
+
+# Tapjoy
+tapjoy.com
+rpc.tapjoy.com
 
 # Tune (formerly MobileAppTracking)
 tune.com
