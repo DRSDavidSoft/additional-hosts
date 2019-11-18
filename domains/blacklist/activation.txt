@@ -19,6 +19,8 @@ adobe-dns.adobe.de
 adobe-dns.adobe.com
 adobe.activate.com
 adobeereg.com
+www.adobeereg.com
+
 ereg.wip.adobe.com
 ereg.wip1.adobe.com
 ereg.wip2.adobe.com
@@ -74,6 +76,7 @@ tss-geotrust-crl.thawte.com
 uds.licenses.adobe.com
 
 # Adobe wildcard
+wwis-dubc1-vip60.adobe.com
 wwis-dubc1-vip*.adobe.com
 wwis-dubc1-vip*.adobe.de
 wwis-dubc1-vip*
@@ -306,6 +309,7 @@ dposoft.net
 #anchorfree.net
 #anchorfree.us
 #rss2search.com
+#delivery.anchorfree.us
 techbrowsing.com
 box.anchorfree.net
 #mefeedia.com
@@ -377,6 +381,11 @@ sams.nikonimaging.com
 # Piriform
 license.piriform.com
 secure.piriform.com
+
+# Reallusion
+widgetcast.reallusion.com
+da.reallusion.com
+ctifiles2.reallusion.com
 
 # SmartAssembly
 sawebservice.red-gate.com
