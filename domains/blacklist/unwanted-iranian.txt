@@ -269,6 +269,7 @@ hediehapp.com
 hillaro.com
 icnlandings.ir
 kashteh.intwo.ir
+lan.vitamin-p.ir
 lan.tackleapp.ir
 lan2.100second.com
 landing.popupme.net
@@ -350,7 +351,7 @@ laleh.itrc.ac.ir
 yasell.biz
 
 # reason: excessive advertisment; scamming game
-zula.ir
+# zula.ir
 
 # reason: unwanted iranian advertisement; unwanted redirect
 peyvandha.ir
