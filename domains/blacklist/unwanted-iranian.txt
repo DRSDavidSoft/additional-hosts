@@ -293,6 +293,7 @@ landsys.mydigibazi.com
 lan2.danesh-mand.ir
 landings.service3.ir
 landings.hashiiyeh.com
+landing.100.marketing
 newlanding.eyemaan.com
 pay.avastart.ir
 payastars.co
