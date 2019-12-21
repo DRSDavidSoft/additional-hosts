@@ -294,6 +294,7 @@ lan2.danesh-mand.ir
 landings.service3.ir
 landings.hashiiyeh.com
 landing.100.marketing
+landing.myserverdev.ir
 newlanding.eyemaan.com
 pay.avastart.ir
 payastars.co
