@@ -938,3 +938,4 @@ tags.bkrtx.com
 idsync-ext.rlcdn.com
 iad-usadmm.dotomi.com
 logger.zcoup.com
+api.zcoup.com
