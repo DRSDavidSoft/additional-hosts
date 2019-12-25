@@ -831,9 +831,13 @@ orange-fr.adinfuse.com
 intouch.adinfuse.com
 funnel0.adinfuse.com
 
-# AdMarvel Mobile Ads
+# AdMarvel
+admarvel.com
 ads.admarvel.com
 admarvel.s3.amazonaws.com
+#static.admarvel.top
+a.admarvel.top
+admarvel.top
 
 # Adform
 adform.com
@@ -843,6 +847,10 @@ track.adform.net
 # Adfonic
 adfonic.net
 as.adfonic.net
+
+# AdTiming
+adtiming.com
+sdk.adtiming.com
 
 # Smart Adserver
 smartadserver.com
@@ -929,3 +937,4 @@ api.zwizzarmyknife.com
 tags.bkrtx.com
 idsync-ext.rlcdn.com
 iad-usadmm.dotomi.com
+logger.zcoup.com
