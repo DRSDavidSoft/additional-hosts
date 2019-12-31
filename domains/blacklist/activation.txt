@@ -384,6 +384,9 @@ sams.nikonimaging.com
 license.piriform.com
 secure.piriform.com
 
+# Red Gate (e.g. .NET Reflector)
+licensing.red-gate.com
+
 # Reallusion
 widgetcast.reallusion.com
 da.reallusion.com
