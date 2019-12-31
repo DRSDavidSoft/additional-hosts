@@ -20,7 +20,6 @@ adobe-dns.adobe.com
 adobe.activate.com
 adobeereg.com
 www.adobeereg.com
-
 ereg.wip.adobe.com
 ereg.wip1.adobe.com
 ereg.wip2.adobe.com
@@ -29,6 +28,9 @@ activate.wip.adobe.com
 activate.wip1.adobe.com
 activate.wip2.adobe.com
 activate.wip4.adobe.com
+lmlicenses.wip1.adobe.com
+lmlicenses.wip2.adobe.com
+lmlicenses.wip3.adobe.com
 hl2rcv.adobe.com
 hlrcv.stage.adobe.com
 lm.licenses.adobe.com
