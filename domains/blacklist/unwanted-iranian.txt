@@ -291,6 +291,7 @@ landings.serviceaval.com
 landings.telecup.com
 landsys.mydigibazi.com
 lan2.danesh-mand.ir
+landings.sarnakh-mob.ir
 landings.service3.ir
 landings.hashiiyeh.com
 landing.100.marketing
