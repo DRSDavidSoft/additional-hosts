@@ -328,6 +328,8 @@ gostats.ir
 radar.bayan.ir
 persianstat.com
 persianstat.ir
+ammaar.cafebazaar.ir
+actionlog.divar.ir
 
 
 ##
