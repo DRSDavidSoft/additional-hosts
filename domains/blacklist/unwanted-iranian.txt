@@ -334,6 +334,8 @@ analytics.metrix.ir
 metrix.ir
 app.adtrace.io
 adtrace.io
+cheshmak.me
+sdk.cheshmak.me
 
 
 ##
