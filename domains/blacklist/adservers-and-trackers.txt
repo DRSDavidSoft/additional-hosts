@@ -39,6 +39,7 @@ www.googleadservices.com
 www.googletagservices.com
 googletagmanager.com
 www.googletagmanager.com
+app-measurement.com
 
 # Google DoubleClick Ads
 doubleclick.net
@@ -124,6 +125,11 @@ ads.youtube.com
 # Alexa Metrics
 certify-js.alexametrics.com
 
+# Admedo
+admedo.com
+l.admedo.com
+pj.l.admedo.com
+
 # AdWhirl (part of AdMob)
 met.adwhirl.com
 mob.adwhirl.com
@@ -175,6 +181,10 @@ applovin.com
 applvn.com
 *.applovin.com
 *.applvn.com
+
+# SafeDK (part of AppLovin)
+safedk.com
+config.safedk.com
 
 # AOL Advertising
 adtechus.com
@@ -263,8 +273,16 @@ settings-crashlytics-*.us-east-1.elb.amazonaws.com
 settings-crashlytics-*.*.elb.amazonaws.com
 settings.crashlytics.com
 
-# ExoClick
+# TrafficJunky Advertising (MG Freesites Ltd.)
+trafficjunky.net
+media.trafficjunky.net
+ads.trafficjunky.net
+
+# ExoClick and ExoServe (EXOGROUP, Benjamin Fonzé)
 ads.exoclick.com
+ads.exosrv.com
+a.realsrv.com
+static.realsrv.com
 
 # Fastclick
 cdn.fastclick.net
@@ -356,11 +374,17 @@ ad.pandora.tv
 ads.pandora.tv.net
 stats.pandora.com
 
+# Tumblr
+px.srvcs.tumblr.com
+
 # VoiceFive
 voicefive.com
 *.voicefive.com
 ar.voicefive.com
 sb.voicefive.com
+
+# WordPress Pixel
+pixel.wp.com
 
 # Media Whiz Marketing
 thewhizmarketing.com
@@ -383,8 +407,12 @@ global.adserver.yahoo.com
 na.ads.yahoo.com
 #gemini.yahoo.com
 
+# Yahoo Tracking
+analytics.query.yahoo.com
+
 # Yahoo's AdFlurry
 ads.flurry.com
+data.flurry.com
 media-router-flurry7.prod.media.wg1.b.yahoo.com
 
 # Yahoo's Mydas
@@ -680,7 +708,9 @@ db3aqu.atdmt.com
 # Amazon Ads
 amazon-adsystem.com
 s.amazon-adsystem.com
+c.amazon-adsystem.com
 *.amazon-adsystem.com
+aax.amazon-adsystem.com
 aax-us-west.amazon-adsystem.com
 mads.amazon.com
 
@@ -702,6 +732,7 @@ dj1d6o6ftflzi.cloudfront.net
 
 # Longtail Ad Solutions (also used in JW Player)
 #content.bitsontherun.com  # might break functionality
+content.jwplatform.com
 v.jwpcdn.com
 
 # Media Innovation Group (no longer operational)
@@ -948,8 +979,6 @@ zynga2-a.akamaihd.net
 # List of more ads
 i.bestcontentnetwork.top
 a.bestcontentnetwork.top
-trafficjunky.net
-ads.exosrv.com
 smpop.icfcdn.com
 etahub.com
 clksite.com
