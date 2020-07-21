@@ -753,6 +753,9 @@ omaze.com
 *.omaze.com
 www.omaze.com
 
+# OMG Inc.
+ads.cdn.live
+
 # QuantServe Tracking
 pixel.quantserve.com
 
