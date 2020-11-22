@@ -20,9 +20,12 @@ You can use it on either a server, or within browser plugins, so you can filter 
 
 ### Aggregated lists
 The following aggregated lists automatically includes the domains in my lists.  You can use the aggregated lists such as:
-- **1Hosts (Pro):** https://1hos.cf/Pro
+- **[1Hosts (Pro)](https://github.com/badmojr/1Hosts/tree/master/Pro)** – includes `adservers-and-trackers` and `unwanted-iranian` lists
+- **[oisd.nl](https://oisd.nl/?p=dl)** – only includes `unwanted-iranian` list
 
-I use [this](https://github.com/zeffy/dnscrypt-blocking-additions/blob/master/script/make_blacklist.py) python script alongside DNScrypt on my VPS instead of running Pi-hole.
+I used to use [this](https://github.com/zeffy/dnscrypt-lists/blob/9d776690e901e106ea5707e4c83f73a07ed2470d/script/make_blacklist.py) python script alongside DNScrypt on my VPS instead of running Pi-hole.
+
+**✍ Note:**  You're welcome to use and include my lists in your aggregated lists and redistribute them.  Please [tell me](https://github.com/DRSDavidSoft/additional-hosts/issues/new?title=Mention+my+list) if you do so, so I can mention your list here as well.
 
 ### Blacklist Domains
 | name                                    | description                                                   | domains format | hosts (IPv4) format |
@@ -35,7 +38,13 @@ I use [this](https://github.com/zeffy/dnscrypt-blocking-additions/blob/master/sc
 _TBA:_ to be added
 
 ### Sources to use alongside mine
-_TBA:_ to be added
+These are some of the other lists that you should _definitely_ be using alongside with mine:  
+- [Peter Lowe’s Ad and tracking server list](https://pgl.yoyo.org/adservers/):  
+    `https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=1&mimetype=plaintext`
+- [Dan Pollock’s hosts file](https://someonewhocares.org/hosts/):  
+    `https://someonewhocares.org/hosts/hosts`
+- [MVPS HOSTS file](https://winhelp2002.mvps.org/hosts.htm):  
+    `https://winhelp2002.mvps.org/hosts.txt`
 
 ### Report domains
 If you notice any domains that you believe should be included in my lists, please report it to me [here](issues/new).  
@@ -46,7 +55,7 @@ A great deal of care is taken to avoid any type of false positives.  However, in
 This could be because the domain names that serve those type of ads could potentially be also used to serve legitimate content, which means blocking them will result in an app or website missing content or losing functionality.
 
 ### Updates
-In order to get notified of an update, you can mark my repository as "watched". I update this list on a weekly basis.
+In order to get notified of an update, you can mark my repository as "watched".  I update this list on a weekly or monthly basis.
 
 ### License
-This repository is licensed under MIT License © 2019 David Refoua.  All re-distribution of my lists, provided that you credit my name and work, are welcome and encouraged.
+This repository is licensed under MIT License © 2019-2020 David Refoua.  All re-distribution of my lists, provided that you credit my name and work, are welcome and encouraged.
