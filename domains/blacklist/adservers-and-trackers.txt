@@ -33,8 +33,6 @@ pagead-googlehosted.l.google.com
 #googlehosted.l.googleusercontent.com
 #redirector.gvt1.com  # might break functionality
 #geo3.ggpht.com  # this will break Google mapps images
-*.googleadservices.com
-*.googletagservices.com
 www.googleadservices.com
 www.googletagservices.com
 googletagmanager.com
@@ -43,7 +41,6 @@ app-measurement.com
 
 # Google DoubleClick Ads
 doubleclick.net
-*.doubleclick.net
 ad.doubleclick.net
 ad-g.doubleclick.net
 ad-ace.doubleclick.net
@@ -69,7 +66,6 @@ doubleclick.de
 doubleclick.ne.jp
 doubleclick.*
 doublecklick.net
-*.doublecklick.net
 adclick.g.doublecklick.net
 gcdn.2mdn.net
 s0.2mdn.net
@@ -77,7 +73,6 @@ s1.2mdn.net
 m.2mdn.net
 twx.2mdn.net
 static.2mdn.net
-*.2mdn.net
 2mdn.net
 s0-2mdn-net.l.google.com
 doubleclickbygoogle.com
@@ -87,8 +82,7 @@ admob.com
 a.admob.com
 c.admob.com
 p.admob.com
-*.admob.com
-*.admob.xiaomi.com
+admob.xiaomi.com
 api.admob.xiaomi.com
 pixel.admobclick.com
 tracking.admobsphere.com
@@ -160,11 +154,9 @@ vcdn.adnxs.com
 secure.adnxs.com
 secure-sin.adnxs.com
 acdn.adnxs.com
-*.adnxs.com
 
 # Applift Ads and Analytics
 applift.com
-*.applift.com
 
 # AppLovin
 vid.applovin.com
@@ -179,8 +171,6 @@ rt.applovin.com
 rt.applvn.com
 applovin.com
 applvn.com
-*.applovin.com
-*.applvn.com
 
 # SafeDK (part of AppLovin)
 safedk.com
@@ -197,7 +187,6 @@ adserver.aol.fr
 
 # Adswizz Audio Ads
 adswizz.com
-*.adswizz.com
 delivery-cdn-cf.adswizz.com
 
 # AdLeads
@@ -223,8 +212,6 @@ www.batmobi.net
 api2.batmobi.net
 api5.batmobi.net
 sts.batmobi.net
-*.batmobi.net
-*.batmobil.net
 
 # BitComet
 inside.bitcomet.com
@@ -251,7 +238,6 @@ live.chartboost.com
 
 # Comscore Analytics
 comscore.com
-*.comscore.com
 comscore.net
 comscore.org
 comscoredatagems.com
@@ -259,9 +245,7 @@ comscoredatamine.com
 comscoredirect.net
 comscorenetworks.net
 mycomscore.net
-*.mycomscore.net
 mycomscore.com
-*.mycomscore.com
 
 # Crashlytics
 crashlytics.163.com
@@ -278,9 +262,15 @@ trafficjunky.net
 media.trafficjunky.net
 ads.trafficjunky.net
 
+# EroAdvertising
+ero-advertising.com
+adspaces.ero-advertising.com
+www.ero-advertising.com
+
 # ExoClick and ExoServe (EXOGROUP, Benjamin Fonzé)
 ads.exoclick.com
 ads.exosrv.com
+syndication.exosrv.com
 a.realsrv.com
 static.realsrv.com
 
@@ -293,7 +283,6 @@ secure.fastclick.net
 sp.fastclick.net
 sync.fastclick.net
 fastclick.net
-*.fastclick.net
 
 # Foxpush: Push Notifications
 foxpush.net
@@ -327,7 +316,6 @@ fw.adsafeprotected.com
 
 # Intercom Ads
 #intercom.io
-#*.intercom.io
 
 # Kantar Operations Adware
 core.insightexpressai.com
@@ -340,7 +328,6 @@ track.leanlab.co
 ads.linkedin.com
 dc.ads.linkedin.com
 px.ads.linkedin.com
-*.ads.linkedin.com
 
 # Localytics
 localytics.com
@@ -355,18 +342,15 @@ image2.pubmatic.com
 aktrack.pubmatic.com
 showads33000.pubmatic.com
 bid.pubmatic.com
-*.pubmatic.com
 
 # Mojiva Ads (part of PubMatic now)
 mojiva.com
-*.mojiva.com
-*.ads.mojiva.com
+ads.mojiva.com
 #.ads*.mojiva.com
 #img.ads*.mojiva.com
 
 # mOcean (formerly Mojiva)
 mocean.mobi
-*.mocean.mobi
 #img.ads*.mocean.mobi
 
 # Pandora Ads
@@ -379,7 +363,6 @@ px.srvcs.tumblr.com
 
 # VoiceFive
 voicefive.com
-*.voicefive.com
 ar.voicefive.com
 sb.voicefive.com
 
@@ -388,7 +371,6 @@ pixel.wp.com
 
 # Media Whiz Marketing
 thewhizmarketing.com
-*.thewhizmarketing.com
 tvhero.thewhizmarketing.com
 seen-on-screen.thewhizmarketing.com
 
@@ -423,10 +405,9 @@ suo.lp.mydas.mobi
 aio.lp.mydas.mobi
 ads.mp.mydas.mobi
 golds.lp.mydas.mobi
-*.lp.mydas.mobi
 lp.mp.mydas.mobi
 media.mydas.mobi
-*.ads.mp.mydas.mobi
+ads.mp.mydas.mobi
 
 # InMobi Ads
 r.edge.inmobicdn.net
@@ -435,14 +416,13 @@ i.w.inmobi.com
 r.w.inmobi.com
 c.w.inmobi.com
 w.inmobi.com
-*.w.inmobi.com
 ma.inmobi.com
 ifc.inmobi.com
 china.inmobi.com
 japan.inmobi.com
 adtracker.inmobi.com
 js.inmobi-jp.com
-*.inmobi.com
+inmobi.com
 
 # SoundCloud Telemetr
 telemetry.soundcloud.com
@@ -469,7 +449,6 @@ ads-us.spotify.com
 adeventtracker.spotify.com
 analytics.spotify.com
 ap.gslb.spotify.com
-*.audio2.spotify.com
 www.audio2.spotify.com
 audio2.spotify.com
 audio-ak.cdn.spotify.com
@@ -534,8 +513,8 @@ promo.spotify.com
 promo-001.lon.spotify.com
 ads-sp-lon.cdn.spotify.com
 pay-testing.spotify.com
-*.video-ak.cdn.spotify.com
-*.er.spo.spotify.com
+video-ak.cdn.spotify.com
+er.spo.spotify.com
 video-fa.scdn.co
 video-fa.cdn.spotify.com
 video-fa-b.cdn.spotify.com
@@ -555,9 +534,8 @@ search.spotxchange.com
 sync.search.spotxchange.com
 spotxchange.com
 spotx.tv
-assets.spotify.com
-*.spotx.tv
 www.spotx.tv
+assets.spotify.com
 
 # Fastly CDN (suggested by opus-x)
 #prod.spotify.map.fastlylb.net
@@ -603,8 +581,7 @@ eip-onnet.audio-ak.spotify.com.akahost.net
 eip-tata.audio-ak.spotify.com.akahost.net
 eip-ntt.audio-ak.spotify.com.akahost.net
 
-# The following lines are known to
-# interfere with some parts of Spotify
+# The following lines are known to interfere with some parts of Spotify
 #open.spotify.com
 #open.scdn.co
 #spclient.wg.spotify.com    # Required for the Desktop apps to work, should not entirely be blocked
@@ -672,7 +649,6 @@ unityads.*
 # Microsoft Ads
 msads.net
 msecn.net
-*.msecn.net
 cds26.ams9.msecn.net
 #msecnd.net       # The following lines are known to
 #*.vo.msecnd.net  # interfere with some useful products (e.g. VS Code)
@@ -693,11 +669,10 @@ adsyndication.msn.com
 live.rads.msn.com
 mobileads.msn.com
 bingads.microsoft.com
-#apps.skype.com # might interfere with Skype Home
+#apps.skype.com  # might interfere with Skype Home
 
 # Facebook Ads
 atdmt.com
-*.atdmt.com
 ec.atdmt.com
 cdn.atdmt.com
 ad.atdmt.com
@@ -709,7 +684,6 @@ db3aqu.atdmt.com
 amazon-adsystem.com
 s.amazon-adsystem.com
 c.amazon-adsystem.com
-*.amazon-adsystem.com
 aax.amazon-adsystem.com
 aax-us-west.amazon-adsystem.com
 mads.amazon.com
@@ -741,7 +715,6 @@ t.mookie1.com
 
 # Media Match
 media-match.com
-*.media-match.com
 
 # My Visual IQ
 myvisualiq.net
@@ -750,7 +723,6 @@ vt.myvisualiq.net
 
 # Omaze
 omaze.com
-*.omaze.com
 www.omaze.com
 
 # OMG Inc.
@@ -773,7 +745,6 @@ rpc.tapjoy.com
 
 # Tune (formerly MobileAppTracking)
 tune.com
-*.tune.com
 www.tune.com
 
 # MdotM Ads
@@ -791,15 +762,12 @@ www.mixpanel.com
 # Moat Ads and Analytics
 moatads.com
 js.moatads.com
-*.moatads.com
 moat.pxl.ace.advertising.com
 moatads.com.edgekey.net
 s.moatpixel.com
 z.moatads.com
 yt.moatads.com
 yts.moatads.com
-#*.s.moatpixel.com
-#*.z.moatpixel.com
 wildcard.moatads.com.edgekey.net
 moatpixel.com
 
@@ -824,7 +792,6 @@ udm.scorecardresearch.com
 soma.smaato.net
 c29new.smaato.net
 smaato.net
-*.smaato.net
 
 # Sizmek Ads
 bs.serving-sys.com
@@ -849,9 +816,14 @@ admin.vserv.mobi
 # Hotjar
 hotjar.com
 
+# JuicyAds
+www.juicyads.com
+juicyads.com
+jads.co
+poweredby.jads.co
+
 # Jumptap
 jumptap.com
-*.jumptap.com
 a.jumptap.com
 i.jumptap.com
 bo.jumptap.com
@@ -869,7 +841,6 @@ px.cdn.creative.medialytics.com
 
 # AppAds
 appads.com
-*.appads.com
 cdn.appads.com
 jupiter.appads.com
 jupiter*.appads.com
@@ -882,7 +853,6 @@ req*.appads.com
 
 # Ad Infuse
 adinfuse.com
-*.adinfuse.com
 go.adinfuse.com
 ad1.adinfuse.com
 ad2.adinfuse.com
@@ -918,7 +888,6 @@ sdk.adtiming.com
 
 # Smart Adserver
 smartadserver.com
-*.smartadserver.com
 
 # Flashtalking
 flashtalking.com
@@ -961,7 +930,6 @@ ads-wc.adaptv.advertising.com
 
 # Verizon/ONE/AOL
 advertising.com
-*.advertising.com
 
 # Forter: Fraud Prevention
 078d9f6a6dc1.cdn4.forter.com
@@ -989,7 +957,9 @@ sync.rhythmxchange.com
 m.goadservices.com
 ut.performax.cz
 
-# Other ads/tracking
+# Other ads/tracking/malware
+wpu.sh
+cst.wpu.sh
 appliedsemantics.com
 tracking.tidalhifi.com
 bigmobileads.com
