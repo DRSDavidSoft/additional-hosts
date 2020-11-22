@@ -18,6 +18,9 @@ This list is available in **domains-only** format at the moment, which is compat
 
 You can use it on either a server, or within browser plugins, so you can filter sites on the client side.
 
+Read **[Olivier Butterbach](https://github.com/obutterbach)**'s excellent post on Medium to set up Pihole:  
+https://medium.com/@obutterbach/unlock-the-full-potential-of-pihole-e795342e0e36
+
 ### Aggregated lists
 The following aggregated lists automatically includes the domains in my lists.  You can use the aggregated lists such as:
 - **[1Hosts (Pro)](https://github.com/badmojr/1Hosts/tree/master/Pro)** – includes `adservers-and-trackers` and `unwanted-iranian` lists
@@ -45,6 +48,8 @@ These are some of the other lists that you should _definitely_ be using alongsid
     `https://someonewhocares.org/hosts/hosts`
 - [MVPS HOSTS file](https://winhelp2002.mvps.org/hosts.htm):  
     `https://winhelp2002.mvps.org/hosts.txt`
+- [Steven Black's host file](https://github.com/StevenBlack/hosts):  
+    `https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts`
 
 ### Report domains
 If you notice any domains that you believe should be included in my lists, please report it to me [here](issues/new).  
