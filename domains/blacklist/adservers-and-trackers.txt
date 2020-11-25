@@ -198,6 +198,7 @@ s.adroll.com
 
 # AdScore detection
 adsco.re
+c.adsco.re
 
 # Adyen Payments
 #live.adyen.com # This wil break Alipay payments
@@ -819,6 +820,8 @@ hotjar.com
 
 # JuicyAds
 www.juicyads.com
+js.juicyads.com
+adserver.juicyads.com
 juicyads.com
 jads.co
 poweredby.jads.co
