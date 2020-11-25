@@ -176,6 +176,15 @@ applvn.com
 safedk.com
 config.safedk.com
 
+# Supersonic Game Ads
+supersonicads.com
+supersonicads-a.akamaihd.net
+init.supersonicads.com
+
+# Vungle: Mobile Advertising and App Monetization
+vungle.com
+ads.api.vungle.com
+
 # AOL Advertising
 adtechus.com
 adserver.adtechus.com
@@ -645,6 +654,7 @@ eip-ntt.audio-ak.spotify.com.akahost.net
 combine.urbanairship.com
 
 # Unity Ads
+config.unityads.unity3d.com
 unityads.unity3d.com
 unityads.*
 
@@ -744,6 +754,7 @@ campaign-tapad.s3.amazonaws.com
 # Tapjoy
 tapjoy.com
 rpc.tapjoy.com
+connect.tapjoy.com
 
 # Tune (formerly MobileAppTracking)
 tune.com
@@ -975,3 +986,4 @@ idsync-ext.rlcdn.com
 iad-usadmm.dotomi.com
 logger.zcoup.com
 api.zcoup.com
+zcoup.com
