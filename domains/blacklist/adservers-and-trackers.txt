@@ -273,6 +273,9 @@ ads.exosrv.com
 syndication.exosrv.com
 a.realsrv.com
 static.realsrv.com
+exoclick.com
+exosrv.com
+realsrv.com
 
 # Fastclick
 cdn.fastclick.net
