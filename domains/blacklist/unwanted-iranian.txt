@@ -334,6 +334,7 @@ persianstat.ir
 ammaar.cafebazaar.ir
 actionlog.divar.ir
 analytics.metrix.ir
+trc.metrix.ir
 metrix.ir
 app.adtrace.io
 adtrace.io
