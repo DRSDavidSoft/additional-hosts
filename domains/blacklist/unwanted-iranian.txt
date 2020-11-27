@@ -151,6 +151,7 @@ ads.farakav.com
 #cdn.tabnak.ir # should not be blocked
 adserver.netshahr.com
 tavoos.net
+phoenixad.io
 
 
 ##
