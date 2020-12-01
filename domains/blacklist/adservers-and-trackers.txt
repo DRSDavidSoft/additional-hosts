@@ -467,6 +467,7 @@ audio-ak.cdn.spotify.com
 audio-ec.spotify.com
 audio-ak.spotify.com
 audio-akp.spotify.com
+audio-akp-quic-control-spotify-com.akamaized.net
 audio-cf.spotify.com
 #audio-fa.spotify.com
 audio-fab.spotify.com
@@ -515,6 +516,7 @@ crashdump.ciqe-gslb.spotify.com
 log.spotify.com
 log2.spotify.com
 bug.spotify.com
+pixel-static.spotify.com
 pixel*.spotify.com
 pixel.spotify.com
 links.spotify.com
@@ -797,6 +799,7 @@ ads.mopub.com
 syndication.twitter.com
 
 # Scorecard Research
+scorecardresearch.com
 b.scorecardresearch.com
 sb.scorecardresearch.com
 udm.scorecardresearch.com
