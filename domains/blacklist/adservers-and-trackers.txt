@@ -128,8 +128,11 @@ pj.l.admedo.com
 met.adwhirl.com
 mob.adwhirl.com
 
-# AdClony
+# AdColony: Mobile advertising and monetization
 adcolony.com
+
+# Admitad: Affiliate ads network
+admitad.com
 
 # Adjust Mobile Tracking
 adjust.com
@@ -154,6 +157,9 @@ vcdn.adnxs.com
 secure.adnxs.com
 secure-sin.adnxs.com
 acdn.adnxs.com
+
+# Appodeal: Mobile apps monetization
+appodeal.com
 
 # Applift Ads and Analytics
 applift.com
@@ -181,7 +187,7 @@ supersonicads.com
 supersonicads-a.akamaihd.net
 init.supersonicads.com
 
-# Vungle: Mobile Advertising and App Monetization
+# Vungle: Mobile advertising, app monetization
 vungle.com
 ads.api.vungle.com
 
@@ -245,7 +251,7 @@ cache.celtra.com
 cache-ssl.celtra.com
 track.celtra.com
 
-# Chartboost
+# Chartboost: Mobile ads and promotions
 chartboost.com
 live.chartboost.com
 
@@ -269,6 +275,10 @@ reports.crashlytics.com
 settings-crashlytics-*.us-east-1.elb.amazonaws.com
 settings-crashlytics-*.*.elb.amazonaws.com
 settings.crashlytics.com
+
+# Epom Ads
+epom.com
+apps.epom.com
 
 # TrafficJunky Advertising (MG Freesites Ltd.)
 trafficjunky.net
@@ -337,6 +347,9 @@ fw.adsafeprotected.com
 core.insightexpressai.com
 secure.insightexpressai.com
 
+# Leadbolt: Mobile advertising platform
+leadbolt.com
+
 # LEANLAB
 track.leanlab.co
 
@@ -345,11 +358,11 @@ ads.linkedin.com
 dc.ads.linkedin.com
 px.ads.linkedin.com
 
-# Localytics
+# Localytics: Mobile app analytics and marketing platform
 localytics.com
 analytics.localytics.com
 
-# PubMatic
+# PubMatic Ads
 pubmatic.com
 aud.pubmatic.com
 ads.pubmatic.com
@@ -424,7 +437,7 @@ golds.lp.mydas.mobi
 lp.mp.mydas.mobi
 media.mydas.mobi
 
-# InMobi Ads
+# InMobi Ads (based in Bangalore, India)
 config.inmobi.com
 telemetry.sdk.inmobi.com
 r.edge.inmobicdn.net
@@ -758,10 +771,15 @@ swappit.tapad.com
 adsrv1.tapad.com
 campaign-tapad.s3.amazonaws.com
 
-# Tapjoy
+# Tapjoy: Mobile advertising
 tapjoy.com
 rpc.tapjoy.com
 connect.tapjoy.com
+tapjoyads.com
+ws.tapjoyads.com
+
+# TapResearch: App monetization
+tapresearch.com
 
 # Tune (formerly MobileAppTracking)
 tune.com
@@ -796,7 +814,7 @@ s.mobclix.com
 ads.mobclix.com
 data.mobclix.com
 
-# MoPub (Twitter)
+# MoPub (part of Twitter)
 mopub.com
 ads.mopub.com
 
@@ -851,7 +869,7 @@ a.jumptap.com
 i.jumptap.com
 bo.jumptap.com
 
-# Medialytics
+# Medialytics: Video analytics
 a.medialytics.com
 c.medialytics.com
 p.medialytics.com
@@ -874,7 +892,13 @@ saturn*.appads.com
 req.appads.com
 req*.appads.com
 
-# Ad Infuse
+# AppBrain: Mobile advertising, monetization and analytics
+appbrain.com
+
+# AppNext: Mobile monetization, app marketing
+appnext.com
+
+# Ad Infuse: Mobile targeted advertising and marketing
 adinfuse.com
 go.adinfuse.com
 ad1.adinfuse.com
@@ -888,7 +912,7 @@ orange-fr.adinfuse.com
 intouch.adinfuse.com
 funnel0.adinfuse.com
 
-# AdMarvel
+# AdMarvel: Mobile advertising platform (based in San Mateo, California, United States)
 admarvel.com
 ads.admarvel.com
 admarvel.s3.amazonaws.com
@@ -896,16 +920,16 @@ admarvel.s3.amazonaws.com
 a.admarvel.top
 admarvel.top
 
-# Adform
+# Adform (based in Copenhagen, Denmark)
 adform.com
 adform.net
 track.adform.net
 
-# Adfonic
+# Adfonic (formerly byyd, based in London, United Kingdom)
 adfonic.net
 as.adfonic.net
 
-# AdTiming
+# AdTiming: Mobile marketing and ad-based revenue
 adtiming.com
 sdk.adtiming.com
 
@@ -915,6 +939,9 @@ smartadserver.com
 # Flashtalking
 flashtalking.com
 secure.flashtalking.com
+
+# Fyber: Mobile apps monetization platform
+fyber.com
 
 # Oath's ad:tech (formerly AOL AdTech)
 aka-cdn.adtech.de
