@@ -185,6 +185,9 @@ init.supersonicads.com
 vungle.com
 ads.api.vungle.com
 
+# Amplitude: Analaytics for web and mobile products
+api.amplitude.com
+
 # AOL Advertising
 adtechus.com
 adserver.adtechus.com
@@ -422,6 +425,8 @@ lp.mp.mydas.mobi
 media.mydas.mobi
 
 # InMobi Ads
+config.inmobi.com
+telemetry.sdk.inmobi.com
 r.edge.inmobicdn.net
 cf.cdn.inmobi.com
 i.w.inmobi.com
@@ -957,6 +962,15 @@ adsx.greystripe.com
 ads2.greystripe.com
 c.greystripe.com
 
+# Mobvista: Mobile analytics
+mobvista.com
+
+# NativeX (formerly W3i): Mobile advertising and marketing
+nativex.com
+w3i.com
+click.w3i.com
+api.w3i.com
+
 # Vdopia Video Ads
 serve.vdopia.com
 cdn.vdopia.com
@@ -990,3 +1004,5 @@ iad-usadmm.dotomi.com
 logger.zcoup.com
 api.zcoup.com
 zcoup.com
+survey-smiles.com
+
