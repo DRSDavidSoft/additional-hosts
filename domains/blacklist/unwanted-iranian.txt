@@ -35,6 +35,7 @@ adclicki.ir
 admd.ir
 advn.ir
 yektanet.com
+cdn.yektanet.com
 sabavision.com
 deema.agency
 moat.com
@@ -100,6 +101,10 @@ popupirani.ir
 facepop.org
 popupseo.ir
 tapsell.ir
+api.tapsell.ir
+click.tapsell.ir
+play.tapsell.ir
+backtory.tapsell.ir
 1000click.ir
 1100011.ir
 coding.1100011.ir
