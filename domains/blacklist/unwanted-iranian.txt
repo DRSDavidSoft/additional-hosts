@@ -158,6 +158,7 @@ ads.farakav.com
 adserver.netshahr.com
 tavoos.net
 phoenixad.io
+hiperad.com
 
 
 ##
