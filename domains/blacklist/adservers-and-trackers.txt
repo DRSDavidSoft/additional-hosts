@@ -142,6 +142,11 @@ ulink.adjust.com
 view.adjust.com
 #app.adjust.com # might break functionality
 
+# AppNext: App marketing, mobile monetization
+global.appnext.com
+cdn.appnext.com
+appnext.com
+
 # AppNexus Ads
 a.adk2x.com
 adnxs.com
@@ -894,9 +899,6 @@ req*.appads.com
 
 # AppBrain: Mobile advertising, monetization and analytics
 appbrain.com
-
-# AppNext: Mobile monetization, app marketing
-appnext.com
 
 # Ad Infuse: Mobile targeted advertising and marketing
 adinfuse.com
