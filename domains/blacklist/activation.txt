@@ -370,6 +370,8 @@ sams.nikonimaging.com
 # Piriform
 license.piriform.com
 secure.piriform.com
+ccleaner.com
+www.ccleaner.com
 
 # Red Gate (e.g. .NET Reflector)
 licensing.red-gate.com
