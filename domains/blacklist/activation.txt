@@ -208,6 +208,11 @@ acdid.acdsystems.com
 # Acronis
 activation.acronis.com
 web-api-tih.acronis.com
+web-api-tie.acronis.com
+web-api-vmp.acronis.com
+cloud-rs-us2-acronis.com
+cloud-fes-us2-acronis.com
+rpc.acronis.com
 
 # Ashampoo
 licenses.ashampoo.com
@@ -336,12 +341,19 @@ sd.iobit.com
 # iSkysoft
 cbs.iskysoft.com
 
+# JetBrains IDE
+#jetbrains.com
+#www.jetbrains.com
+#www-weighted.jetbrains.com
+#account.jetbrains.com
+
 # Lumion3D
 backup.lumion3d.com
 backup.lumion3d.net
 license.lumion3d.com
 license.lumion3d.net
 activate.lumion.net
+license.lumiontech.net
 
 # MacDrive
 act2.mediafour.com
