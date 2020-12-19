@@ -75,6 +75,7 @@ irgreen.ml
 irjo.ga
 iranjo.cf
 cloudir.cf
+cloudirs.cf
 adziran.gq
 t3l.ir
 te1.ir
