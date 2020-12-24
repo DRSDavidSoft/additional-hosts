@@ -36,6 +36,8 @@ admd.ir
 advn.ir
 yektanet.com
 cdn.yektanet.com
+yektnet.com
+cdn.yektnet.com
 sabavision.com
 deema.agency
 moat.com
