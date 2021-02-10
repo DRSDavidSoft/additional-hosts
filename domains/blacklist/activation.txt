@@ -401,6 +401,9 @@ updateservice1.systweak.com
 systemspeedup.systweak.com
 #systweak.com
 
+# Sublime Text
+license.sublimehq.com
+
 # SUPERAntiSpyware
 license.superantispyware.com
 #superantispyware.com
