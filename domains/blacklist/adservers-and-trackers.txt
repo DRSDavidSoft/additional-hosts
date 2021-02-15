@@ -142,6 +142,12 @@ ulink.adjust.com
 view.adjust.com
 #app.adjust.com # might break functionality
 
+# Braze (formerly AppBoy)
+appboy.com
+dev.appboy.com
+iad.appboy.com
+venitia.iad.appboy.com
+
 # AppNext: App marketing, mobile monetization
 global.appnext.com
 cdn.appnext.com
