@@ -379,6 +379,9 @@ newsoftwares.net
 # Nikon CaptureNX
 sams.nikonimaging.com
 
+# NCH Software 
+secure.nch.com.au
+
 # Piriform
 license.piriform.com
 secure.piriform.com
