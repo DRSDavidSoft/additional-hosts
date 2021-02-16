@@ -1024,6 +1024,14 @@ sync.rhythmxchange.com
 m.goadservices.com
 ut.performax.cz
 
+# Malware domains related to browser extensions
+# such as NanoDefender and The Great Suspender
+# being sold out
+static.trckpath.com
+static.trckingbyte.com
+cdn.owebanalytics.com
+def.dev-nano.com
+
 # Other ads/tracking/malware
 wpu.sh
 cst.wpu.sh
