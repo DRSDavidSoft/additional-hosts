@@ -358,7 +358,6 @@ sdk.cheshmak.me
 ## Dead/Zombie Websites
 ##
 
-khf.nz
 qoo.sh
 randewoo.ir
 hackerz.ir
