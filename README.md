@@ -19,6 +19,7 @@ This list is available in **domains-only** format at the moment, which is compat
 - [**<img height=32 align=middle src="https://pi-hole.github.io/graphics/Vortex/Vortex_with_Wordmark.svg"> Pi-hole**](https://pi-hole.net/) and/or [**<img height=32 align=middle src="https://raw.githubusercontent.com/DNSCrypt/dnscrypt-proxy/master/logo.png"> DNScrypt-proxy**](https://simplednscrypt.org/).
 - [**<img height=24 align=middle src="http://www.squid-cache.org/favicon.ico"> Squid**](http://www.squid-cache.org/) proxy ([Windows downloads](http://squid.diladele.com/), [How-to use](http://www.thedumbterminal.co.uk/posts/2005/10/blocking_access_to_sites_when_using_squid.html))
 - [**<img height=24 align=middle src="https://raw.githubusercontent.com/gorhill/uBlock/master/doc/img/icon38@2x.png"> uBlock Origin**](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=en) and/or [**<img width=24 align=middle src="https://adblockplus.org/favicon.ico"> Adblock Plus**](https://adblockplus.org/download)
+- [**<img height=24 align=middle src="https://adguard.com/img/favicons/favicon.ico"> AdGuardHome**](https://github.com/AdguardTeam/AdGuardHome#getting-started)
 
 You can use it on either a server, or using browser extensions, you can filter sites on the client side.
 
