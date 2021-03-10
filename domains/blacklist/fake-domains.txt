@@ -6,3 +6,7 @@ fitgirl-repacks.website
 fitgirl-repacks.xyz
 fitgirl-repack.net
 fitgirlrepack.site
+
+# Fake (scam) leech domains
+debridleech.com
+sixsave.com
