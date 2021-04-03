@@ -368,6 +368,11 @@ terraclicks.com
 goldads.info
 masbian.com
 
+##
+## Fringe/Scam Websites
+##
+
+jomehjob.com
 
 ##
 ## Personal Blacklist
