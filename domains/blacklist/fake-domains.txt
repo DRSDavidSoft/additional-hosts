@@ -10,3 +10,6 @@ fitgirlrepack.site
 # Fake (scam) leech domains
 debridleech.com
 sixsave.com
+
+# MagiskManager (See: xda-developers.com/psa-magiskmanager-com-not-official-website-magisk)
+magiskmanager.com
