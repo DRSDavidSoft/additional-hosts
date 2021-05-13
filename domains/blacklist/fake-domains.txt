@@ -13,3 +13,7 @@ sixsave.com
 
 # MagiskManager (See: xda-developers.com/psa-magiskmanager-com-not-official-website-magisk)
 magiskmanager.com
+
+# R2R Fake Download site
+r2rdownload.com
+www.r2rdownload.com
