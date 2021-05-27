@@ -489,7 +489,7 @@ ads-pt.spotify.com
 ads-us.spotify.com
 adeventtracker.spotify.com
 analytics.spotify.com
-ap.gslb.spotify.com
+# ap.gslb.spotify.com  # This is a CNAME for ap.spotify.com
 www.audio2.spotify.com
 audio2.spotify.com
 audio-ak.cdn.spotify.com
