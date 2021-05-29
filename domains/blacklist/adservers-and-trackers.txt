@@ -580,37 +580,7 @@ spotx.tv
 www.spotx.tv
 assets.spotify.com
 
-# Fastly CDN (suggested by opus-x)
-#prod.spotify.map.fastlylb.net
-#beta.spotify.map.fastly.net
-#beta.spotify.map.fastlylb.net
-#prod.spotify-heads.map.fastlylb.net
-#prod.b.ssl.us-eu.fastlylb.net
-#prod.spotify.map.fastly.net
-
-# Akamai CDN (suggested by opus-x)
-a1294.w20.akamai.net
-a1843.g.akamai.net
-a50.g2.akamai.net
-bsams.eyeblaster.akadns.net
-e7876.dscg.akamaiedge.net
-e8218.dscb1.akamaiedge.net
-
-# Amazon CDN (suggested by opus-x)
-na.gmtdmp.com
-lb1-217593028.us-east-1.elb.amazonaws.com
-rp-lb-766892831.us-east-1.elb.amazonaws.com
-server-54-230-216-203.mrs50.r.cloudfront.net
-
-# Telia CDN (suggested by opus-x)
-cs126.wpc.teliasoneracdn.net
-cs283.wpc.teliasoneracdn.net
-
-# Verizon's EdgeCast CDN (suggested by opus-x)
-cs126.wpc.edgecastcdn.net
-cs934.wac.thetacdn.net
-
-# Spotify etc
+# Spotify etc.
 gs5j7zyhogb53dmqmjfqljsq2ykksm3.spotify.com
 audio-ak-spotify-com.akamaized.net
 audio-akp-spotify-com.akamaized.net
