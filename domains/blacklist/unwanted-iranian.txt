@@ -26,6 +26,8 @@ toppopup.com
 irpopup.ir
 talapop.ir
 kaprila.com
+beta.kaprila.com
+cdn.kaprila.com
 adro.ir
 adro.co
 static-cdn.adro.co
