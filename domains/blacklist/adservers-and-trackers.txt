@@ -719,7 +719,7 @@ dj1d6o6ftflzi.cloudfront.net
 
 # Longtail Ad Solutions (also used in JW Player)
 #content.bitsontherun.com  # might break functionality
-content.jwplatform.com
+#content.jwplatform.com  # might break functionality
 v.jwpcdn.com
 
 # Media Innovation Group (no longer operational)
