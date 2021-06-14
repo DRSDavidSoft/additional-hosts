@@ -321,6 +321,9 @@ sp.fastclick.net
 sync.fastclick.net
 fastclick.net
 
+# FireAds: Affiliate Network
+fireads.org
+
 # Foxpush: Push Notifications
 foxpush.net
 js.foxpush.com
