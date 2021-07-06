@@ -22,9 +22,13 @@ tracksfree.com
 debridleech.com
 sixsave.com
 
+# Etcher counterfeit domains (See: forums.balena.io/t/counterfeit-etcher-websites/274606)
+etcher.net
+etcher.download
+
 # MagiskManager (See: xda-developers.com/psa-magiskmanager-com-not-official-website-magisk)
 magiskmanager.com
 
 # R2R Fake Download site
 r2rdownload.com
-www.r2rdownload.com
+
