@@ -996,6 +996,7 @@ clksite.com
 sync.rhythmxchange.com
 m.goadservices.com
 ut.performax.cz
+cdn.bncloudfl.com
 
 # Malware domains related to browser extensions
 # such as NanoDefender and The Great Suspender
