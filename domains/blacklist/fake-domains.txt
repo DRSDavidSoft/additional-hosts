@@ -22,6 +22,10 @@ tracksfree.com
 debridleech.com
 sixsave.com
 
+# uBlock fake domain
+ublock.org
+ublockerext.com
+
 # Etcher counterfeit domains (See: forums.balena.io/t/counterfeit-etcher-websites/274606)
 etcher.net
 etcher.download
