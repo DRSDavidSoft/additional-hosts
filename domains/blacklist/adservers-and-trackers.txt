@@ -25,9 +25,6 @@ adservice.google.*
 analytics.google.com
 apps5.oingo.com
 service.urchin.com
-ee-in-f95.1.e100.net
-prg03s02-in-f110.1e100.net
-prg03s02-in-f99.1e100.net
 googleadapis.l.google.com
 pagead-googlehosted.l.google.com
 #googlehosted.l.googleusercontent.com
