@@ -614,6 +614,10 @@ eip-ntt.audio-ak.spotify.com.akahost.net
 # Urban Airship (i.e. data protected)
 combine.urbanairship.com
 
+# UserLeap Product & User Research Software
+userleap.com
+api.userleap.com
+
 # Unity Ads
 config.unityads.unity3d.com
 unityads.unity3d.com
