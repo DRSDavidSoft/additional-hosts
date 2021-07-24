@@ -1,0 +1,31 @@
+# Google AdWords, AdSense and Analytics
+pagead*.googlesyndication.com
+imageads*.googleadservices.com
+adservice.google.*
+
+# Google DoubleClick Ads
+doubleclick.*
+
+# Google AdMob Ads
+admob.*
+
+# Crashlytics
+settings-crashlytics-*
+
+# Spotify's ads and tracking
+ads-*.spotify.com
+pixel*.spotify.com
+
+# mOcean/Mojiva/PubMatic
+#.ads*.mojiva.com
+#img.ads*.mojiva.com
+#img.ads*.mocean.mobi
+
+# Unity Ads
+unityads.*
+
+# AppAds
+jupiter*.appads.com
+neptune*.appads.com
+saturn*.appads.com
+req*.appads.com

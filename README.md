@@ -20,6 +20,8 @@ Each domain is only added after through research and tests in order to make sure
 | **Search blacklist**                    | Blocks useless, shady and annoying domains from from appearing in search engine results. | [📝 `search-blacklist.txt`](https://raw.githubusercontent.com/DRSDavidSoft/additional-hosts/master/domains/blacklist/search-blacklist.txt) |
 | **Unwanted Iranian domains**            | Blocks various scams and popups when visiting Iranian websites.<br/><sup>e.g. fake Download buttons, Pop-unders, etc</sup> | [📝 `unwanted-iranian.txt`](https://raw.githubusercontent.com/DRSDavidSoft/additional-hosts/master/domains/blacklist/unwanted-iranian.txt) |
 
+**NOTE:** Wildcard domains are present in the [📁 `/wildcard-domains/blacklist`](https://github.com/DRSDavidSoft/additional-hosts/tree/master/wildcard-domains/blacklist) directory.
+
 ### Whitelist Domains
 I intent to also publish the whitelists that I use, which are also hand-picked.  The `whitelist` _will_ be published under the [📁 `/domains/whitelist`](https://github.com/DRSDavidSoft/additional-hosts/blob/master/domains/blacklist/fake-domains.txt) folder, when released.  In the meantime, please contact me if you want me to publish my whitelist sooner.
 
