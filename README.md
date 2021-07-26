@@ -68,11 +68,11 @@ These are some of the other lists that you should _definitely_ be using alongsid
     `https://winhelp2002.mvps.org/hosts.txt`
 - [Steven Black's host file](https://github.com/StevenBlack/hosts):  
     `https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts`
-- [Lightswitch05's Ads and tracking hosts](https://github.com/lightswitch05/hosts):
+- [Lightswitch05's Ads and tracking hosts](https://github.com/lightswitch05/hosts):  
     `https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt`
-- [AdAway Hosts](https://github.com/AdAway/AdAway/wiki/HostsSources)
+- [AdAway Hosts](https://github.com/AdAway/AdAway/wiki/HostsSources):  
     `https://adaway.org/hosts.txt`
-- [WaLLy3K's Ads and trackers personal blacklist](https://firebog.net/about)
+- [WaLLy3K's Ads and trackers personal blacklist](https://firebog.net/about):  
     `https://v.firebog.net/hosts/static/w3kbl.txt`
 
 ### My set-up
