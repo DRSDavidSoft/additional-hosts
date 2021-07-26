@@ -59,6 +59,7 @@ I used to use [this](https://github.com/zeffy/dnscrypt-lists/blob/9d776690e901e1
 
 ### Sources to use alongside mine
 These are some of the other lists that you should _definitely_ be using alongside with mine:  
+
 - [Peter Lowe’s Ad and tracking server list](https://pgl.yoyo.org/adservers/):  
     `https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=1&mimetype=plaintext`
 - [Dan Pollock’s hosts file](https://someonewhocares.org/hosts/):  
@@ -67,10 +68,16 @@ These are some of the other lists that you should _definitely_ be using alongsid
     `https://winhelp2002.mvps.org/hosts.txt`
 - [Steven Black's host file](https://github.com/StevenBlack/hosts):  
     `https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts`
+- [Lightswitch05's Ads and tracking hosts](https://github.com/lightswitch05/hosts):
+    `https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt`
+- [AdAway Hosts](https://github.com/AdAway/AdAway/wiki/HostsSources)
+    `https://adaway.org/hosts.txt`
+- [WaLLy3K's Ads and trackers personal blacklist](https://firebog.net/about)
+    `https://v.firebog.net/hosts/static/w3kbl.txt`
 
 ### My set-up
-I combine my lists with some other lists and generate a `domains-blacklist.txt` file on two servers that I run (one as a redundant).  
-<sub>The source list includes  ~1500 links, and resolves to about 80 million records.  The servers both have **8GBs** of RAM, and for my usecase about ~15% CPU load on average.</sub>
+I combine my lists with some other lists and generate a final `domains-blacklist.txt` file, that is used on the two servers that I run (one as a redundant).  
+<sub>The source list includes ~1500 links, and resolves to about 80 million records.  The servers both have **8GBs** of RAM, and for my usecase about ~15% CPU load on average.</sub>
 
 **Here's a diagram of software setup on both of the servers:**
 
