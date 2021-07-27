@@ -301,6 +301,10 @@ exoclick.com
 exosrv.com
 realsrv.com
 
+# ExoticAds Advertising Network
+cdn.exoticads.com
+exoticads.com
+
 # Fastclick
 cdn.fastclick.net
 code.fastclick.net
