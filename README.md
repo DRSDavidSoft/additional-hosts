@@ -20,13 +20,14 @@ Each domain is only added after through research and tests in order to make sure
 | **Search blacklist**                    | Blocks useless, shady and annoying domains from from appearing in search engine results. | [📝 `search-blacklist.txt`](https://raw.githubusercontent.com/DRSDavidSoft/additional-hosts/master/domains/blacklist/search-blacklist.txt) |
 | **Unwanted Iranian domains**            | Blocks various scams and popups when visiting Iranian websites.<br/><sup>e.g. fake Download buttons, Pop-unders, etc</sup> | [📝 `unwanted-iranian.txt`](https://raw.githubusercontent.com/DRSDavidSoft/additional-hosts/master/domains/blacklist/unwanted-iranian.txt) |
 
-**NOTE:** Wildcard domains are present in the [📁 `/wildcard-domains/blacklist`](https://github.com/DRSDavidSoft/additional-hosts/tree/master/wildcard-domains/blacklist) directory.
+**👉 NOTE:** Wildcard domains are present in the [📁 `/wildcard-domains/blacklist`](https://github.com/DRSDavidSoft/additional-hosts/tree/master/wildcard-domains/blacklist) directory.
 
 ## Whitelist Domains
-I intent to also publish the whitelists that I use, which are also hand-picked.  The `whitelist` _will_ be published under the [📁 `/domains/whitelist`](https://github.com/DRSDavidSoft/additional-hosts/blob/master/domains/blacklist/fake-domains.txt) folder, when released.  In the meantime, please contact me if you want me to publish my whitelist sooner.
+I intent to also publish the whitelists that I use, which are also hand-picked.  The `whitelist` domains _will_ be published under the [📁 `/domains/whitelist`](https://github.com/DRSDavidSoft/additional-hosts/blob/master/domains/whitelist) folder, when released.  
+In the meantime, please contact me if you'd like to receive information about my whitelists.
 
 ## Format
-This list is available in **domains-only** format at the moment, with the following principles:
+This list is available in **domains-only** format at the moment, with the following properties:
 
 - The `#` or `!` denotes a **comment**, and might come at the begining or after a host entry.
 - Each line only contains a single hostname.
@@ -45,7 +46,7 @@ The provided lists are compatible with:
 
 You can use it on either a server, or using browser extensions, you can filter sites on the client side.
 
-Read **[Olivier Butterbach](https://github.com/obutterbach)**'s excellent post on Medium to set up Pi-hole:  
+🕳 Read **[Olivier Butterbach](https://github.com/obutterbach)**'s excellent post on Medium to set up Pi-hole:  
 https://medium.com/@obutterbach/unlock-the-full-potential-of-pihole-e795342e0e36
 
 ## Aggregated lists
