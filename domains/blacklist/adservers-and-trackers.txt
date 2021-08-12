@@ -26,7 +26,6 @@ googleadapis.l.google.com
 pagead-googlehosted.l.google.com
 #googlehosted.l.googleusercontent.com
 #redirector.gvt1.com  # might break functionality
-#geo3.ggpht.com  # this will break Google mapps images
 www.googleadservices.com
 www.googletagservices.com
 googletagmanager.com
