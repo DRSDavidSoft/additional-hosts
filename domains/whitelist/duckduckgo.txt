@@ -1,0 +1,7 @@
+## DuckDuckGo domains
+
+duckduckgo.com
+www.duckduckgo.com
+external-content.duckduckgo.com
+icons.duckduckgo.com
+ddg.gg
