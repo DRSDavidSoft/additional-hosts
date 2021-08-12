@@ -50,3 +50,4 @@ khms3.googleapis.com
 # YouTube
 yt3.ggpht.com
 youtube.com
+i.ytimg.com
