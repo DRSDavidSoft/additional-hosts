@@ -1,0 +1,15 @@
+## GitHub domains
+
+github.dev
+github.com
+github.io
+alive.github.com
+live.github.com
+avatars.githubusercontent.com
+avatars0.githubusercontent.com
+avatars1.githubusercontent.com
+avatars2.githubusercontent.com
+avatars3.githubusercontent.com
+github.map.fastly.net
+githubusercontent.com
+raw.githubusercontent.com
