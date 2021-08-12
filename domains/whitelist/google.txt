@@ -1,4 +1,12 @@
+##
 ## Google domains
+##
+
+# Google Fonts
+fonts.gstatic.com
+fonts.google.com
 
 # Google Maps – developers.google.com/maps/gmp-domains
 geo3.ggpht.com
+maps.gstatic.com
+maps.google.com
