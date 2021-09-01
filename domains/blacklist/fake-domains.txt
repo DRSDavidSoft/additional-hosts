@@ -23,6 +23,9 @@ anydebrid.com
 debridleech.com
 sixsave.com
 
+# Fake (scam) general survey/offer domains
+imei-tracker.com
+
 # uBlock fake domain
 ublock.org
 ublockerext.com
