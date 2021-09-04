@@ -6,3 +6,4 @@ siteindices.com
 softoware.org
 uptodown.com
 gitmemory.com
+partitionwizard.com
