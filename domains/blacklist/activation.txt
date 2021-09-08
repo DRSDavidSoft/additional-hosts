@@ -396,6 +396,9 @@ widgetcast.reallusion.com
 da.reallusion.com
 ctifiles2.reallusion.com
 
+# Rhinoceros 3D 
+api.mcneel.com
+
 # SmartAssembly
 sawebservice.red-gate.com
 
