@@ -26,6 +26,9 @@ sixsave.com
 # Fake (scam) general survey/offer domains
 imei-tracker.com
 
+# Fake emulation domains (Watch: youtu.be/yIMseCc9tZY?t=78)
+pcsx4.com
+
 # uBlock fake domain
 ublock.org
 ublockerext.com
