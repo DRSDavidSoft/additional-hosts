@@ -110,6 +110,10 @@ ads.youtube.com
 # Alexa Metrics
 certify-js.alexametrics.com
 
+# Apple Metrics
+metrics.apple.com
+metrics.icloud.com
+
 # Admedo
 admedo.com
 l.admedo.com
