@@ -576,17 +576,17 @@ www.spotx.tv
 assets.spotify.com
 
 # Spotify etc.
-audio-ak-spotify-com.akamaized.net
-audio-akp-spotify-com.akamaized.net
-audio-ak.spotify.com.eip.akadns.net
-audio4-akp.spotify.com.edgesuite.net
-audio4-ak.spotify.com.edgesuite.net
-audio-akp.spotify.com.edgesuite.net
-audio-ak.spotify.com.edgesuite.net
-audio-ake.spotify.com.edgesuite.net
-eip-onnet.audio-ak.spotify.com.akahost.net
-eip-tata.audio-ak.spotify.com.akahost.net
-eip-ntt.audio-ak.spotify.com.akahost.net
+#audio-ak-spotify-com.akamaized.net
+#audio-akp-spotify-com.akamaized.net
+#audio-ak.spotify.com.eip.akadns.net
+#audio4-akp.spotify.com.edgesuite.net
+#audio4-ak.spotify.com.edgesuite.net
+#audio-akp.spotify.com.edgesuite.net
+#audio-ak.spotify.com.edgesuite.net
+#audio-ake.spotify.com.edgesuite.net
+#eip-onnet.audio-ak.spotify.com.akahost.net
+#eip-tata.audio-ak.spotify.com.akahost.net
+#eip-ntt.audio-ak.spotify.com.akahost.net
 
 # The following lines are known to interfere with some parts of Spotify
 #open.spotify.com
