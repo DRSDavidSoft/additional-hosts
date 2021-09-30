@@ -415,6 +415,7 @@ seen-on-screen.thewhizmarketing.com
 mc.yandex.ru
 an.yandex.ru
 rosenberg.appmetrica.yandex.net
+appmetrica.yandex.net
 #pixel.yabidos.com
 #avatars.mds.yandex.net
 
