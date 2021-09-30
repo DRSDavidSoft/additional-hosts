@@ -411,9 +411,10 @@ thewhizmarketing.com
 tvhero.thewhizmarketing.com
 seen-on-screen.thewhizmarketing.com
 
-# Yandex
+# Yandex Analytics and Marketing
 mc.yandex.ru
 an.yandex.ru
+rosenberg.appmetrica.yandex.net
 #pixel.yabidos.com
 #avatars.mds.yandex.net
 
