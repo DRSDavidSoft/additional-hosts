@@ -94,6 +94,8 @@ autodesk.pl
 ns1.autodesk.com
 ns2.autodesk.com
 ns3.autodesk.com
+ns4.autodesk.com
+ns5.autodesk.com
 126114-app1.autodesk.com
 94175-app1.autodesk.com
 94184-app2.autodesk.com
@@ -157,8 +159,6 @@ mail-relay.autodesk.com
 mneprdext-svc.autodesk.com
 mut.autodesk.com
 nbugma-dmz.autodesk.com
-ns4.autodesk.com
-ns5.autodesk.com
 nut.autodesk.com
 otw-new.autodesk.com
 otwdownloads.autodesk.com
