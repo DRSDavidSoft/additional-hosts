@@ -9,30 +9,36 @@
 ## Introduction
 This is a list of categorized domains, with additional entries for wildcard blocking.  The domains are documented as to keep a record of what is being blocked or allowed.  The primary focus is to maximize blocking unwanted hosts while **guaranteeing** not to break any useful services or legitimate websites.  
 
-Each domain is only added after through research and tests in order to make sure it should be _intentionally blocked_.
+Each domain is only added after through research and tests in order to make sure it should be _intentionally blocked_.  If you found _any_ domains that shouldn't be on these lists, please feel free to [open an issue](https://github.com/DRSDavidSoft/additional-hosts/issues/new).
 
 ## Blacklist Domains
-| List Title                              | Description                                                   | Download Domains List |
+| List Title                              | Description                                                   | Download List         |
 | --------------------------------------- | ------------------------------------------------------------- | --------------------- |
-| **Ad and tracker servers**              | Blocks ads and trackers, and anything inbetween.              | [📝 `adservers-and-trackers.txt`](https://raw.githubusercontent.com/DRSDavidSoft/additional-hosts/master/domains/blacklist/adservers-and-trackers.txt) |
+| **Ad and tracker servers**              | Blocks advertisement and trackers, and anything inbetween.    | [📝 `adservers-and-trackers.txt`](https://raw.githubusercontent.com/DRSDavidSoft/additional-hosts/master/domains/blacklist/adservers-and-trackers.txt) |
 | **Activation servers**                  | Blocks license verification and software activation.<br/><sup>This list is intended to prevent products from expiring when they detect an invalid license.</sup> | [📝 `activation.txt`](https://raw.githubusercontent.com/DRSDavidSoft/additional-hosts/master/domains/blacklist/activation.txt) |
-| **Fake domains**                        | Blocks copycat, scam and fake domains that imitate other well-known websites, for various reasons. | [📝 `fake-domains.txt`](https://raw.githubusercontent.com/DRSDavidSoft/additional-hosts/master/domains/blacklist/fake-domains.txt) |
+| **Fake domains**                        | Blocks copycat, scam and fake domains.</br><sup>These domains may imitate other well-known websites for various reasons, or promise to provide a functionality that they actually don't do.</sup> | [📝 `fake-domains.txt`](https://raw.githubusercontent.com/DRSDavidSoft/additional-hosts/master/domains/blacklist/fake-domains.txt) |
 | **Search blacklist**                    | Blocks useless, shady and annoying domains from from appearing in search engine results. | [📝 `search-blacklist.txt`](https://raw.githubusercontent.com/DRSDavidSoft/additional-hosts/master/domains/blacklist/search-blacklist.txt) |
-| **Unwanted Iranian domains**            | Blocks various scams and popups when visiting Iranian websites.<br/><sup>e.g. fake Download buttons, Pop-unders, etc</sup> | [📝 `unwanted-iranian.txt`](https://raw.githubusercontent.com/DRSDavidSoft/additional-hosts/master/domains/blacklist/unwanted-iranian.txt) |
+| **Unwanted Iranian domains**            | Blocks various scams and popups when visiting Iranian websites.<br/><sup>e.g. fake Download Buttons, pop-unders, trackers, etc.</sup> | [📝 `unwanted-iranian.txt`](https://raw.githubusercontent.com/DRSDavidSoft/additional-hosts/master/domains/blacklist/unwanted-iranian.txt) |
 
-**👉 NOTE:** Wildcard domains are present in the [📁 `/wildcard-domains/blacklist`](https://github.com/DRSDavidSoft/additional-hosts/tree/master/wildcard-domains/blacklist) directory.
+_It is recommended that these lists be used in CNAME, Wildcard blocking mode._
+
+**👉 NOTE:** Additional wildcard domains are present in the [📁 `/wildcard-domains/blacklist`](https://github.com/DRSDavidSoft/additional-hosts/tree/master/wildcard-domains/blacklist) directory.
 
 ## Whitelist Domains
-I intent to also publish the whitelists that I use, which are also hand-picked.  The `whitelist` domains _will_ be published under the [📁 `/domains/whitelist`](https://github.com/DRSDavidSoft/additional-hosts/blob/master/domains/whitelist) folder, when released.  
+The `whitelist` domains that I use – which are also hand-picked – are being categorized, and _will_ be published under the [📁 `/domains/whitelist`](https://github.com/DRSDavidSoft/additional-hosts/blob/master/domains/whitelist) directory when released.  
 In the meantime, please contact me if you'd like to receive information about my whitelists.
 
 ## Format
-This list is available in **domains-only** format at the moment, with the following properties:
+The lists are provided only in **domains** format at the moment, with the following properties:
 
 - The `#` or `!` denotes a **comment**, and might come at the begining or after a host entry.
 - Each line only contains a single hostname.
 - The `*` character represents a wild-card (which [**Pi-hole**](https://pi-hole.net/) might _not_ support, but [**DNSCrypt-proxy**](https://dnscrypt.info/) will – which is what I'm using at the moment.)
 - All whitespace (including new line, tabs, spaces, etc) should be ignored.
+
+Other lists can feel free to remove all whitespace and comments from my lists when/if mine are included.
+
+**👉 NOTE:** If you would like to use my lists as your `/etc/hosts` file, first you would need to convert the domains format to `IPv4` (i.e. `127.0.0.1` or `0.0.0.0`) format.  However, since the hosts file does not support wildcard and/or CNAME blocking, I haven't provided this format for download.
 
 ## Sources
 The domain entries on this list are hand-picked, and mainly added by analyzing the traffic generated by the devices I use.  I intend to focus on domains related to _both_ websites and mobile apps.  This will include the obvious pop-ups and pop-unders, frame-based ads, 3<sup>rd</sup> party image and video ads, mobile in-app banners -- as well as hidden tracking and other unnecessary bloated spyware that is ususally bundled with common apps that are downloaded, and the websites you visit.
@@ -52,7 +58,7 @@ https://medium.com/@obutterbach/unlock-the-full-potential-of-pihole-e795342e0e36
 ## Aggregated lists
 The following aggregated lists automatically includes the domains in my lists.  You can use the aggregated lists such as:
 - **[1Hosts (Pro)](https://github.com/badmojr/1Hosts/tree/master/Pro)** – includes `adservers-and-trackers` and `unwanted-iranian` lists
-- **[oisd.nl](https://oisd.nl/?p=dl)** – only includes `unwanted-iranian` list
+- **[oisd.nl](https://oisd.nl/?p=dl)** – includes `adservers-and-trackers` and `unwanted-iranian` lists
 
 I used to use [this](https://github.com/zeffy/dnscrypt-lists/blob/9d776690e901e106ea5707e4c83f73a07ed2470d/script/make_blacklist.py) python script alongside DNScrypt on my VPS instead of running Pi-hole.
 
@@ -76,7 +82,7 @@ These are some of the other lists that you should _definitely_ be using alongsid
 - [WaLLy3K's Ads and trackers personal blacklist](https://firebog.net/about):  
     `https://v.firebog.net/hosts/static/w3kbl.txt`
 
-## My Set Up
+## Set-Up / Configuration
 I combine my lists with some other lists and generate a final `domains-blacklist.txt` file, that is used on the two servers that I run (one as a redundant).  
 <sub>The source list includes ~1500 links, and resolves to about 80 million records.  The servers both have **8GBs** of RAM, and for my usecase about ~15% CPU load on average.</sub>
 
