@@ -31,8 +31,8 @@ In the meantime, please contact me if you'd like to receive information about my
 ## Format
 The lists are provided only in **domains** format at the moment, with the following properties:
 
-- The `#` or `!` denotes a **comment**, and might come at the begining or after a host entry.
-- Each line only contains a single hostname.
+- The `#` denotes a **comment**, and may come at a line's beginning.
+- Lines only contain a single hostname.
 - The `*` character represents a wild-card (which [**Pi-hole**](https://pi-hole.net/) might _not_ support, but [**DNSCrypt-proxy**](https://dnscrypt.info/) will – which is what I'm using at the moment.)
 - All whitespace (including new line, tabs, spaces, etc) should be ignored.
 
