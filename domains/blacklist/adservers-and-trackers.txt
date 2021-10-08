@@ -346,6 +346,12 @@ ads-east.colo.adsymptotic.com
 # GeoTrust cert revocation server
 #gtssl2-ocsp.geotrust.com
 
+# GoAdServer
+goadserver.com
+www.goadserver.com
+goasrv.com
+go.goasrv.com
+
 # Integral Ad Science
 anycast.pixel.adsafeprotected.com
 dt.adsafeprotected.com
