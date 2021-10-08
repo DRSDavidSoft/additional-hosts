@@ -379,6 +379,15 @@ px.ads.linkedin.com
 localytics.com
 analytics.localytics.com
 
+# Parsely Tracking
+cdn.parsely.com
+parsely.com
+parse.ly
+
+# Pub Network
+a.pub.network
+pub.network
+
 # PubMatic Ads
 pubmatic.com
 aud.pubmatic.com
@@ -469,6 +478,9 @@ japan.inmobi.com
 adtracker.inmobi.com
 js.inmobi-jp.com
 inmobi.com
+
+# RedGIFs Telemetry
+metrics.redgifs.com
 
 # SoundCloud Telemetry
 telemetry.soundcloud.com
@@ -719,8 +731,13 @@ www.omaze.com
 # OMG Inc.
 ads.cdn.live
 
+# QuantCast Advertising
+quantcast.mgr.consensu.org
+quantcast.com
+
 # QuantServe Tracking
 pixel.quantserve.com
+secure.quantserve.com
 
 # Taboola Ads
 cdn.taboola.com
