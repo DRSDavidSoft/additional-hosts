@@ -280,6 +280,9 @@ e.crashlytics.com
 reports.crashlytics.com
 settings.crashlytics.com
 
+# Sentry: App Monitoring and Crash Reporting
+sentry.io
+
 # Epom Ads
 epom.com
 apps.epom.com
