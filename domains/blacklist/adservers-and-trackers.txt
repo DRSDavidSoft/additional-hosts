@@ -680,6 +680,7 @@ pipe.aria.microsoft.com
 vortex.data.microsoft.com
 events.data.microsoft.com
 telemetry.microsoft.com
+#graph.microsoft.com
 
 # Facebook Ads
 atdmt.com
@@ -694,6 +695,7 @@ db3aqu.atdmt.com
 graph.instagram.com
 dit.whatsapp.net
 web.facebook.com
+#graph.facebook.com  # breaks some Facebook functionality
 
 # Amazon Ads
 amazon-adsystem.com
