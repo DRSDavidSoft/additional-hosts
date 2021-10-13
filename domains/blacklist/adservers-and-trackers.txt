@@ -285,6 +285,7 @@ epom.com
 apps.epom.com
 
 # TrafficJunky Advertising (MG Freesites Ltd.)
+trafficjunky.com
 trafficjunky.net
 media.trafficjunky.net
 ads.trafficjunky.net
@@ -674,6 +675,12 @@ mobileads.msn.com
 bingads.microsoft.com
 #apps.skype.com  # might interfere with Skype Home
 
+# Microsoft Tracking
+pipe.aria.microsoft.com
+vortex.data.microsoft.com
+events.data.microsoft.com
+telemetry.microsoft.com
+
 # Facebook Ads
 atdmt.com
 ec.atdmt.com
@@ -683,6 +690,11 @@ c.atdmt.com
 aidps.atdmt.com
 db3aqu.atdmt.com
 
+# Facebook Tracking
+graph.instagram.com
+dit.whatsapp.net
+web.facebook.com
+
 # Amazon Ads
 amazon-adsystem.com
 s.amazon-adsystem.com
@@ -690,6 +702,10 @@ c.amazon-adsystem.com
 aax.amazon-adsystem.com
 aax-us-west.amazon-adsystem.com
 mads.amazon.com
+
+# Amazon/Alexa Tracking
+certify.alexametrics.com
+certify-js.alexametrics.com
 
 # Hosted by Amazon CloudFront
 d26zuh3orto56v.cloudfront.net
@@ -1011,3 +1027,4 @@ api.zcoup.com
 zcoup.com
 survey-smiles.com
 secure.nch.com.au
+tsyndicate.com
