@@ -1,5 +1,5 @@
 ##
-## Popup, Banners and other Advertisments Providers
+## Popup, Banners and other Advertisment Providers
 ##
 
 alipopup.ir
@@ -46,6 +46,7 @@ moat.com
 anetwork.ir
 clickyab.com
 adad.ir
+s.adad.ir
 adment.me
 adment.space
 adnegah.ir
@@ -166,6 +167,14 @@ adserver.netshahr.com
 tavoos.net
 phoenixad.io
 hiperad.com
+landyab.com
+merita.ir
+impressions.ir
+api.sanjagh.com
+sanjagh.com
+sanjagh.net
+appsharj.com
+api.appsharj.com
 
 
 ##
@@ -254,7 +263,7 @@ adparsa.com
 
 
 ##
-## Scam Websites (e.g. Fake Download Buttons and Other Misleading Content)
+## Scam/Spam Websites (e.g. Fake Download Buttons and Other Misleading Content)
 ##
 
 app2ads.com
@@ -357,6 +366,7 @@ app.adtrace.io
 adtrace.io
 cheshmak.me
 sdk.cheshmak.me
+networksara.com
 
 
 ##
@@ -396,6 +406,9 @@ yasell.biz
 
 # reason: excessive advertisment; scamming game
 # zula.ir
+
+# push notifications & email marketing
+najva.com
 
 # reason: unwanted iranian advertisement; unwanted redirect
 peyvandha.ir
