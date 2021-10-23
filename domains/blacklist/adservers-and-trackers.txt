@@ -193,8 +193,9 @@ supersonicads.com
 supersonicads-a.akamaihd.net
 init.supersonicads.com
 
-# Vungle: Mobile advertising, app monetization
+# Vungle: Mobile advertising and App monetization
 vungle.com
+api.vungle.com
 ads.api.vungle.com
 
 # Amplitude: Analaytics for web and mobile products
