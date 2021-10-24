@@ -870,7 +870,7 @@ i.jumptap.com
 bo.jumptap.com
 
 # Medialytics: Video analytics
-.medialytics.com
+medialytics.com
 a.medialytics.com
 c.medialytics.com
 p.medialytics.com
