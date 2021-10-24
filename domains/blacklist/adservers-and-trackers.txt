@@ -120,6 +120,7 @@ l.admedo.com
 pj.l.admedo.com
 
 # AdWhirl (part of AdMob)
+adwhirl.com
 met.adwhirl.com
 mob.adwhirl.com
 
@@ -148,11 +149,11 @@ global.appnext.com
 cdn.appnext.com
 appnext.com
 
-# AppNexus Ads
+# AppNexus Ads (Part of AT&T's Xandr, NY based)
 a.adk2x.com
+adk2x.com
 adnxs.com
 adplexmedia.adk2x.com
-adnxs.comadplexmedia.adk2x.com
 ams1-ib.adnxs.com
 lax1-ib.adnxs.com
 ib.adnxs.com
@@ -844,6 +845,7 @@ mwc.velti.com
 atti.velti.com
 
 # Vserv Mobile Advertising
+vserv.mobi
 a.vserv.mobi
 c.vserv.mobi
 sf.vserv.mobi
@@ -868,6 +870,7 @@ i.jumptap.com
 bo.jumptap.com
 
 # Medialytics: Video analytics
+.medialytics.com
 a.medialytics.com
 c.medialytics.com
 p.medialytics.com
@@ -969,6 +972,9 @@ ads-ec.adaptv.advertising.com
 ads-test.adaptv.advertising.com
 ads-wc.adaptv.advertising.com
 
+# Xandr, Inc: AT&T's Advertising and Analytics
+xandr.com
+
 # Verizon/ONE/AOL
 advertising.com
 
@@ -994,10 +1000,13 @@ serve.vdopia.com
 cdn.vdopia.com
 
 # Zynga Games Ads
+zynga.com
+ads.zynga.com
 r.ads.zynga.com
 zynga2-a.akamaihd.net
 
 # List of more ads
+bestcontentnetwork.top
 i.bestcontentnetwork.top
 a.bestcontentnetwork.top
 smpop.icfcdn.com
