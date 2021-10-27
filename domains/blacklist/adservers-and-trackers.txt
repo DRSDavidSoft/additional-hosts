@@ -923,14 +923,14 @@ track.adform.net
 adfonic.net
 as.adfonic.net
 
-# AdTiming: Mobile marketing and ad-based revenue
+# AdTiming: Mobile marketing and ad-based revenue (based in Singapore)
 adtiming.com
 sdk.adtiming.com
 
-# Smart Adserver
+# Smart Adserver (based in Paris, France)
 smartadserver.com
 
-# Flashtalking
+# Flashtalking: Ad server (by Mediaocean, based in London, United Kingdom)
 flashtalking.com
 secure.flashtalking.com
 
@@ -981,10 +981,15 @@ advertising.com
 # Forter: Fraud Prevention
 078d9f6a6dc1.cdn4.forter.com
 
-# Greystripe
+# Greystripe: Mobile advertising platform/network (based in US)
+greystripe.com
 adsx.greystripe.com
 ads2.greystripe.com
 c.greystripe.com
+
+# Tradedoubler AB: Digital marketing, Global affiliate marketing (based in Stockholm, Sweden)
+clk.tradedoubler.com
+tradedoubler.com
 
 # Mobvista: Mobile analytics
 mobvista.com
