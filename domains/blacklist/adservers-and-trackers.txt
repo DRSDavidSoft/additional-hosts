@@ -670,7 +670,8 @@ ads2.msads.net
 ad.msn.com
 rad.msn.com
 flex.msn.com
-g.msn.com
+#g.live.com       # The following lines are known to
+#g.msn.com        # interfere with some useful products (e.g. OneDrive Downloads)
 c.msn.com
 0.r.msn.com
 ads.eu.msn.com
