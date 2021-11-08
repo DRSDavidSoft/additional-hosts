@@ -702,6 +702,8 @@ graph.instagram.com
 dit.whatsapp.net
 web.facebook.com
 #graph.facebook.com  # breaks some Facebook functionality
+graph.oculus.com
+graph.facebook-hardware.com
 
 # Amazon Ads
 amazon-adsystem.com
