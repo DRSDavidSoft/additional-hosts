@@ -119,6 +119,12 @@ admedo.com
 l.admedo.com
 pj.l.admedo.com
 
+# Adversal: Self-serve native advertising
+adversal.com
+go.adversal.com
+go2.adversal.com
+go3.adversal.com
+
 # AdWhirl (part of AdMob)
 adwhirl.com
 met.adwhirl.com
