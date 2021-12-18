@@ -390,6 +390,13 @@ cdn.parsely.com
 parsely.com
 parse.ly
 
+# PropellerAds (Part of AdTech): Mobile and Display (self-service) ads
+propellerads.com
+native.propellerads.com
+tracking.propellerads.com
+ad.propellerads.com
+adp.propellerads.com
+
 # Pub Network
 a.pub.network
 pub.network
