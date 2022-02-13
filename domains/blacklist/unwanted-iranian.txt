@@ -428,14 +428,12 @@ networksara.com
 analytics.tapsi.cab
 
 
-
 ##
 ## Email Marketing & Advertising Companies
 ##
 advering.com
 email-iran.com
 zagrox.com
-
 
 
 ##
@@ -452,11 +450,14 @@ terraclicks.com
 goldads.info
 masbian.com
 
+
 ##
 ## Fringe/Scam Websites
 ##
 
 jomehjob.com
+shirazicom.com
+
 
 ##
 ## Personal Blacklist
