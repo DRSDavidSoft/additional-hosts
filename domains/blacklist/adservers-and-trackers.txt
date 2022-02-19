@@ -155,7 +155,7 @@ global.appnext.com
 cdn.appnext.com
 appnext.com
 
-# AppNexus Ads (Part of AT&T's Xandr, NY based)
+# AppNexus Ads (part of AT&T's Xandr, NY based)
 a.adk2x.com
 adk2x.com
 adnxs.com
@@ -209,9 +209,6 @@ ads.api.vungle.com
 api.amplitude.com
 
 # AOL Advertising
-adtechus.com
-adserver.adtechus.com
-aka-cnd-ns.adtechus.com
 ads.aol.co.uk
 ads.web.aol.com
 advertising.aol.com
@@ -812,7 +809,7 @@ mixpanel.com
 switchboard.mixpanel.com
 www.mixpanel.com
 
-# Moat Ads and Analytics
+# Moat (by Oracle): Ads and Analytics (measurement and marketing analytics)
 moatads.com
 js.moatads.com
 moat.pxl.ace.advertising.com
@@ -824,30 +821,30 @@ yts.moatads.com
 wildcard.moatads.com.edgekey.net
 moatpixel.com
 
-# Mobclix
+# Mobclix (based in Palo Alto, CA, US): Mobile ad exchange network
 s.mobclix.com
 ads.mobclix.com
 data.mobclix.com
 
-# MoPub (part of Twitter)
+# MoPub (part of AppLovin): In-app monetization, Ad serving for mobile apps
 mopub.com
 ads.mopub.com
 
 # Twitter
 syndication.twitter.com
 
-# Scorecard Research
+# Scorecard Research (i.e. ComScore): Web analytics and tracking company
 scorecardresearch.com
 b.scorecardresearch.com
 sb.scorecardresearch.com
 udm.scorecardresearch.com
 
-# Smaato Mobile Advertising
+# Smaato: Mobile Advertising (based in San Francisco, California, US)
 soma.smaato.net
 c29new.smaato.net
 smaato.net
 
-# Sizmek Ads
+# Sizmek (partof adtech): Amazon Ads (based in Austin, Texas, US)
 bs.serving-sys.com
 ds.serving-sys.com
 msntest.serving-sys.com
@@ -855,12 +852,12 @@ secure-bs.serving-sys.com
 secure-ds.serving-sys.com
 #conn.skype.commsntest.serving-sys.com
 
-# Velti
+# Velti: Mobile Marketing (based in Dublin, Ireland)
 ru.velti.com
 mwc.velti.com
 atti.velti.com
 
-# Vserv Mobile Advertising
+# Vserv: Mobile Advertising (based in Mumbai, India)
 vserv.mobi
 a.vserv.mobi
 c.vserv.mobi
@@ -868,10 +865,10 @@ sf.vserv.mobi
 ads.vserv.mobi
 admin.vserv.mobi
 
-# Hotjar
+# Hotjar: Website Heatmaps & Behavior Analytics Tools
 hotjar.com
 
-# JuicyAds
+# JuicyAds, Inc. (based in Saskatchewan, Canada): Banner Ads, Native Advertising, and PopUnders
 www.juicyads.com
 js.juicyads.com
 adserver.juicyads.com
@@ -879,7 +876,7 @@ juicyads.com
 jads.co
 poweredby.jads.co
 
-# Jumptap
+# Jumptap LLC (based in Federal Street Boston)
 jumptap.com
 a.jumptap.com
 i.jumptap.com
@@ -908,7 +905,7 @@ req.appads.com
 # AppBrain: Mobile advertising, monetization and analytics
 appbrain.com
 
-# Ad Infuse: Mobile targeted advertising and marketing
+# Ad Infuse: Mobile targeted advertising and marketing (based in US)
 adinfuse.com
 go.adinfuse.com
 ad1.adinfuse.com
@@ -951,10 +948,14 @@ smartadserver.com
 flashtalking.com
 secure.flashtalking.com
 
-# Fyber: Mobile apps monetization platform
+# Fyber (part of Digital Turbine, Inc): Mobile apps monetization platform
+digitalturbine.com
 fyber.com
 
-# Oath's ad:tech (formerly AOL AdTech)
+# Oath ad:tech, owned by Verizon Media (formerly AOL AdTech, based in Frankfurt, Germany)
+adtechus.com
+adserver.adtechus.com
+aka-cnd-ns.adtechus.com
 aka-cdn.adtech.de
 aka-cdn-ns.adtech.de
 adserverams.adtech.de
@@ -969,7 +970,7 @@ adserver-eu.adtech.advertising.com
 hb-us.adtech.advertising.com
 hb-as.adtech.advertising.com
 
-# AdapTV (now AOL's adap.tv)
+# AdapTV (now ONE by AOL's adap.tv)
 cdn.adaptv.advertising.com
 sync.adaptv.advertising.com
 conversions.adaptv.advertising.com
@@ -992,7 +993,7 @@ ads-wc.adaptv.advertising.com
 # Xandr, Inc: AT&T's Advertising and Analytics
 xandr.com
 
-# Verizon/ONE/AOL
+# Verizon Media, ONE by AOL (Oath, Inc.)
 advertising.com
 
 # Forter: Fraud Prevention
@@ -1008,20 +1009,20 @@ c.greystripe.com
 clk.tradedoubler.com
 tradedoubler.com
 
-# Mobvista: Mobile analytics
+# Mobvista Co., Ltd: Mobile analytics (based in Guangzhou, China)
 mobvista.com
 
-# NativeX (formerly W3i): Mobile advertising and marketing
+# NativeX (formerly W3i, part of Mobvista): Mobile advertising and marketing (based in US)
 nativex.com
 w3i.com
 click.w3i.com
 api.w3i.com
 
-# Vdopia Video Ads
+# Vdopia, Inc: Mobile Video Ads (based in San Jose, CA, US)
 serve.vdopia.com
 cdn.vdopia.com
 
-# Zynga Games Ads
+# Zynga Inc. Games Ads (based in US)
 zynga.com
 ads.zynga.com
 r.ads.zynga.com
