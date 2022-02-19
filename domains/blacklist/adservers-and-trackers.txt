@@ -930,10 +930,11 @@ admarvel.s3.amazonaws.com
 a.admarvel.top
 admarvel.top
 
-# Adform (based in Copenhagen, Denmark)
+# Adform: Global digital media advertising (based in Copenhagen, Denmark)
 adform.com
 adform.net
 track.adform.net
+a2.adform.net
 
 # Adfonic (formerly byyd, based in London, United Kingdom)
 adfonic.net
