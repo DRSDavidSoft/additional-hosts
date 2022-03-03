@@ -14,6 +14,10 @@ trycracksetup.com
 macsoftdownload.com
 crackvip.com
 allactivationkey.com
+crackedroot.com
+procrackerz.org
+24cracked.com
+onhax.io
 
 # Fake (scam) download domains
 tracksfree.com
@@ -32,17 +36,18 @@ imei-tracker.com
 pcsx4.com
 esxemulator.com
 
-# uBlock fake domain
+# uBlock fake domain (uBlock Origin is completely unrelated to the sites listed below)
 ublock.org
 ublockerext.com
 
 # Etcher counterfeit domains (See: forums.balena.io/t/counterfeit-etcher-websites/274606)
 etcher.net
 etcher.download
+ethceer.com
+balena-etcher-io.com
 
 # MagiskManager (See: xda-developers.com/psa-magiskmanager-com-not-official-website-magisk)
 magiskmanager.com
 
 # R2R Fake Download site
 r2rdownload.com
-
