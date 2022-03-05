@@ -177,7 +177,7 @@ appodeal.com
 # Applift Ads and Analytics
 applift.com
 
-# AppLovin
+# AppLovin: Mobile marketing platform (based in Palo Alto, California)
 vid.applovin.com
 pdn.applovin.com
 assets.applovin.com
@@ -232,7 +232,7 @@ c.adsco.re
 # Adyen Payments
 #live.adyen.com # This wil break Alipay payments
 
-# Batmobi Ads
+# Batmobi Ads: Ad SDK/Digital Marketing (Malware)
 batmobi.net
 batmobil.net
 www.batmobil.net
@@ -255,18 +255,18 @@ calldorado.com
 euw1.calldorado.com
 stats.calldorado.com
 
-# Celtra
+# Celtra: Media Advertising (based in Boston, US)
 cdn.celtra.com
 ads.celtra.com
 cache.celtra.com
 cache-ssl.celtra.com
 track.celtra.com
 
-# Chartboost: Mobile ads and promotions
+# Chartboost: Mobile ads and promotions (based in Barcelona & Beijing)
 chartboost.com
 live.chartboost.com
 
-# Comscore Analytics
+# Comscore, Inc: Analytics and Marketing (based in Reston, Virginia, US)
 comscore.com
 comscore.net
 comscore.org
@@ -277,7 +277,7 @@ comscorenetworks.net
 mycomscore.net
 mycomscore.com
 
-# Crashlytics
+# Crashlytics: Crash reporting tool, owned by Google (previously Twitter)
 crashlytics.163.com
 crashlytics.com
 crashlytics.twimg.com
@@ -288,7 +288,7 @@ settings.crashlytics.com
 # Sentry: App Monitoring and Crash Reporting
 sentry.io
 
-# Epom Ads
+# Epom Ad Server (based in Kiev, Ukraine)
 epom.com
 apps.epom.com
 
@@ -313,7 +313,7 @@ exoclick.com
 exosrv.com
 realsrv.com
 
-# ExoticAds Advertising Network
+# ExoticAds: Advertising Network (based in Irvine, CA, US)
 cdn.exoticads.com
 exoticads.com
 
@@ -503,7 +503,7 @@ metrics.redgifs.com
 # SoundCloud Telemetry
 telemetry.soundcloud.com
 
-# Spotify's ads, tracking and analytics
+# Spotify Ads, Tracking and Analytics
 ads.spotify.com
 adstudio.spotify.com
 adstudio-help.spotify.com
