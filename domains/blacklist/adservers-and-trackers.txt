@@ -688,6 +688,8 @@ ads.eu.msn.com
 adsyndication.msn.com
 live.rads.msn.com
 mobileads.msn.com
+microsoftadvertising.com
+ads.microsoft.com
 bingads.microsoft.com
 #apps.skype.com  # might interfere with Skype Home
 
