@@ -449,6 +449,7 @@ rosenberg.appmetrica.yandex.net
 appmetrica.yandex.net
 #pixel.yabidos.com
 #avatars.mds.yandex.net
+ads.yandex.com
 
 # Yahoo Ads
 ads.yimg.com
@@ -458,6 +459,7 @@ adserver.yahoo.com
 global.adserver.yahoo.com
 na.ads.yahoo.com
 #gemini.yahoo.com
+admanager.yahoo.com
 
 # Yahoo Tracking
 analytics.query.yahoo.com
