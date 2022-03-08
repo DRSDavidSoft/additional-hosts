@@ -451,6 +451,10 @@ appmetrica.yandex.net
 #avatars.mds.yandex.net
 ads.yandex.com
 
+# Yadro Tracking
+counter.yadro.ru
+yadro.ru
+
 # Yahoo Ads
 ads.yimg.com
 ads.yahoo.com
