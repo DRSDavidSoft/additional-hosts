@@ -715,7 +715,7 @@ c.atdmt.com
 aidps.atdmt.com
 db3aqu.atdmt.com
 
-# Facebook Tracking
+# Facebook Tracking, WhatsApp Telemetry
 graph.instagram.com
 dit.whatsapp.net
 web.facebook.com
