@@ -130,8 +130,9 @@ adwhirl.com
 met.adwhirl.com
 mob.adwhirl.com
 
-# AdColony: Mobile advertising and monetization
+# AdColony: Mobile advertising and monetization (based in Los Angeles, California)
 adcolony.com
+adc3-launch.adcolony.com
 
 # Admitad: Affiliate ads network
 admitad.com
