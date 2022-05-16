@@ -257,6 +257,7 @@ sws.corel.com
 dam.corel.com
 deploy.akamaitechnologies.com
 compute-1.amazonaws.com
+dev1.ipm.corel.public.corel.net
 
 # Connectify Hotspot
 activate.connectify.me
