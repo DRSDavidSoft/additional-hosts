@@ -877,6 +877,11 @@ admin.vserv.mobi
 # Hotjar: Website Heatmaps & Behavior Analytics Tools
 hotjar.com
 
+# JetSwap, Inc. (based in London, and Russian Federation)
+jetswap.com
+go.jetswap.com
+main.jetswap.com
+
 # JuicyAds, Inc. (based in Saskatchewan, Canada): Banner Ads, Native Advertising, and PopUnders
 www.juicyads.com
 js.juicyads.com
