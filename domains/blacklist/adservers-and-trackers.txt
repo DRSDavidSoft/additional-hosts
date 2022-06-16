@@ -132,6 +132,7 @@ mob.adwhirl.com
 
 # AdColony: Mobile advertising and monetization (based in Los Angeles, California)
 adcolony.com
+wd.adcolony.com
 adc3-launch.adcolony.com
 
 # Admitad: Affiliate ads network
