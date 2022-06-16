@@ -201,6 +201,9 @@ supersonicads.com
 supersonicads-a.akamaihd.net
 init.supersonicads.com
 
+# SwiftKey Telemetry
+telemetry.api.swiftkey.com
+
 # Vungle: Mobile advertising and App monetization
 vungle.com
 api.vungle.com
