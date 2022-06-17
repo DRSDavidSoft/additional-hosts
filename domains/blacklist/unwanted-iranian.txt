@@ -1,5 +1,5 @@
 ##
-## Popup, Banners and other Advertisment Providers
+## Popup, Banners and Advertisment Providers
 ##
 
 alipopup.ir
@@ -203,6 +203,8 @@ tabligheirani.com
 ads.farakav.com
 #cdn.tabnak.ir # should not be blocked
 adserver.netshahr.com
+adivery.com
+cdn.
 tavoos.net
 phoenixad.io
 hiperad.com
