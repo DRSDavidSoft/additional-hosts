@@ -409,6 +409,9 @@ tracking.propellerads.com
 ad.propellerads.com
 adp.propellerads.com
 
+# PopAds
+popads.media
+
 # Pub Network
 a.pub.network
 pub.network
