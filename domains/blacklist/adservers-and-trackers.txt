@@ -198,6 +198,9 @@ applvn.com
 safedk.com
 config.safedk.com
 
+# SnapChat analytics
+app-analytics-v2.snapchat.com
+
 # Supersonic Game Ads
 supersonicads.com
 supersonicads-a.akamaihd.net
