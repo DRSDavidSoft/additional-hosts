@@ -146,11 +146,12 @@ ulink.adjust.com
 view.adjust.com
 #app.adjust.com # might break functionality
 
-# Braze (formerly AppBoy)
+# Braze, Inc. (formerly AppBoy Inc. 2011-2017) based in New York City
 appboy.com
 dev.appboy.com
 iad.appboy.com
 venitia.iad.appboy.com
+sdk.iad-01.braze.com
 
 # AppNext: App marketing, mobile monetization
 global.appnext.com
