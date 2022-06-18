@@ -84,7 +84,9 @@ These are some of the other lists that you should _definitely_ be using alongsid
 
 ## Set-Up / Configuration
 I combine my lists with some other lists and generate a final `domains-blacklist.txt` file, that is used on the two servers that I run (one as a redundant).  
-<sub>The source list includes ~1500 links, and resolves to about 80 million records.  The servers both have **8GBs** of RAM, and for my usecase about ~15% CPU load on average.</sub>
+<sub>The source list includes ~1500 links, and resolves to about 80 million records (14 million unique top-level domains).  The servers both have **8GBs** of RAM, and for my usecase about ~15% CPU load on average.</sub>
+
+_P.S._ Personally I haven't ran into any major issues blocking this many domains, altough some people consider blocking any amount over >1M domains to be overkill.
 
 **Here's a diagram of software setup on both of the servers:**
 
