@@ -204,7 +204,7 @@ ads.farakav.com
 #cdn.tabnak.ir # should not be blocked
 adserver.netshahr.com
 adivery.com
-cdn.
+cdn.adivery.com
 tavoos.net
 phoenixad.io
 hiperad.com
