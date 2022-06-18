@@ -110,6 +110,9 @@ ads.youtube.com
 # Alexa Metrics
 certify-js.alexametrics.com
 
+# Apple's iAd
+iadsdk.apple.com
+
 # Apple Metrics
 metrics.apple.com
 metrics.icloud.com
