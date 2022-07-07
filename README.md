@@ -81,8 +81,15 @@ These are some of the other lists that you should _definitely_ be using alongsid
     `https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt`
 - [AdAway Hosts](https://github.com/AdAway/AdAway/wiki/HostsSources):  
     `https://adaway.org/hosts.txt`
+- [AdguardDNS](https://adguard-dns.io/en/welcome.html)
+    `https://v.firebog.net/hosts/AdguardDNS.txt`
 - [WaLLy3K's Ads and trackers personal blacklist](https://firebog.net/about):  
     `https://v.firebog.net/hosts/static/w3kbl.txt`
+- [anudeepND's Blacklist](https://github.com/anudeepND/blacklist)
+    `https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt`
+- [EasyList and EasyPrivacy](https://github.com/easylist/easylist):
+    - `https://v.firebog.net/hosts/Easylist.txt`
+    - `https://justdomains.github.io/blocklists/lists/easyprivacy-justdomains.txt`
 
 ## Set-Up / Configuration
 I combine my lists with some other lists and generate a final `domains-blacklist.txt` file, that is used on the two servers that I run (one as a redundant).  
