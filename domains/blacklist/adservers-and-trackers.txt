@@ -516,6 +516,9 @@ adtracker.inmobi.com
 js.inmobi-jp.com
 inmobi.com
 
+# ReviveAds: AdBlock Prevention ("ad-reinsertion")
+reviveads.com
+
 # RedGIFs Telemetry
 metrics.redgifs.com
 
@@ -929,6 +932,9 @@ jupiter.appads.com
 neptune.appads.com
 saturn.appads.com
 req.appads.com
+
+# AdBlockChoices
+adblockchoices.org
 
 # AppBrain: Mobile advertising, monetization and analytics
 appbrain.com
