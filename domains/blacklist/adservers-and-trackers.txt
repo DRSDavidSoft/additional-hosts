@@ -1062,6 +1062,10 @@ ads.zynga.com
 r.ads.zynga.com
 zynga2-a.akamaihd.net
 
+# Alibaba/Taobao Statistics and Analytics (based in Hangzhou, Zhejiang, China)
+mmstat.com
+px.effirst.com
+
 # List of more ads
 bestcontentnetwork.top
 i.bestcontentnetwork.top
