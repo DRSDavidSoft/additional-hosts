@@ -29,3 +29,6 @@ jupiter*.appads.com
 neptune*.appads.com
 saturn*.appads.com
 req*.appads.com
+
+# Braze (Appboy)
+sdk.iad-*.braze.com
