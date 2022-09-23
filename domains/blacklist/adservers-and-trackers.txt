@@ -154,7 +154,8 @@ appboy.com
 dev.appboy.com
 iad.appboy.com
 venitia.iad.appboy.com
-sdk.iad-01.braze.com
+braze.com
+www.braze.com
 
 # AppNext: App marketing, mobile monetization
 global.appnext.com
