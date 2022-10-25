@@ -458,9 +458,24 @@ masbian.com
 ## Fringe/Scam Websites
 ##
 
+# Possible APT 35 relation
 jomehjob.com
 shirazicom.com
 optima-hr.com
+vipjobsglobal.com
+topiranjobs.me
+salamjobs.me
+damkahill.com
+azadijobs.me
+bilal1com.com
+radabala.com
+dream-jobs.org
+dream-jobs.vip
+trnjobs.me
+wazayif-halima.org
+wazayif-halima.com
+damavand-hr.me
+golanjobs.me
 
 
 ##
