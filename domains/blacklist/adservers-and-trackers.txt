@@ -1044,6 +1044,10 @@ c.greystripe.com
 clk.tradedoubler.com
 tradedoubler.com
 
+# Traffic Factory: Advertising Network (based in Prague, Czech Republic)
+trafficfactory.com
+trafficfactory.biz
+
 # Mobvista Co., Ltd: Mobile analytics (based in Guangzhou, China)
 mobvista.com
 
