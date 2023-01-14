@@ -231,6 +231,10 @@ pns.avast.com
 #cert.bandicam.com
 #bandicam.com
 
+$ BartelsMedia ShareMouse
+bartelsmedia.com
+www.bartelsmedia.com
+
 # BitSum and Process Lasso
 activate.bitsum.com
 bitsumactivationserver.com
