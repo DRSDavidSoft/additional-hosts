@@ -338,7 +338,7 @@ realsrv.com
 cdn.exoticads.com
 exoticads.com
 
-# Fastclic: Digital marketing (part of Conversant, based in California, US)
+# Fastclick: Digital marketing (part of Conversant, based in California, US)
 cdn.fastclick.net
 code.fastclick.net
 images.fastclick.net
@@ -390,14 +390,14 @@ fw.adsafeprotected.com
 # Intercom Ads
 #intercom.io
 
-# Kantar Operations Adware
+# Kantar Operations Adware: Data collection (based in London, UK)
 core.insightexpressai.com
 secure.insightexpressai.com
 
 # Leadbolt: Mobile advertising platform (based in Sydney, Australia)
 leadbolt.com
 
-# LEANLAB
+# Leanlab: Tracking (based in Aberdeen, UK)
 track.leanlab.co
 
 # LinkedIn Ads
