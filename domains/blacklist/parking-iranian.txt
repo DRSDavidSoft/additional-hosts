@@ -11,3 +11,4 @@ selva.ir
 xir.ir
 backorder1.xir.ir
 backorder2.xir.ir
+regno.ir
