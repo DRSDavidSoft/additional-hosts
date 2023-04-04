@@ -1073,6 +1073,9 @@ w3i.com
 click.w3i.com
 api.w3i.com
 
+# Nimbus Ads: Mobile advertising (based in New York City)
+adsbynimbus.com
+
 # Vdopia, Inc: Mobile Video Ads (based in San Jose, California, US)
 serve.vdopia.com
 cdn.vdopia.com
