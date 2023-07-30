@@ -231,7 +231,7 @@ pns.avast.com
 #cert.bandicam.com
 #bandicam.com
 
-$ BartelsMedia ShareMouse
+# BartelsMedia ShareMouse
 bartelsmedia.com
 www.bartelsmedia.com
 
@@ -342,6 +342,13 @@ pf.iobit.com
 iunins.iobit.com
 sd.iobit.com
 #iobit.com
+
+# IsoBuster
+isobuster.net
+cdrecovery.net
+isobuster.com
+smart-projects.net
+pvh.smart-projects.biz
 
 # iSkysoft
 cbs.iskysoft.com
