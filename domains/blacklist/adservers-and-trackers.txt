@@ -152,6 +152,11 @@ view.adjust.com
 # Affle: Mobile marketing platform (based in India)
 affle.com
 
+# BODIS: Domain Monetization (based in Tampa, Florida)
+bodis.com
+ns1.bodis.com
+ns2.bodis.com
+
 # Braze, Inc. (formerly AppBoy Inc. 2011-2017, based in New York City)
 appboy.com
 dev.appboy.com
