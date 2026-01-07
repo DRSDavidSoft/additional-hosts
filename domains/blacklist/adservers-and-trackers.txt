@@ -117,7 +117,7 @@ iadsdk.apple.com
 metrics.apple.com
 metrics.icloud.com
 
-# APKCar: Mobile app download site with ad redirects
+# APKCar: Used in advertising trojan malware
 apkcar.com
 
 # Admedo: Self-serve advertising platform (based in London, UK)
@@ -1011,7 +1011,7 @@ secure.flashtalking.com
 digitalturbine.com
 fyber.com
 
-# Flyermobi: Mobile advertising
+# Flyermobi: Used in advertising trojan malware
 flyermobi.com
 
 # Oath ad:tech, owned by Verizon Media (formerly AOL AdTech, based in Frankfurt, Germany)
