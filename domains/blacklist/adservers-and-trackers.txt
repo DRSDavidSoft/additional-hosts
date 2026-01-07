@@ -1008,6 +1008,9 @@ secure.flashtalking.com
 digitalturbine.com
 fyber.com
 
+# Flyermobi: Mobile advertising
+flyermobi.com
+
 # Oath ad:tech, owned by Verizon Media (formerly AOL AdTech, based in Frankfurt, Germany)
 adtechus.com
 adserver.adtechus.com
