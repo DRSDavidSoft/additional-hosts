@@ -117,6 +117,9 @@ iadsdk.apple.com
 metrics.apple.com
 metrics.icloud.com
 
+# APKCar: Mobile app download site with ad redirects
+apkcar.com
+
 # Admedo: Self-serve advertising platform (based in London, UK)
 admedo.com
 l.admedo.com
